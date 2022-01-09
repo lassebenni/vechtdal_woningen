@@ -1,13 +1,14 @@
 from typing import Dict, List
 import requests
 import json
-from datetime import datetime
+
+from models.listing import Listing, create_listing, load_listing
 
 RESULTS_PATH = "data/results.json"
 
-url = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getallobjects/format/json"
+URL = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getallobjects/format/json"
 
-headers = {
+HEADERS = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0",
     "Accept": "application/json, text/plain, */*",
     "Accept-Language": "en-US,en;q=0.5",
@@ -27,66 +28,52 @@ headers = {
 
 
 def scrape_listings():
-    response = requests.request("POST", url, headers=headers)
+    response = requests.request("POST", URL, headers=HEADERS)
 
     _res = json.loads(response.text)
 
     if _res and "result" in _res:
+        fetched_listings = []
+        for listing in _res["result"]:
+            detailed_listing = fetch_detailed_listing(listing["id"])
+            fetched_listings.append(create_listing(detailed_listing))
 
         with open(RESULTS_PATH, "r") as f:
-            current_listings = json.loads(f.read())
-            new_listings = _res["result"]
-            new_listings = add_fields(new_listings)
-            combined_listings = new_listings + current_listings
-            deduplicated_listings = remove_duplicates(combined_listings)
-
-            with open(RESULTS_PATH, "w") as f:
-                f.write(json.dumps(deduplicated_listings, indent=4))
+            results_file = json.loads(f.read())
+            current_listings = [load_listing(listing) for listing in results_file]
+            combined_listings = fetched_listings + current_listings
+            deduplicated_listings = remove_duplicatez(combined_listings)
+            write_listings(deduplicated_listings)
 
 
-def convert_datetime(date_str: str) -> datetime:
-    return datetime.strptime(date_str, "%Y-%m-%d %H:%M:%S")
+def remove_duplicatez(listings: List[Listing] = []) -> List[Listing]:
+    listings_dict = {}
 
-
-def remove_duplicates(listings: List[Dict] = []) -> List[Dict]:
-    filtered_listings: Dict[str, Dict] = {}
-
-    url_keys: Dict[str, str] = {}
     for listing in listings:
-        if "urlKey" not in listing:
-            continue
+        if listing.url not in listings_dict:
+            listings_dict[listing.url] = listing
+        else:
+            if listing.date_added > listings_dict[listing.url].date_added:
+                listings_dict[listing.url] = listing
 
-        if listing["urlKey"] not in url_keys.items():
-            filtered_listings[listing["urlKey"]] = listing
-
-            if "publicationDate" in listing:
-                url_keys[listing["urlKey"]] = listing["publicationDate"]
-                continue
-            else:
-                print("No publication date for listing: {}".format(listing))
-                continue
-
-        elif listing["urlKey"] in url_keys:
-            previous_date_str = url_keys[listing["urlKey"]]
-            previous_date = convert_datetime(previous_date_str)
-            current_date = convert_datetime(listing["publicationDate"])
-
-            if current_date > previous_date:
-                url_key = listing["urlKey"]
-                url_keys[url_key] = listing["publicationDate"]
-                filtered_listings[url_key] = listing
-                print(
-                    f"Newer listing found for {url_key}. Overwrititng".format(listing)
-                )
-                continue
-
-    return [listing for listing in filtered_listings.values()]
+    return [listing for listing in listings_dict.values()]
 
 
-def add_fields(listings: List[Dict] = []) -> List[Dict]:
-    for listing in listings:
-        listing[
-            "url"
-        ] = f"https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/{listing['urlKey']}"
-        listing["fields"] = [x for x in listing.keys()]
-    return listings
+def write_listings(listings: List[Listing] = []):
+    listing_dicts: List[Dict] = [listing.as_dict() for listing in listings]
+    with open(RESULTS_PATH, "w") as f:
+        f.write(json.dumps(listing_dicts, indent=4, default=str, sort_keys=True))
+
+
+def fetch_detailed_listing(listing_id: str):
+    url = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getobject/format/json"
+    response = requests.request("POST", url, headers=HEADERS, data=f"id={listing_id}")
+
+    _res = json.loads(response.text)
+
+    if _res and "result" in _res:
+        listing = _res["result"]
+        return listing
+    else:
+        print(f"No listing found for id: {listing_id}")
+        return None

@@ -2,4 +2,4 @@
 
 Scraper for vechtdal woningen.
 
-[View results](https://flatgithub.com/lassebenni/vechtdal_woningen/blob/master/data/results.json)
+[Full results](https://flatgithub.com/lassebenni/vechtdal_woningen/blob/master/data/results.json?filename=data%2Fresults.json)
