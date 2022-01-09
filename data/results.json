@@ -16,7 +16,7 @@
         "rooms": "3",
         "size": 71,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2646-goudenregenstraat-45-gramsbergen",
-        "year_built": 1966
+        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-03-17 00:00:00",
@@ -35,6 +35,6 @@
         "rooms": "3",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2647-jansteenstraat-29-hardenberg",
-        "year_built": 1964
+        "year_built": "1964"
     }
 ]

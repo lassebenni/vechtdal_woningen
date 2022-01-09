@@ -13,7 +13,7 @@ class Listing:
     reactions: int
     rent: float
     rooms: int
-    year_built: int
+    year_built: str
     size: int
     availableFromDate: str
     date_added: str
@@ -60,5 +60,5 @@ def create_listing(listing: Dict = {}) -> Listing:
         rooms=listing["sleepingRoom"]["amountOfRooms"],
         size=listing["areaDwelling"],
         url=f"https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/{listing['urlKey']}",
-        year_built=listing["constructionYear"],
+        year_built=str(listing["constructionYear"]),
     )
