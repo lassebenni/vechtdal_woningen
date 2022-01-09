@@ -71,7 +71,7 @@ def create_listing(listing: Dict = {}) -> Listing:
 
 
 def remove_duplicatez(listings: List[Listing] = []) -> List[Listing]:
-    listings_dict = {}
+    listings_dict: Dict[str, Listing] = {}
 
     for listing in listings:
         if listing.url not in listings_dict:
