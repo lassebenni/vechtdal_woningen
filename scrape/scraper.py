@@ -35,13 +35,13 @@ def scrape_listings():
 
         with open(RESULTS_PATH, "r") as f:
             current_listings = json.loads(f.read())
-            if current_listings:
-                new_listings = remove_duplicates(current_listings)
-                with open(RESULTS_PATH, "w") as f:
-                    f.write(json.dumps(new_listings, indent=4))
-            else:
-                with open(RESULTS_PATH, "w") as f:
-                    f.write(json.dumps(_res["result"], indent=4))
+            new_listings = _res["result"]
+            new_listings = add_fields(new_listings)
+            combined_listings = new_listings + current_listings
+            deduplicated_listings = remove_duplicates(combined_listings)
+
+            with open(RESULTS_PATH, "w") as f:
+                f.write(json.dumps(deduplicated_listings, indent=4))
 
 
 def convert_datetime(date_str: str) -> datetime:
@@ -81,3 +81,12 @@ def remove_duplicates(listings: List[Dict] = []) -> List[Dict]:
                 continue
 
     return [listing for listing in filtered_listings.values()]
+
+
+def add_fields(listings: List[Dict] = []) -> List[Dict]:
+    for listing in listings:
+        listing[
+            "url"
+        ] = f"https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/{listing['urlKey']}"
+        listing["fields"] = listing.keys()
+    return listings
