@@ -1,8 +1,14 @@
+import logging
 from dataclasses import dataclass
 import dataclasses
+import json
 from typing import Dict, List
 
 from utils.utils import convert_datetime
+
+RESULTS_PATH = "data/results.json"
+
+logger = logging.getLogger(__name__)
 
 
 @dataclass
@@ -62,3 +68,32 @@ def create_listing(listing: Dict = {}) -> Listing:
         url=f"https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/{listing['urlKey']}",
         year_built=str(listing["constructionYear"]),
     )
+
+
+def remove_duplicatez(listings: List[Listing] = []) -> List[Listing]:
+    listings_dict = {}
+
+    for listing in listings:
+        if listing.url not in listings_dict:
+            listings_dict[listing.url] = listing
+        else:
+            if listing.date_added > listings_dict[listing.url].date_added:
+                listings_dict[listing.url] = listing
+
+    return [listing for listing in listings_dict.values()]
+
+
+def write_listings(listings: List[Listing] = []):
+    listing_dicts: List[Dict] = [listing.as_dict() for listing in listings]
+    with open(RESULTS_PATH, "w") as f:
+        f.write(json.dumps(listing_dicts, indent=4, default=str, sort_keys=True))
+
+
+def store_listings(listings: List[Listing] = []):
+    with open(RESULTS_PATH, "r") as f:
+        results_file = json.loads(f.read())
+        current_listings = [load_listing(listing) for listing in results_file]
+        combined_listings = listings + current_listings
+        deduplicated_listings = remove_duplicatez(combined_listings)
+        logger.info(f"{len(deduplicated_listings)} new listings found.")
+        write_listings(deduplicated_listings)

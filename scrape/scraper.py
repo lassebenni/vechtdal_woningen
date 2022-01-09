@@ -3,11 +3,10 @@ from typing import Dict, List
 import requests
 import json
 
-from models.listing import Listing, create_listing, load_listing
+from models.listing import Listing, create_listing, store_listings
 
 logger = logging.getLogger(__name__)
 
-RESULTS_PATH = "data/results.json"
 
 URL = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getallobjects/format/json"
 
@@ -36,40 +35,16 @@ def scrape_listings():
     _res = json.loads(response.text)
 
     if _res and "result" in _res:
-        fetched_listings = []
+
+        fetched_listings: List[Listing] = []
         for listing in _res["result"]:
             detailed_listing = fetch_detailed_listing(listing["id"])
             fetched_listings.append(create_listing(detailed_listing))
 
         if fetched_listings:
-            with open(RESULTS_PATH, "r") as f:
-                results_file = json.loads(f.read())
-                current_listings = [load_listing(listing) for listing in results_file]
-                combined_listings = fetched_listings + current_listings
-                deduplicated_listings = remove_duplicatez(combined_listings)
-                logger.info(f"{len(deduplicated_listings)} new listings found.")
-                write_listings(deduplicated_listings)
+            store_listings(fetched_listings)
         else:
             logger.info("No listings found.")
-
-
-def remove_duplicatez(listings: List[Listing] = []) -> List[Listing]:
-    listings_dict = {}
-
-    for listing in listings:
-        if listing.url not in listings_dict:
-            listings_dict[listing.url] = listing
-        else:
-            if listing.date_added > listings_dict[listing.url].date_added:
-                listings_dict[listing.url] = listing
-
-    return [listing for listing in listings_dict.values()]
-
-
-def write_listings(listings: List[Listing] = []):
-    listing_dicts: List[Dict] = [listing.as_dict() for listing in listings]
-    with open(RESULTS_PATH, "w") as f:
-        f.write(json.dumps(listing_dicts, indent=4, default=str, sort_keys=True))
 
 
 def fetch_detailed_listing(listing_id: str):
