@@ -88,5 +88,5 @@ def add_fields(listings: List[Dict] = []) -> List[Dict]:
         listing[
             "url"
         ] = f"https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/{listing['urlKey']}"
-        listing["fields"] = listing.keys()
+        listing["fields"] = [x for x in listing.keys()]
     return listings
