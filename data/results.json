@@ -1,1 +1,446 @@
-[]
+[
+    {
+        "infoveldKort": "",
+        "huurtoeslagVoorwaarde": {
+            "icon": "",
+            "id": null,
+            "localizedIconText": null
+        },
+        "huurtoeslagMogelijk": null,
+        "specifiekeVoorzieningen": [
+            {
+                "id": "4"
+            },
+            {
+                "id": "5"
+            }
+        ],
+        "inschrijvingVereistVoorReageren": true,
+        "postalcode": "7783 AB",
+        "street": "Goudenregenstraat",
+        "houseNumber": "45",
+        "houseNumberAddition": "",
+        "regio": {
+            "name": null,
+            "id": null
+        },
+        "municipality": {
+            "name": "Hardenberg",
+            "id": "1"
+        },
+        "city": {
+            "name": "Gramsbergen",
+            "id": "7"
+        },
+        "quarter": {
+            "name": "Gramsbergen-Centrum e.o.",
+            "id": "21"
+        },
+        "neighborhood": {
+            "name": "",
+            "id": null
+        },
+        "dwellingType": {
+            "categorie": "woning",
+            "huurprijsDuurActief": false,
+            "id": "1",
+            "localizedName": "Eengezinswoning"
+        },
+        "availableFrom": "",
+        "netRent": 675.12,
+        "totalRent": 698.5,
+        "flexibelHurenActief": true,
+        "sellingPrice": 0,
+        "sleepingRoom": {
+            "amountOfRooms": "3",
+            "id": "3"
+        },
+        "energyLabel": {
+            "icon": null,
+            "id": null
+        },
+        "floor": {
+            "id": "100",
+            "localizedName": "Begane grond"
+        },
+        "balcony": false,
+        "balconySite": {
+            "localizedName": ""
+        },
+        "constructionYear": 1966,
+        "model": {
+            "modelCategorie": {
+                "icon": "br_aanbodcooptatie",
+                "code": "inschrijfduur",
+                "toonOpWebsite": true,
+                "id": "1"
+            },
+            "isHospiteren": false,
+            "advertentieSluitenNaEersteReactie": false,
+            "einddatumTonen": true,
+            "aantalReactiesTonen": 1
+        },
+        "rentBuy": "Huur",
+        "publicationDate": "2022-01-07 11:00:00",
+        "closingDate": "2022-01-11 08:00:00",
+        "latitude": "52.6131",
+        "longitude": "6.6731",
+        "floorplans": [
+            {
+                "label": "Begane Grond",
+                "uri": "/portal/uploads/dwelling/floorplans/2646-1.pdf"
+            },
+            {
+                "label": "Verdieping",
+                "uri": "/portal/uploads/dwelling/floorplans/2646-2.pdf"
+            },
+            {
+                "label": "Zolder",
+                "uri": "/portal/uploads/dwelling/floorplans/2646-3.pdf"
+            }
+        ],
+        "pictures": [
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2646-1.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2646-2.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2646-3.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2646-4.jpg",
+                "type": "jpg"
+            }
+        ],
+        "reactieUrl": "",
+        "newlyBuild": false,
+        "areaDwelling": 71,
+        "actionLabel": {
+            "localizedLabel": null
+        },
+        "actionLabelFrom": "0000-00-00 00:00:00",
+        "actionLabelUntil": "0000-00-00 00:00:00",
+        "actionLabelIfActive": false,
+        "relatieHuurInkomenData": null,
+        "relatieHuurInkomenGroepen": null,
+        "doelgroepen": [
+            {
+                "icon": "br_doelgroep_regulier",
+                "code": "regulier",
+                "id": "1"
+            }
+        ],
+        "koopvoorwaarden": {
+            "localizedNaam": null
+        },
+        "isExtraAanbod": false,
+        "vatInclusive": false,
+        "woningsoort": {
+            "id": null,
+            "localizedNaam": null
+        },
+        "aantalMedebewoners": 0,
+        "isExternModelType": false,
+        "isZelfstandig": false,
+        "urlKey": "2646-goudenregenstraat-45-gramsbergen",
+        "availableFromDate": "2022-02-17",
+        "verzameladvertentieID": 0,
+        "huurprijsBuitenKortingsgrens": true,
+        "id": "2646",
+        "isGepubliceerd": true,
+        "isInGepubliceerdeVerzameladvertentie": false,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2646-goudenregenstraat-45-gramsbergen",
+        "fields": [
+            "infoveldKort",
+            "huurtoeslagVoorwaarde",
+            "huurtoeslagMogelijk",
+            "specifiekeVoorzieningen",
+            "inschrijvingVereistVoorReageren",
+            "postalcode",
+            "street",
+            "houseNumber",
+            "houseNumberAddition",
+            "regio",
+            "municipality",
+            "city",
+            "quarter",
+            "neighborhood",
+            "dwellingType",
+            "availableFrom",
+            "netRent",
+            "totalRent",
+            "flexibelHurenActief",
+            "sellingPrice",
+            "sleepingRoom",
+            "energyLabel",
+            "floor",
+            "balcony",
+            "balconySite",
+            "constructionYear",
+            "model",
+            "rentBuy",
+            "publicationDate",
+            "closingDate",
+            "latitude",
+            "longitude",
+            "floorplans",
+            "pictures",
+            "reactieUrl",
+            "newlyBuild",
+            "areaDwelling",
+            "actionLabel",
+            "actionLabelFrom",
+            "actionLabelUntil",
+            "actionLabelIfActive",
+            "relatieHuurInkomenData",
+            "relatieHuurInkomenGroepen",
+            "doelgroepen",
+            "koopvoorwaarden",
+            "isExtraAanbod",
+            "vatInclusive",
+            "woningsoort",
+            "aantalMedebewoners",
+            "isExternModelType",
+            "isZelfstandig",
+            "urlKey",
+            "availableFromDate",
+            "verzameladvertentieID",
+            "huurprijsBuitenKortingsgrens",
+            "id",
+            "isGepubliceerd",
+            "isInGepubliceerdeVerzameladvertentie",
+            "url"
+        ]
+    },
+    {
+        "infoveldKort": "",
+        "huurtoeslagVoorwaarde": {
+            "icon": "",
+            "id": null,
+            "localizedIconText": null
+        },
+        "huurtoeslagMogelijk": null,
+        "specifiekeVoorzieningen": [
+            {
+                "id": "4"
+            },
+            {
+                "id": "5"
+            }
+        ],
+        "inschrijvingVereistVoorReageren": true,
+        "postalcode": "7771 WV",
+        "street": "Jan Steenstraat",
+        "houseNumber": "29",
+        "houseNumberAddition": "",
+        "regio": {
+            "name": null,
+            "id": null
+        },
+        "municipality": {
+            "name": "Hardenberg",
+            "id": "1"
+        },
+        "city": {
+            "name": "Hardenberg",
+            "id": "2"
+        },
+        "quarter": {
+            "name": "De Norden",
+            "id": "45"
+        },
+        "neighborhood": {
+            "name": "",
+            "id": null
+        },
+        "dwellingType": {
+            "categorie": "woning",
+            "huurprijsDuurActief": false,
+            "id": "1",
+            "localizedName": "Eengezinswoning"
+        },
+        "availableFrom": "",
+        "netRent": 620.91,
+        "totalRent": 649.75,
+        "flexibelHurenActief": false,
+        "sellingPrice": 0,
+        "sleepingRoom": {
+            "amountOfRooms": "3",
+            "id": "3"
+        },
+        "energyLabel": {
+            "icon": null,
+            "id": null
+        },
+        "floor": {
+            "id": "100",
+            "localizedName": "Begane grond"
+        },
+        "balcony": false,
+        "balconySite": {
+            "localizedName": ""
+        },
+        "constructionYear": 1964,
+        "model": {
+            "modelCategorie": {
+                "icon": "br_aanbodcooptatie",
+                "code": "inschrijfduur",
+                "toonOpWebsite": true,
+                "id": "1"
+            },
+            "isHospiteren": false,
+            "advertentieSluitenNaEersteReactie": false,
+            "einddatumTonen": true,
+            "aantalReactiesTonen": 1
+        },
+        "rentBuy": "Huur",
+        "publicationDate": "2022-01-07 12:00:00",
+        "closingDate": "2022-01-11 08:00:00",
+        "latitude": "52.5672",
+        "longitude": "6.60731",
+        "floorplans": [
+            {
+                "label": "Begane Grond",
+                "uri": "/portal/uploads/dwelling/floorplans/2647-1.pdf"
+            },
+            {
+                "label": "Verdieping",
+                "uri": "/portal/uploads/dwelling/floorplans/2647-2.pdf"
+            },
+            {
+                "label": "Zolder",
+                "uri": "/portal/uploads/dwelling/floorplans/2647-3.pdf"
+            }
+        ],
+        "pictures": [
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2647-1.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2647-2.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2647-3.jpg",
+                "type": "jpg"
+            },
+            {
+                "label": "Voorgevel",
+                "uri": "/portal/uploads/dwelling/pictures/2647-4.jpg",
+                "type": "jpg"
+            }
+        ],
+        "reactieUrl": "",
+        "newlyBuild": false,
+        "areaDwelling": 65,
+        "actionLabel": {
+            "localizedLabel": null
+        },
+        "actionLabelFrom": "0000-00-00 00:00:00",
+        "actionLabelUntil": "0000-00-00 00:00:00",
+        "actionLabelIfActive": false,
+        "relatieHuurInkomenData": null,
+        "relatieHuurInkomenGroepen": null,
+        "doelgroepen": [
+            {
+                "icon": "br_doelgroep_regulier",
+                "code": "regulier",
+                "id": "1"
+            }
+        ],
+        "koopvoorwaarden": {
+            "localizedNaam": null
+        },
+        "isExtraAanbod": false,
+        "vatInclusive": false,
+        "woningsoort": {
+            "id": null,
+            "localizedNaam": null
+        },
+        "aantalMedebewoners": 0,
+        "isExternModelType": false,
+        "isZelfstandig": false,
+        "urlKey": "2647-jansteenstraat-29-hardenberg",
+        "availableFromDate": "2022-03-17",
+        "verzameladvertentieID": 0,
+        "huurprijsBuitenKortingsgrens": true,
+        "id": "2647",
+        "isGepubliceerd": true,
+        "isInGepubliceerdeVerzameladvertentie": false,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2647-jansteenstraat-29-hardenberg",
+        "fields": [
+            "infoveldKort",
+            "huurtoeslagVoorwaarde",
+            "huurtoeslagMogelijk",
+            "specifiekeVoorzieningen",
+            "inschrijvingVereistVoorReageren",
+            "postalcode",
+            "street",
+            "houseNumber",
+            "houseNumberAddition",
+            "regio",
+            "municipality",
+            "city",
+            "quarter",
+            "neighborhood",
+            "dwellingType",
+            "availableFrom",
+            "netRent",
+            "totalRent",
+            "flexibelHurenActief",
+            "sellingPrice",
+            "sleepingRoom",
+            "energyLabel",
+            "floor",
+            "balcony",
+            "balconySite",
+            "constructionYear",
+            "model",
+            "rentBuy",
+            "publicationDate",
+            "closingDate",
+            "latitude",
+            "longitude",
+            "floorplans",
+            "pictures",
+            "reactieUrl",
+            "newlyBuild",
+            "areaDwelling",
+            "actionLabel",
+            "actionLabelFrom",
+            "actionLabelUntil",
+            "actionLabelIfActive",
+            "relatieHuurInkomenData",
+            "relatieHuurInkomenGroepen",
+            "doelgroepen",
+            "koopvoorwaarden",
+            "isExtraAanbod",
+            "vatInclusive",
+            "woningsoort",
+            "aantalMedebewoners",
+            "isExternModelType",
+            "isZelfstandig",
+            "urlKey",
+            "availableFromDate",
+            "verzameladvertentieID",
+            "huurprijsBuitenKortingsgrens",
+            "id",
+            "isGepubliceerd",
+            "isInGepubliceerdeVerzameladvertentie",
+            "url"
+        ]
+    }
+]
