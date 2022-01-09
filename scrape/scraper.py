@@ -3,7 +3,7 @@ import requests
 import json
 from datetime import datetime
 
-RESULTS_PATH = "data/response.json"
+RESULTS_PATH = "data/results.json"
 
 url = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getallobjects/format/json"
 
