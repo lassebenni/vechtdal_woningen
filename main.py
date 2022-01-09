@@ -1,5 +1,8 @@
+from scrape.scraper import scrape_listings
+
+
 def main():
-    pass
+    scrape_listings()
 
 
 if __name__ == "__main__":
