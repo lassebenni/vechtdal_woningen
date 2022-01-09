@@ -1,8 +1,11 @@
+import logging
 from typing import Dict, List
 import requests
 import json
 
 from models.listing import Listing, create_listing, load_listing
+
+logger = logging.getLogger(__name__)
 
 RESULTS_PATH = "data/results.json"
 
@@ -38,12 +41,16 @@ def scrape_listings():
             detailed_listing = fetch_detailed_listing(listing["id"])
             fetched_listings.append(create_listing(detailed_listing))
 
-        with open(RESULTS_PATH, "r") as f:
-            results_file = json.loads(f.read())
-            current_listings = [load_listing(listing) for listing in results_file]
-            combined_listings = fetched_listings + current_listings
-            deduplicated_listings = remove_duplicatez(combined_listings)
-            write_listings(deduplicated_listings)
+        if fetched_listings:
+            with open(RESULTS_PATH, "r") as f:
+                results_file = json.loads(f.read())
+                current_listings = [load_listing(listing) for listing in results_file]
+                combined_listings = fetched_listings + current_listings
+                deduplicated_listings = remove_duplicatez(combined_listings)
+                logger.info(f"{len(deduplicated_listings)} new listings found.")
+                write_listings(deduplicated_listings)
+        else:
+            logger.info("No listings found.")
 
 
 def remove_duplicatez(listings: List[Listing] = []) -> List[Listing]:
