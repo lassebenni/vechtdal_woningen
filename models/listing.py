@@ -17,7 +17,11 @@ class Listing:
     size: int
     availableFromDate: str
     date_added: str
-    pictures: List[str]
+    picture_urls: List[str]
+    picture_urls_str: str = ""
+
+    def __post_init__(self):
+        self.picture_urls_str = ", ".join(self.picture_urls)
 
     def as_dict(self):
         return dataclasses.asdict(self)
@@ -31,7 +35,7 @@ def load_listing(listing: Dict = {}) -> Listing:
         city=listing["city"],
         corporation=listing["corporation"],
         date_added=listing["date_added"],
-        pictures=listing["pictures"],
+        picture_urls=listing["picture_urls"],
         reactions=listing["reactions"],
         rent=listing["rent"],
         rooms=listing["rooms"],
@@ -47,7 +51,7 @@ def create_listing(listing: Dict = {}) -> Listing:
         city=listing["city"]["name"],
         corporation=listing["corporation"]["name"],
         date_added=listing["publicationDate"],
-        pictures=[
+        picture_urls=[
             f"https://www.thuistreffervechtdal.nl{picture['uri']}"
             for picture in listing["pictures"]
         ],
