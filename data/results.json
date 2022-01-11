@@ -1,5 +1,40 @@
 [
     {
+        "availableFromDate": "2022-04-13 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-10 09:58:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-3.jpg",
+        "reactions": 92,
+        "rent": 632.72,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2649-rozenstraat-36-dedemsvaart",
+        "year_built": "1963"
+    },
+    {
+        "availableFromDate": "2022-02-18 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-10 10:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-2.jpg",
+        "reactions": 31,
+        "rent": 563.38,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2650-baronvanfridaghstraat-55-ommen",
+        "year_built": "1996"
+    },
+    {
         "availableFromDate": "2022-02-17 00:00:00",
         "city": "Gramsbergen",
         "corporation": "Vechtdal Wonen",
