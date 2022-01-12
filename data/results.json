@@ -10,7 +10,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2649-3.jpg",
-        "reactions": 92,
+        "reactions": 133,
         "rent": 632.72,
         "rooms": "3",
         "size": 66,
@@ -27,12 +27,83 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-2.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2650-2.jpg",
-        "reactions": 31,
+        "reactions": 47,
         "rent": 563.38,
         "rooms": "2",
         "size": 58,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2650-baronvanfridaghstraat-55-ommen",
         "year_built": "1996"
+    },
+    {
+        "availableFromDate": "2022-02-25 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-11 16:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2654-3.jpg",
+        "reactions": 29,
+        "rent": 685.8,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2654-depraam-11-dedemsvaart",
+        "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2022-03-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-11 20:38:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2655-4.jpg",
+        "reactions": 31,
+        "rent": 646.15,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2655-jansteenstraat-23-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-02-07 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-11 20:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2656-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2656-2.jpg",
+        "reactions": 20,
+        "rent": 662.08,
+        "rooms": "2",
+        "size": 51,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2656-mhzntrompstraat-75-hardenberg",
+        "year_built": "2021"
+    },
+    {
+        "availableFromDate": "2022-02-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-11 20:56:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-8.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2657-8.jpg",
+        "reactions": 5,
+        "rent": 597.28,
+        "rooms": "2",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2657-schoutenhof-16-hardenberg",
+        "year_built": "2008"
     },
     {
         "availableFromDate": "2022-02-17 00:00:00",
