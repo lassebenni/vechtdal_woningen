@@ -1,5 +1,62 @@
 [
     {
+        "availableFromDate": "2022-03-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-12 15:31:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-4.jpg",
+        "reactions": 71,
+        "rent": 539.17,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2661-kareldoormanlaan-46-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-02-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-14 09:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2659-5.jpg",
+        "reactions": 53,
+        "rent": 501.48,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2659-oelenveerstraat-12-hardenberg",
+        "year_built": "1962"
+    },
+    {
+        "availableFromDate": "2022-01-24 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-14 09:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2660-3.jpg",
+        "reactions": 39,
+        "rent": 529.53,
+        "rooms": "1",
+        "size": 46,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2660-burgemeesterbramerstraat-17-hardenberg",
+        "year_built": "2008"
+    },
+    {
         "availableFromDate": "2022-02-25 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -69,25 +126,6 @@
         "size": 56,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2657-schoutenhof-16-hardenberg",
         "year_built": "2008"
-    },
-    {
-        "availableFromDate": "2022-03-08 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-01-12 15:31:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-4.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2661-4.jpg",
-        "reactions": 60,
-        "rent": 539.17,
-        "rooms": "2",
-        "size": 58,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2661-kareldoormanlaan-46-hardenberg",
-        "year_built": "1958"
     },
     {
         "availableFromDate": "2022-04-13 00:00:00",
