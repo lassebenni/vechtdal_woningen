@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-04-08 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-18 09:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg",
+        "reactions": 41,
+        "rent": 606.72,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2662-vivaldi-9-dedemsvaart",
+        "year_built": "1996"
+    },
+    {
         "availableFromDate": "2022-02-22 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
