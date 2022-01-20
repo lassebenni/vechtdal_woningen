@@ -11,12 +11,65 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg",
-        "reactions": 41,
+        "reactions": 50,
         "rent": 606.72,
         "rooms": "2",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2662-vivaldi-9-dedemsvaart",
         "year_built": "1996"
+    },
+    {
+        "availableFromDate": "2022-02-21 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-19 10:53:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-3.jpg",
+        "reactions": 3,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2663-jvermeerstraat-1-gar-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-02-23 00:00:00",
+        "city": "Beerzerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-19 11:02:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-3.jpg",
+        "reactions": 108,
+        "rent": 685.84,
+        "rooms": "3",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2664-kloosterdijk-14-beerzerveld",
+        "year_built": "1950"
+    },
+    {
+        "availableFromDate": "2022-03-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-19 11:57:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-2.jpg",
+        "reactions": 65,
+        "rent": 581.38,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2665-admiraalhelfrichstraat-37-hardenberg",
+        "year_built": "1985"
     },
     {
         "availableFromDate": "2022-02-22 00:00:00",
