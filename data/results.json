@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2662-4.jpg",
-        "reactions": 50,
+        "reactions": 48,
         "rent": 606.72,
         "rooms": "2",
         "size": 65,
@@ -24,12 +24,11 @@
         "corporation": "Vechtdal Wonen",
         "date_added": "2022-01-19 10:53:00",
         "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-1.jpg",
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-2.jpg",
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-3.jpg"
         ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-3.jpg",
-        "reactions": 3,
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2663-3.jpg",
+        "reactions": 5,
         "rent": 58.12,
         "rooms": null,
         "size": 0,
@@ -47,7 +46,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2664-3.jpg",
-        "reactions": 108,
+        "reactions": 142,
         "rent": 685.84,
         "rooms": "3",
         "size": 70,
@@ -64,12 +63,50 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-2.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2665-2.jpg",
-        "reactions": 65,
+        "reactions": 86,
         "rent": 581.38,
         "rooms": "2",
         "size": 62,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2665-admiraalhelfrichstraat-37-hardenberg",
         "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2022-03-15 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-20 16:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2667-5.jpg",
+        "reactions": 60,
+        "rent": 602.73,
+        "rooms": "2",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2667-reigerweg-26-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2022-02-18 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-20 16:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2668-4.jpg",
+        "reactions": 24,
+        "rent": 700.32,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2668-depraam-25-dedemsvaart",
+        "year_built": "1976"
     },
     {
         "availableFromDate": "2022-02-22 00:00:00",
