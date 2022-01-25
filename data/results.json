@@ -1,5 +1,82 @@
 [
     {
+        "availableFromDate": "2022-03-21 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-24 15:55:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2679-3.jpg",
+        "reactions": 74,
+        "rent": 656.96,
+        "rooms": "3",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2679-anemoonstraat-4-dedemsvaart",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-03-11 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-24 16:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2680-5.jpg",
+        "reactions": 14,
+        "rent": 650.46,
+        "rooms": "2",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2680-burgemeesterbaronvanvoerstvanlyndenstraat-23-gramsbergen",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-03-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-24 16:06:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-8.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2681-8.jpg",
+        "reactions": 62,
+        "rent": 462.22,
+        "rooms": "2",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2681-oosteinde-61-hardenberg",
+        "year_built": "2018"
+    },
+    {
+        "availableFromDate": "2022-03-03 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-25 07:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg",
+        "reactions": 1,
+        "rent": 483.81,
+        "rooms": "1",
+        "size": 43,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2682-zuiderkruis-42-dekrim",
+        "year_built": "1980"
+    },
+    {
         "availableFromDate": "2022-03-02 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
