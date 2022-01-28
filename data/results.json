@@ -1,5 +1,80 @@
 [
     {
+        "availableFromDate": "2022-03-03 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-25 07:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg",
+        "reactions": 44,
+        "rent": 483.81,
+        "rooms": "1",
+        "size": 43,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2682-zuiderkruis-42-dekrim",
+        "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2022-03-18 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-26 10:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-5.jpg",
+        "reactions": 33,
+        "rent": 537.15,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2683-demerel-5-dedemsvaart",
+        "year_built": "1993"
+    },
+    {
+        "availableFromDate": "2022-03-03 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-26 13:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-4.jpg",
+        "reactions": 57,
+        "rent": 548.45,
+        "rooms": "2",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2684-eiberhof-24-hardenberg",
+        "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2022-03-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-27 14:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2686-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2686-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2686-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2686-2.jpg",
+        "reactions": 59,
+        "rent": 530.15,
+        "rooms": "2",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2686-lagegaardenstraat-32-hardenberg",
+        "year_built": "1962"
+    },
+    {
         "availableFromDate": "2022-03-21 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -56,64 +131,6 @@
         "size": 37,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2681-oosteinde-61-hardenberg",
         "year_built": "2018"
-    },
-    {
-        "availableFromDate": "2022-03-03 00:00:00",
-        "city": "De Krim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-01-25 07:59:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2682-5.jpg",
-        "reactions": 38,
-        "rent": 483.81,
-        "rooms": "1",
-        "size": 43,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2682-zuiderkruis-42-dekrim",
-        "year_built": "1980"
-    },
-    {
-        "availableFromDate": "2022-03-18 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-01-26 10:04:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-4.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-5.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2683-5.jpg",
-        "reactions": 23,
-        "rent": 537.15,
-        "rooms": "2",
-        "size": 58,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2683-demerel-5-dedemsvaart",
-        "year_built": "1993"
-    },
-    {
-        "availableFromDate": "2022-03-03 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-01-26 13:15:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-4.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2684-4.jpg",
-        "reactions": 36,
-        "rent": 548.45,
-        "rooms": "2",
-        "size": 56,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2684-eiberhof-24-hardenberg",
-        "year_built": "1980"
     },
     {
         "availableFromDate": "2022-03-02 00:00:00",
