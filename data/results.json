@@ -1,5 +1,42 @@
 [
     {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-01-31 09:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2689-3.jpg",
+        "reactions": 67,
+        "rent": 662.34,
+        "rooms": "4",
+        "size": 69,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2689-saturnusstraat-5-dekrim",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-03-09 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-01 08:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-8.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-6.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-6.jpg",
+        "reactions": 1,
+        "rent": 584.89,
+        "rooms": "2",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2690-mesdagstraat-18-dedemsvaart",
+        "year_built": "2008"
+    },
+    {
         "availableFromDate": "2022-03-02 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
