@@ -28,7 +28,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2687-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2687-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2687-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2687-3.jpg",
-        "reactions": 116,
+        "reactions": 163,
         "rent": 476.2,
         "rooms": "3",
         "size": 61,
@@ -47,7 +47,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-6.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2690-6.jpg",
-        "reactions": 59,
+        "reactions": 76,
         "rent": 584.89,
         "rooms": "2",
         "size": 68,
@@ -66,7 +66,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2691-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2691-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2691-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2691-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2691-4.jpg",
-        "reactions": 59,
+        "reactions": 84,
         "rent": 671.28,
         "rooms": "4",
         "size": 86,
@@ -86,7 +86,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2692-5.jpg",
-        "reactions": 53,
+        "reactions": 71,
         "rent": 480.59,
         "rooms": "1",
         "size": 45,
@@ -106,7 +106,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2693-5.jpg",
-        "reactions": 13,
+        "reactions": 16,
         "rent": 650.46,
         "rooms": "2",
         "size": 60,
@@ -126,7 +126,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2694-5.jpg",
-        "reactions": 53,
+        "reactions": 84,
         "rent": 700.16,
         "rooms": "3",
         "size": 76,
@@ -145,11 +145,29 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2695-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2695-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2695-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2695-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2695-4.jpg",
-        "reactions": 94,
+        "reactions": 133,
         "rent": 602.62,
         "rooms": "3",
         "size": 59,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2695-wentholtstraat-57-ommen",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-03-09 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-02 14:17:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2698-3.jpg",
+        "reactions": 36,
+        "rent": 602.62,
+        "rooms": "3",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2698-vanderduynvanmaasdamstraat-10-bergentheim",
         "year_built": "1966"
     },
     {
