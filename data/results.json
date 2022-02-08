@@ -1,5 +1,62 @@
 [
     {
+        "availableFromDate": "2022-02-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-07 11:46:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-3.jpg",
+        "reactions": 63,
+        "rent": 643.96,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2706-jantooropstraat-10-ommen",
+        "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2022-04-29 00:00:00",
+        "city": "Lemelerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-07 15:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-5.jpg",
+        "reactions": 51,
+        "rent": 552.16,
+        "rooms": "3",
+        "size": 54,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2707-meestergorisstraat-17-lemelerveld",
+        "year_built": "1949"
+    },
+    {
+        "availableFromDate": "2022-03-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-07 16:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-4.jpg",
+        "reactions": 40,
+        "rent": 692.94,
+        "rooms": "2",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2709-hundekovenstraat-8-hardenberg",
+        "year_built": "2005"
+    },
+    {
         "availableFromDate": "2022-03-17 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
