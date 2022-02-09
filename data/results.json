@@ -10,7 +10,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2706-3.jpg",
-        "reactions": 63,
+        "reactions": 93,
         "rent": 643.96,
         "rooms": "2",
         "size": 63,
@@ -30,7 +30,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2707-5.jpg",
-        "reactions": 51,
+        "reactions": 107,
         "rent": 552.16,
         "rooms": "3",
         "size": 54,
@@ -49,12 +49,49 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2709-4.jpg",
-        "reactions": 40,
+        "reactions": 74,
         "rent": 692.94,
         "rooms": "2",
         "size": 75,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2709-hundekovenstraat-8-hardenberg",
         "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2022-03-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-08 16:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2705-4.jpg",
+        "reactions": 2,
+        "rent": 1217.95,
+        "rooms": "3",
+        "size": 99,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2705-vanwevelinckhovenplein-12-hardenberg",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-04-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-08 16:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2710-3.jpg",
+        "reactions": 95,
+        "rent": 606.26,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2710-jvermeerstraat-70-hardenberg",
+        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-03-17 00:00:00",
