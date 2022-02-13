@@ -1,5 +1,39 @@
 [
     {
+        "availableFromDate": "2022-03-10 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-10 14:09:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2719-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2719-1.jpg",
+        "reactions": 4,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2719-wittedewithstraat-15-bgar-ommen",
+        "year_built": "1962"
+    },
+    {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-10 15:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-3.jpg",
+        "reactions": 108,
+        "rent": 602.62,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2720-wentholtstraat-39-ommen",
+        "year_built": "1965"
+    },
+    {
         "availableFromDate": "2022-03-07 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -151,40 +185,6 @@
         "size": 62,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2718-spaanskamp-165-hardenberg",
         "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2022-03-10 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-02-10 14:09:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2719-1.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2719-1.jpg",
-        "reactions": 3,
-        "rent": 58.12,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2719-wittedewithstraat-15-bgar-ommen",
-        "year_built": "1962"
-    },
-    {
-        "availableFromDate": "2022-04-18 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-02-10 15:12:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-3.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2720-3.jpg",
-        "reactions": 91,
-        "rent": 602.62,
-        "rooms": "3",
-        "size": 59,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2720-wentholtstraat-39-ommen",
-        "year_built": "1965"
     },
     {
         "availableFromDate": "2022-03-23 00:00:00",
