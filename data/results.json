@@ -10,12 +10,32 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2721-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2721-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2721-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2721-3.jpg",
-        "reactions": 45,
+        "reactions": 67,
         "rent": 572.6,
         "rooms": "2",
         "size": 58,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2721-baronvanfridaghstraat-95-ommen",
         "year_built": "1996"
+    },
+    {
+        "availableFromDate": "2022-03-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-18 08:16:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2723-5.jpg",
+        "reactions": 0,
+        "rent": 465.46,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2723-burgemeesterbramerstraat-117-hardenberg",
+        "year_built": "2010"
     },
     {
         "availableFromDate": "2022-03-10 00:00:00",
