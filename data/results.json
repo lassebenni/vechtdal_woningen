@@ -1,5 +1,25 @@
 [
     {
+        "availableFromDate": "2022-04-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-21 11:49:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-8.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-8.jpg",
+        "reactions": 99,
+        "rent": 552.05,
+        "rooms": "3",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2730-oelenveerstraat-15-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2022-03-16 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
