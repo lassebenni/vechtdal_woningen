@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-03-11 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-22 09:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2700-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2700-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2700-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2700-2.jpg",
+        "reactions": 69,
+        "rent": 682.12,
+        "rooms": "2",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2700-hundekovenstraat-12-hardenberg",
+        "year_built": "2005"
+    },
+    {
         "availableFromDate": "2022-04-08 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -12,7 +29,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-8.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2730-8.jpg",
-        "reactions": 99,
+        "reactions": 172,
         "rent": 552.05,
         "rooms": "3",
         "size": 63,
