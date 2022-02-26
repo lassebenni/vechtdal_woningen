@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2733-4.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2733-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2733-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2733-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2733-4.jpg",
-        "reactions": 72,
+        "reactions": 81,
         "rent": 729.07,
         "rooms": "3",
         "size": 63,
@@ -31,7 +31,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2734-5.jpg",
-        "reactions": 19,
+        "reactions": 28,
         "rent": 572.81,
         "rooms": "2",
         "size": 62,
@@ -49,7 +49,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2735-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2735-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2735-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2735-3.jpg",
-        "reactions": 44,
+        "reactions": 58,
         "rent": 490.65,
         "rooms": "3",
         "size": 60,
@@ -67,7 +67,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2736-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2736-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2736-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2736-3.jpg",
-        "reactions": 62,
+        "reactions": 84,
         "rent": 696.56,
         "rooms": "4",
         "size": 86,
@@ -83,7 +83,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2737-1.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2737-1.jpg",
-        "reactions": 34,
+        "reactions": 44,
         "rent": 559.28,
         "rooms": "3",
         "size": 70,
@@ -103,12 +103,30 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2738-5.jpg",
-        "reactions": 46,
+        "reactions": 73,
         "rent": 653.21,
         "rooms": "4",
         "size": 76,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2738-wilhelminastraat-7-dedemsvaart",
         "year_built": "1956"
+    },
+    {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-25 15:16:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg",
+        "reactions": 79,
+        "rent": 595.41,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2739-wilgenstuk-22-hardenberg",
+        "year_built": "1983"
     },
     {
         "availableFromDate": "2022-03-11 00:00:00",
