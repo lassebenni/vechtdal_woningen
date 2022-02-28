@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-25 15:16:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg",
+        "reactions": 137,
+        "rent": 595.41,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2739-wilgenstuk-22-hardenberg",
+        "year_built": "1983"
+    },
+    {
         "availableFromDate": "2022-04-25 00:00:00",
         "city": "De Krim",
         "corporation": "Vechtdal Wonen",
@@ -70,24 +88,6 @@
         "size": 76,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2738-wilhelminastraat-7-dedemsvaart",
         "year_built": "1956"
-    },
-    {
-        "availableFromDate": "2022-04-18 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-02-25 15:16:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2739-3.jpg",
-        "reactions": 110,
-        "rent": 595.41,
-        "rooms": "3",
-        "size": 68,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2739-wilgenstuk-22-hardenberg",
-        "year_built": "1983"
     },
     {
         "availableFromDate": "2022-04-29 00:00:00",
