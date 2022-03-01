@@ -1,5 +1,62 @@
 [
     {
+        "availableFromDate": "2022-03-25 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-28 15:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2740-5.jpg",
+        "reactions": 49,
+        "rent": 580.17,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2740-spaanskamp-3-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-04-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-28 15:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2741-4.jpg",
+        "reactions": 42,
+        "rent": 425.61,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2741-kleinepollen-98-hardenberg",
+        "year_built": "1984"
+    },
+    {
+        "availableFromDate": "2022-04-28 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-02-28 16:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2742-4.jpg",
+        "reactions": 46,
+        "rent": 628.05,
+        "rooms": "3",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2742-emmastraat-13-dekrim",
+        "year_built": "1956"
+    },
+    {
         "availableFromDate": "2022-04-18 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
