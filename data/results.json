@@ -1,5 +1,58 @@
 [
     {
+        "availableFromDate": "2022-04-11 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-02 08:23:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-3.jpg",
+        "reactions": 72,
+        "rent": 480.59,
+        "rooms": "1",
+        "size": 45,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2745-despinde-44-hardenberg",
+        "year_built": "1977"
+    },
+    {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-02 08:42:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-3.jpg",
+        "reactions": 63,
+        "rent": 548.45,
+        "rooms": "3",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2746-marsstraat-2-dekrim",
+        "year_built": "1974"
+    },
+    {
+        "availableFromDate": "2022-04-18 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-02 08:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-2.jpg",
+        "reactions": 49,
+        "rent": 494.25,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2747-jupiterstraat-26-dekrim",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2022-03-25 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -55,59 +108,6 @@
         "size": 72,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2742-emmastraat-13-dekrim",
         "year_built": "1956"
-    },
-    {
-        "availableFromDate": "2022-04-11 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-02 08:23:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-3.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2745-3.jpg",
-        "reactions": 54,
-        "rent": 480.59,
-        "rooms": "1",
-        "size": 45,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2745-despinde-44-hardenberg",
-        "year_built": "1977"
-    },
-    {
-        "availableFromDate": "2022-04-18 00:00:00",
-        "city": "De Krim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-02 08:42:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-3.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2746-3.jpg",
-        "reactions": 45,
-        "rent": 548.45,
-        "rooms": "3",
-        "size": 74,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2746-marsstraat-2-dekrim",
-        "year_built": "1974"
-    },
-    {
-        "availableFromDate": "2022-04-18 00:00:00",
-        "city": "De Krim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-02 08:47:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-2.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2747-2.jpg",
-        "reactions": 35,
-        "rent": 494.25,
-        "rooms": "3",
-        "size": 61,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2747-jupiterstraat-26-dekrim",
-        "year_built": "1964"
     },
     {
         "availableFromDate": "2022-04-18 00:00:00",
