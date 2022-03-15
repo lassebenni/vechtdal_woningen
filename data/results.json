@@ -1,5 +1,39 @@
 [
     {
+        "availableFromDate": "2022-03-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-14 16:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg",
+        "reactions": 23,
+        "rent": 514.25,
+        "rooms": "2",
+        "size": 49,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2780-salland-10-hardenberg",
+        "year_built": "1986"
+    },
+    {
+        "availableFromDate": "2022-04-01 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-08 08:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg",
+        "reactions": 0,
+        "rent": 0,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2755-westerhuizingerweg-11-balkbrug",
+        "year_built": "1950"
+    },
+    {
         "availableFromDate": "2022-04-28 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -130,22 +164,6 @@
         "size": 57,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2779-vanbrakelstraat-2-ommen",
         "year_built": "1961"
-    },
-    {
-        "availableFromDate": "2022-04-01 00:00:00",
-        "city": "Balkbrug",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-08 08:00:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg",
-        "reactions": 0,
-        "rent": 0,
-        "rooms": "3",
-        "size": 59,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2755-westerhuizingerweg-11-balkbrug",
-        "year_built": "1950"
     },
     {
         "availableFromDate": "2022-06-16 00:00:00",
