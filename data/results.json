@@ -1,21 +1,58 @@
 [
     {
-        "availableFromDate": "2022-03-18 00:00:00",
+        "availableFromDate": "2022-06-20 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-17 17:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-8.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-9.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2781-9.jpg",
+        "reactions": 34,
+        "rent": 606.26,
+        "rooms": "4",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2781-horstraswijk-4-dekrim",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-03-30 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-17 14:33:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-8.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2782-8.jpg",
+        "reactions": 99,
+        "rent": 660.44,
+        "rooms": "3",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2782-diepenbrockstraat-31-dedemsvaart",
+        "year_built": "2001"
+    },
+    {
+        "availableFromDate": "2022-05-09 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-14 16:05:00",
+        "date_added": "2022-03-17 17:09:00",
         "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg"
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2783-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2783-2.jpg"
         ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg",
-        "reactions": 73,
-        "rent": 514.25,
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2783-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2783-2.jpg",
+        "reactions": 61,
+        "rent": 504.3,
         "rooms": "2",
-        "size": 49,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2780-salland-10-hardenberg",
-        "year_built": "1986"
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2783-spaanskamp-9-hardenberg",
+        "year_built": "1964"
     },
     {
         "availableFromDate": "2022-04-01 00:00:00",
@@ -32,6 +69,24 @@
         "size": 59,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2755-westerhuizingerweg-11-balkbrug",
         "year_built": "1950"
+    },
+    {
+        "availableFromDate": "2022-03-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-14 16:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2780-3.jpg",
+        "reactions": 73,
+        "rent": 514.25,
+        "rooms": "2",
+        "size": 49,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2780-salland-10-hardenberg",
+        "year_built": "1986"
     },
     {
         "availableFromDate": "2022-04-28 00:00:00",
