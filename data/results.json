@@ -1,5 +1,37 @@
 [
     {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-18 09:52:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2785-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2785-1.jpg",
+        "reactions": 8,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2785-spaanskamp-33-g011-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-04-01 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-08 08:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg",
+        "reactions": 0,
+        "rent": 0,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2755-westerhuizingerweg-11-balkbrug",
+        "year_built": "1950"
+    },
+    {
         "availableFromDate": "2022-06-20 00:00:00",
         "city": "De Krim",
         "corporation": "Vechtdal Wonen",
@@ -53,38 +85,6 @@
         "size": 63,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2783-spaanskamp-9-hardenberg",
         "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2022-05-16 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-18 09:52:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2785-1.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2785-1.jpg",
-        "reactions": 8,
-        "rent": 58.12,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2785-spaanskamp-33-g011-hardenberg",
-        "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2022-04-01 00:00:00",
-        "city": "Balkbrug",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-08 08:00:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2755-1.jpg",
-        "reactions": 0,
-        "rent": 0,
-        "rooms": "3",
-        "size": 59,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2755-westerhuizingerweg-11-balkbrug",
-        "year_built": "1950"
     },
     {
         "availableFromDate": "2022-03-18 00:00:00",
