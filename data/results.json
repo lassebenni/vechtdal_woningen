@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-04-28 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-22 10:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg",
+        "reactions": 99,
+        "rent": 353.36,
+        "rooms": "1",
+        "size": 34,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2786-hofweg-27-hardenberg",
+        "year_built": "1981"
+    },
+    {
         "availableFromDate": "2022-05-16 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
