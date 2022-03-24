@@ -11,12 +11,50 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg",
-        "reactions": 99,
+        "reactions": 119,
         "rent": 353.36,
         "rooms": "1",
         "size": 34,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2786-hofweg-27-hardenberg",
         "year_built": "1981"
+    },
+    {
+        "availableFromDate": "2022-04-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-23 11:41:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-3.jpg",
+        "reactions": 54,
+        "rent": 509.48,
+        "rooms": "1",
+        "size": 44,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2787-despinde-77-hardenberg",
+        "year_built": "1977"
+    },
+    {
+        "availableFromDate": "2022-04-29 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-23 11:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-5.jpg",
+        "reactions": 71,
+        "rent": 568.21,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2788-parkweg-145-hardenberg",
+        "year_built": "1968"
     },
     {
         "availableFromDate": "2022-05-16 00:00:00",
