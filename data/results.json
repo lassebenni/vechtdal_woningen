@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2786-8.jpg",
-        "reactions": 119,
+        "reactions": 122,
         "rent": 353.36,
         "rooms": "1",
         "size": 34,
@@ -29,7 +29,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-3.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2787-3.jpg",
-        "reactions": 54,
+        "reactions": 69,
         "rent": 509.48,
         "rooms": "1",
         "size": 44,
@@ -49,12 +49,32 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-5.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2788-5.jpg",
-        "reactions": 71,
+        "reactions": 87,
         "rent": 568.21,
         "rooms": "3",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2788-parkweg-145-hardenberg",
         "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-06-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-24 09:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2789-5.jpg",
+        "reactions": 49,
+        "rent": 367.82,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2789-wielewaalstraat-25-hardenberg",
+        "year_built": "1972"
     },
     {
         "availableFromDate": "2022-05-16 00:00:00",
