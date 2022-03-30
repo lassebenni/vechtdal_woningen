@@ -1,5 +1,95 @@
 [
     {
+        "availableFromDate": "2022-04-26 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-29 16:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2801-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2801-1.jpg",
+        "reactions": 0,
+        "rent": 31.6,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2801-demulderij-17--34ppl-hardenberg",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2022-04-25 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-29 09:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2775-4.jpg",
+        "reactions": 137,
+        "rent": 613.46,
+        "rooms": "3",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2775-singelberg-35-hardenberg",
+        "year_built": "1978"
+    },
+    {
+        "availableFromDate": "2022-06-02 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-29 09:39:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b74e037ea.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b752c898a.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b7577377f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b75c5233b.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b74e037ea.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b752c898a.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b7577377f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2795-6242b75c5233b.jpg",
+        "reactions": 109,
+        "rent": 790.48,
+        "rooms": "4",
+        "size": 85,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2795-lijsterstraat-43-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2022-05-30 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-29 15:55:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a67d2617.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a6da8bc6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a7583a17.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a7b8d96d.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a826cbba.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a67d2617.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a6da8bc6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a7583a17.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a7b8d96d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2797-62430a826cbba.jpg",
+        "reactions": 71,
+        "rent": 637.1,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2797-ervenweg-66-hardenberg",
+        "year_built": "2010"
+    },
+    {
+        "availableFromDate": "2022-05-06 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-29 16:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2798-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2798-1.jpg",
+        "reactions": 54,
+        "rent": 455.61,
+        "rooms": "1",
+        "size": 42,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2798-admiraalhelfrichstraat-116-hardenberg",
+        "year_built": "1983"
+    },
+    {
         "availableFromDate": "2022-05-12 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
