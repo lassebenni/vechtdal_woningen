@@ -1,5 +1,136 @@
 [
     {
+        "availableFromDate": "2022-06-06 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-31 09:32:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d0ca062.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d5cc644.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558da71dd7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558dfb30a2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d0ca062.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d5cc644.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558da71dd7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558dfb30a2.jpg",
+        "reactions": 72,
+        "rent": 624.31,
+        "rooms": "3",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2803-dokterwillemslaan-108-slagharen",
+        "year_built": "2015"
+    },
+    {
+        "availableFromDate": "2022-06-22 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-03-31 09:51:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455abc88a80.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac16bbe5.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac7815ab.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455accdd0be.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455abc88a80.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac16bbe5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac7815ab.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455accdd0be.jpg",
+        "reactions": 66,
+        "rent": 616.49,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2804-lijsterstraat-31-dedemsvaart",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2022-04-29 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-01 10:41:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8d4e5b5e.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8da67810.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8dff0326.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8e579031.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8eb0d602.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8d4e5b5e.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8da67810.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8dff0326.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8e579031.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2807-6246b8eb0d602.jpg",
+        "reactions": 55,
+        "rent": 813.52,
+        "rooms": "3",
+        "size": 93,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2807-swankhuisenwerf-20-dedemsvaart",
+        "year_built": "2019"
+    },
+    {
+        "availableFromDate": "2022-04-28 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-01 12:49:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d869a8203.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d86e8fb65.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d8732639e.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d869a8203.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d86e8fb65.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2808-6246d8732639e.jpg",
+        "reactions": 31,
+        "rent": 700.16,
+        "rooms": "3",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2808-goordijk-17-gramsbergen",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2022-05-11 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-01 13:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbc9bcb76.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbce6efd9.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbd31f85a.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbc9bcb76.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbce6efd9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2809-6246dbd31f85a.jpg",
+        "reactions": 34,
+        "rent": 642.53,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2809-willempijperstraat-8-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2022-08-03 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-01 13:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246dec61d3bc.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246decae14fa.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246ded03fa77.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246ded55b310.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246dec61d3bc.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246decae14fa.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246ded03fa77.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2810-6246ded55b310.jpg",
+        "reactions": 51,
+        "rent": 570.5,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2810-margrietstraat-21-dedemsvaart",
+        "year_built": "1955"
+    },
+    {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-01 13:42:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e4ff46774.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e50471341.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e5098da3e.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e4ff46774.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e50471341.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2811-6246e5098da3e.jpg",
+        "reactions": 37,
+        "rent": 669.23,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2811-kareldoormanlaan-48-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2022-04-26 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -108,44 +239,6 @@
         "size": 75,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2802-depraam-64-dedemsvaart",
         "year_built": "1981"
-    },
-    {
-        "availableFromDate": "2022-06-06 00:00:00",
-        "city": "Slagharen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-31 09:32:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d0ca062.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d5cc644.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558da71dd7.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558dfb30a2.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d0ca062.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558d5cc644.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558da71dd7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2803-624558dfb30a2.jpg",
-        "reactions": 57,
-        "rent": 624.31,
-        "rooms": "3",
-        "size": 60,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2803-dokterwillemslaan-108-slagharen",
-        "year_built": "2015"
-    },
-    {
-        "availableFromDate": "2022-06-22 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-03-31 09:51:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455abc88a80.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac16bbe5.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac7815ab.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455accdd0be.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455abc88a80.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac16bbe5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455ac7815ab.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2804-62455accdd0be.jpg",
-        "reactions": 61,
-        "rent": 616.49,
-        "rooms": "3",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2804-lijsterstraat-31-dedemsvaart",
-        "year_built": "1965"
     },
     {
         "availableFromDate": "2022-05-12 00:00:00",
