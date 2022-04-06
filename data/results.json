@@ -1,5 +1,77 @@
 [
     {
+        "availableFromDate": "2022-05-05 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-05 13:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2814-624c218b217a7.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2814-624c218b217a7.jpg",
+        "reactions": 1,
+        "rent": 31.6,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2814-demulderij-17--37ppl-hardenberg",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-05 12:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14de8b9dd.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14e4204b3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14e9a4cca.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14de8b9dd.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14e4204b3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2813-624c14e9a4cca.jpg",
+        "reactions": 43,
+        "rent": 514.25,
+        "rooms": "2",
+        "size": 48,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2813-salland-31-hardenberg",
+        "year_built": "1986"
+    },
+    {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-05 15:51:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27ca4da8b.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27cf57487.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27d4a97bd.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27da3e110.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27ca4da8b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27cf57487.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27d4a97bd.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2815-624c27da3e110.jpg",
+        "reactions": 71,
+        "rent": 620.31,
+        "rooms": "1",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2815-bisschopshof-1-hardenberg",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2022-05-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-05 16:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4abe3284a.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4ac3dcc66.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4ac979dad.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4aced8548.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4abe3284a.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4ac3dcc66.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4ac979dad.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2816-624c4aced8548.jpg",
+        "reactions": 36,
+        "rent": 599.02,
+        "rooms": "1",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2816-torenvalk-65-ommen",
+        "year_built": "1988"
+    },
+    {
         "availableFromDate": "2022-04-29 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
