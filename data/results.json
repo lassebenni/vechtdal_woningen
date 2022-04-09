@@ -1,5 +1,196 @@
 [
     {
+        "availableFromDate": "2022-06-07 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-06 15:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d898dc0136.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899283ca8.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89973ca04.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899be6201.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89a085e4b.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d898dc0136.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899283ca8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89973ca04.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899be6201.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89a085e4b.jpg",
+        "reactions": 160,
+        "rent": 660.44,
+        "rooms": "3",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2818-kruserbrink-44-hardenberg",
+        "year_built": "1960"
+    },
+    {
+        "availableFromDate": "2022-05-12 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-06 14:40:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f2bf9d2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f7ee21f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89fc6ccf6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d8a014228e.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f2bf9d2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f7ee21f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89fc6ccf6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d8a014228e.jpg",
+        "reactions": 81,
+        "rent": 703.78,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2819-debonkelaar-6-balkbrug",
+        "year_built": "1979"
+    },
+    {
+        "availableFromDate": "2022-05-11 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-06 14:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-4.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-4.jpg",
+        "reactions": 57,
+        "rent": 663.01,
+        "rooms": "3",
+        "size": 84,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2820-vansandickstraat-10-a-dedemsvaart",
+        "year_built": "2011"
+    },
+    {
+        "availableFromDate": "2022-06-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-06 14:49:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2574515.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2a43df7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2e7ea7d.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2574515.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2a43df7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2e7ea7d.jpg",
+        "reactions": 39,
+        "rent": 458.13,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2821-veldmaat-6-hardenberg",
+        "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2022-06-07 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-06 15:23:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-4.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-5.jpg",
+        "reactions": 71,
+        "rent": 510.27,
+        "rooms": "2",
+        "size": 50,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2822-kareldoormanlaan-52-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-05-18 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-07 08:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e838b42a9f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839074fba.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e8395ef21a.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839baf622.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e83a12ae6c.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e838b42a9f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839074fba.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e8395ef21a.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839baf622.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e83a12ae6c.jpg",
+        "reactions": 31,
+        "rent": 669.96,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2823-havenweg-138-hardenberg",
+        "year_built": "1995"
+    },
+    {
+        "availableFromDate": "2022-04-15 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-07 08:46:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-2.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-3.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-3.jpg",
+        "reactions": 37,
+        "rent": 714.76,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2824-depraam-25-dedemsvaart",
+        "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2022-04-29 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-07 11:52:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb17f89334.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb184b0ad7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18959034.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18e67dde.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb17f89334.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb184b0ad7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18959034.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18e67dde.jpg",
+        "reactions": 29,
+        "rent": 335.46,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2825-kerkweg-18-bergentheim",
+        "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2022-05-06 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-07 13:29:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecab721d0b.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecabc66b27.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac1ea966.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac760ba5.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecab721d0b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecabc66b27.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac1ea966.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac760ba5.jpg",
+        "reactions": 80,
+        "rent": 696.56,
+        "rooms": "3",
+        "size": 78,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2826-goordijk-15-gramsbergen",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-08 11:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg",
+        "reactions": 52,
+        "rent": 647.55,
+        "rooms": "2",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2828-jantooropstraat-28-ommen",
+        "year_built": "2005"
+    },
+    {
         "availableFromDate": "2022-05-05 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -70,178 +261,6 @@
         "size": 77,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2816-torenvalk-65-ommen",
         "year_built": "1988"
-    },
-    {
-        "availableFromDate": "2022-06-07 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-06 15:11:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d898dc0136.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899283ca8.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89973ca04.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899be6201.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89a085e4b.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d898dc0136.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899283ca8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89973ca04.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d899be6201.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2818-624d89a085e4b.jpg",
-        "reactions": 151,
-        "rent": 660.44,
-        "rooms": "3",
-        "size": 75,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2818-kruserbrink-44-hardenberg",
-        "year_built": "1960"
-    },
-    {
-        "availableFromDate": "2022-05-12 00:00:00",
-        "city": "Balkbrug",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-06 14:40:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f2bf9d2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f7ee21f.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89fc6ccf6.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d8a014228e.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f2bf9d2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89f7ee21f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d89fc6ccf6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2819-624d8a014228e.jpg",
-        "reactions": 75,
-        "rent": 703.78,
-        "rooms": "4",
-        "size": 86,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2819-debonkelaar-6-balkbrug",
-        "year_built": "1979"
-    },
-    {
-        "availableFromDate": "2022-05-11 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-06 14:45:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-4.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2820-4.jpg",
-        "reactions": 50,
-        "rent": 663.01,
-        "rooms": "3",
-        "size": 84,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2820-vansandickstraat-10-a-dedemsvaart",
-        "year_built": "2011"
-    },
-    {
-        "availableFromDate": "2022-06-15 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-06 14:49:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2574515.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2a43df7.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2e7ea7d.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2574515.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2a43df7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2821-624d8c2e7ea7d.jpg",
-        "reactions": 36,
-        "rent": 458.13,
-        "rooms": "1",
-        "size": 35,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2821-veldmaat-6-hardenberg",
-        "year_built": "1985"
-    },
-    {
-        "availableFromDate": "2022-06-07 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-06 15:23:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-4.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-5.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2822-5.jpg",
-        "reactions": 70,
-        "rent": 510.27,
-        "rooms": "2",
-        "size": 50,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2822-kareldoormanlaan-52-hardenberg",
-        "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2022-05-18 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-07 08:25:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e838b42a9f.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839074fba.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e8395ef21a.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839baf622.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e83a12ae6c.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e838b42a9f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839074fba.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e8395ef21a.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e839baf622.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2823-624e83a12ae6c.jpg",
-        "reactions": 23,
-        "rent": 669.96,
-        "rooms": "2",
-        "size": 71,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2823-havenweg-138-hardenberg",
-        "year_built": "1995"
-    },
-    {
-        "availableFromDate": "2022-04-15 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-07 08:46:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-1.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-2.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-3.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2824-3.jpg",
-        "reactions": 32,
-        "rent": 714.76,
-        "rooms": "3",
-        "size": 77,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2824-depraam-25-dedemsvaart",
-        "year_built": "1976"
-    },
-    {
-        "availableFromDate": "2022-04-29 00:00:00",
-        "city": "Bergentheim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-07 11:52:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb17f89334.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb184b0ad7.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18959034.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18e67dde.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb17f89334.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb184b0ad7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18959034.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2825-624eb18e67dde.jpg",
-        "reactions": 25,
-        "rent": 335.46,
-        "rooms": "1",
-        "size": 40,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2825-kerkweg-18-bergentheim",
-        "year_built": "1976"
-    },
-    {
-        "availableFromDate": "2022-05-06 00:00:00",
-        "city": "Gramsbergen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-07 13:29:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecab721d0b.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecabc66b27.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac1ea966.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac760ba5.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecab721d0b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecabc66b27.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac1ea966.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2826-624ecac760ba5.jpg",
-        "reactions": 58,
-        "rent": 696.56,
-        "rooms": "3",
-        "size": 78,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2826-goordijk-15-gramsbergen",
-        "year_built": "2009"
     },
     {
         "availableFromDate": "2022-04-29 00:00:00",
