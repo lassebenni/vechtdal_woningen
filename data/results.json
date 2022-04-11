@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-05-16 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-08 11:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg",
+        "reactions": 95,
+        "rent": 647.55,
+        "rooms": "2",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2828-jantooropstraat-28-ommen",
+        "year_built": "2005"
+    },
+    {
         "availableFromDate": "2022-05-18 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -74,25 +93,6 @@
         "size": 78,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2826-goordijk-15-gramsbergen",
         "year_built": "2009"
-    },
-    {
-        "availableFromDate": "2022-05-16 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-08 11:03:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96192e8b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff967591da.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff96cb439f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2828-624ff9723143b.jpg",
-        "reactions": 71,
-        "rent": 647.55,
-        "rooms": "2",
-        "size": 64,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2828-jantooropstraat-28-ommen",
-        "year_built": "2005"
     },
     {
         "availableFromDate": "2022-06-07 00:00:00",
