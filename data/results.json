@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-05-12 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-11 09:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg",
+        "reactions": 74,
+        "rent": 465.35,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2829-patrijsstraat-18-ommen",
+        "year_built": "1986"
+    },
+    {
         "availableFromDate": "2022-05-16 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
