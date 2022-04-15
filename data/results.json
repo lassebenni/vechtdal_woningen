@@ -1,24 +1,5 @@
 [
     {
-        "availableFromDate": "2022-05-12 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-11 09:18:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg",
-        "reactions": 105,
-        "rent": 465.35,
-        "rooms": "1",
-        "size": 35,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2829-patrijsstraat-18-ommen",
-        "year_built": "1986"
-    },
-    {
         "availableFromDate": "2022-05-18 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -31,7 +12,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-6255742314efa.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-6255740c1b5ed.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-62557411b5ff4.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-6255741758a9c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-6255741d2ee0d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2830-6255742314efa.jpg",
-        "reactions": 37,
+        "reactions": 39,
         "rent": 566.05,
         "rooms": "2",
         "size": 58,
@@ -49,7 +30,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2831-6255765015f20.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2831-625576456d8f2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2831-6255764ac427d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2831-6255765015f20.jpg",
-        "reactions": 102,
+        "reactions": 108,
         "rent": 770.47,
         "rooms": "3",
         "size": 111,
@@ -68,7 +49,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2832-6256806c9b7e2.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2832-6256805c48a24.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2832-62568061c0c60.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2832-625680671d975.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2832-6256806c9b7e2.jpg",
-        "reactions": 24,
+        "reactions": 30,
         "rent": 630.76,
         "rooms": "2",
         "size": 63,
@@ -86,7 +67,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2833-6256cd30d0eee.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2833-6256cd27105f2.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2833-6256cd2bbd97f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2833-6256cd30d0eee.jpg",
-        "reactions": 102,
+        "reactions": 108,
         "rent": 664.2,
         "rooms": "3",
         "size": 65,
@@ -103,12 +84,68 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2835-6256d09c2a060.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2835-6256d096d61c5.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2835-6256d09c2a060.jpg",
-        "reactions": 64,
+        "reactions": 73,
         "rent": 653.21,
         "rooms": "3",
         "size": 81,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2835-prinsesmarijkelaan-52-slagharen",
         "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-07-11 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-14 11:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e8269312a.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e82c4f3fe.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e831b6abd.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e8269312a.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e82c4f3fe.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2836-6257e831b6abd.jpg",
+        "reactions": 93,
+        "rent": 563.08,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2836-klaproos-29-hardenberg",
+        "year_built": "1987"
+    },
+    {
+        "availableFromDate": "2022-06-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-14 11:28:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e919d61ec.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e91fa09ad.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e925b76cb.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e92baa942.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e919d61ec.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e91fa09ad.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e925b76cb.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2837-6257e92baa942.jpg",
+        "reactions": 85,
+        "rent": 667.66,
+        "rooms": "4",
+        "size": 85,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2837-hofweg-39-hardenberg",
+        "year_built": "1981"
+    },
+    {
+        "availableFromDate": "2022-05-12 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-11 09:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5dcb66e0.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e22a50d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5e7ac589.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2829-6253d5ed2cfa9.jpg",
+        "reactions": 105,
+        "rent": 465.35,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2829-patrijsstraat-18-ommen",
+        "year_built": "1986"
     },
     {
         "availableFromDate": "2022-05-16 00:00:00",
