@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2022-07-06 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-20 10:16:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc1223be45.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc1283c384.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc12d91278.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc1223be45.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc1283c384.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2844-625fc12d91278.jpg",
+        "reactions": 167,
+        "rent": 689.22,
+        "rooms": "3",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2844-paasberg-69-hardenberg",
+        "year_built": "1976"
+    },
+    {
         "availableFromDate": "2022-06-15 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
