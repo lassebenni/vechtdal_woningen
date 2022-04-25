@@ -1,5 +1,44 @@
 [
     {
+        "availableFromDate": "2022-06-10 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-22 09:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254e5f2aa3.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254eb7f5be.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f152bf9.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f6cb118.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254e5f2aa3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254eb7f5be.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f152bf9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f6cb118.jpg",
+        "reactions": 96,
+        "rent": 628.05,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2848-lijsterstraat-23-dedemsvaart",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2022-06-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-22 12:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284679cb5f.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262849e3acf7.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262846d6afcd.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-62628472ed484.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284787e9be.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284679cb5f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262849e3acf7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262846d6afcd.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-62628472ed484.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284787e9be.jpg",
+        "reactions": 65,
+        "rent": 403.94,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2849-veldmaat-2-hardenberg",
+        "year_built": "1985"
+    },
+    {
         "availableFromDate": "2022-06-01 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -54,45 +93,6 @@
         "size": 41,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2847-admiraalhelfrichstraat-128-hardenberg",
         "year_built": "1983"
-    },
-    {
-        "availableFromDate": "2022-06-10 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-22 09:11:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254e5f2aa3.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254eb7f5be.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f152bf9.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f6cb118.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254e5f2aa3.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254eb7f5be.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f152bf9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2848-626254f6cb118.jpg",
-        "reactions": 75,
-        "rent": 628.05,
-        "rooms": "3",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2848-lijsterstraat-23-dedemsvaart",
-        "year_built": "1965"
-    },
-    {
-        "availableFromDate": "2022-06-02 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-22 12:34:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284679cb5f.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262849e3acf7.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262846d6afcd.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-62628472ed484.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284787e9be.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284679cb5f.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262849e3acf7.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-6262846d6afcd.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-62628472ed484.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2849-626284787e9be.jpg",
-        "reactions": 53,
-        "rent": 403.94,
-        "rooms": "1",
-        "size": 37,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2849-veldmaat-2-hardenberg",
-        "year_built": "1985"
     },
     {
         "availableFromDate": "2022-07-06 00:00:00",
