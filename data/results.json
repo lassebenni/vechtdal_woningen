@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2022-06-09 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-25 12:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2850-62667b8bc6657.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2850-62667b9115c13.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2850-62667b8bc6657.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2850-62667b9115c13.jpg",
+        "reactions": 118,
+        "rent": 671.28,
+        "rooms": "3",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2850-singelberg-74-hardenberg",
+        "year_built": "1978"
+    },
+    {
+        "availableFromDate": "2022-05-13 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-25 13:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667ef821bbc.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667efdd9590.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667f0372879.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667f097b73b.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667ef821bbc.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667efdd9590.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667f0372879.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2851-62667f097b73b.jpg",
+        "reactions": 23,
+        "rent": 534.48,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2851-vivaldi-37-dedemsvaart",
+        "year_built": "1996"
+    },
+    {
         "availableFromDate": "2022-06-10 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
