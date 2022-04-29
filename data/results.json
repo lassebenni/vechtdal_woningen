@@ -1,5 +1,97 @@
 [
     {
+        "availableFromDate": "2022-06-22 00:00:00",
+        "city": "Lemelerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-26 13:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8cfa99de.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8d54f168.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8da9beb2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8cfa99de.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8d54f168.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8da9beb2.jpg",
+        "reactions": 55,
+        "rent": 559.77,
+        "rooms": "2",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2854-hooilanden-31-lemelerveld",
+        "year_built": "2012"
+    },
+    {
+        "availableFromDate": "2022-06-16 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-26 13:46:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db2cc155d.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db3256a7c.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db2cc155d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db3256a7c.jpg",
+        "reactions": 22,
+        "rent": 633.28,
+        "rooms": "2",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2855-dokterwillemslaan-94-slagharen",
+        "year_built": "2011"
+    },
+    {
+        "availableFromDate": "2022-07-18 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-26 14:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb115170.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb66bcf9.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcbc13042.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcc1b70ad.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb115170.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb66bcf9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcbc13042.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcc1b70ad.jpg",
+        "reactions": 101,
+        "rent": 733.71,
+        "rooms": "3",
+        "size": 81,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2856-wentholtstraat-63-ommen",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-06-08 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-26 15:19:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f05db78b6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f0632ab9e.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f066c026c.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f06c85470.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f05db78b6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f0632ab9e.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f066c026c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f06c85470.jpg",
+        "reactions": 73,
+        "rent": 646.12,
+        "rooms": "3",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2858-havezathestraat-24-gramsbergen",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-07-11 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-26 15:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f4350ab86.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43a62042.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43fdfa5b.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f44566f89.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f4350ab86.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43a62042.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43fdfa5b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f44566f89.jpg",
+        "reactions": 82,
+        "rent": 633.55,
+        "rooms": "4",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2859-marijkestraat-24-dedemsvaart",
+        "year_built": "1957"
+    },
+    {
         "availableFromDate": "2022-06-09 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -34,98 +126,6 @@
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2851-vivaldi-37-dedemsvaart",
         "year_built": "1996"
-    },
-    {
-        "availableFromDate": "2022-06-22 00:00:00",
-        "city": "Lemelerveld",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-26 13:36:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8cfa99de.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8d54f168.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8da9beb2.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8cfa99de.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8d54f168.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2854-6267d8da9beb2.jpg",
-        "reactions": 44,
-        "rent": 559.77,
-        "rooms": "2",
-        "size": 57,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2854-hooilanden-31-lemelerveld",
-        "year_built": "2012"
-    },
-    {
-        "availableFromDate": "2022-06-16 00:00:00",
-        "city": "Slagharen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-26 13:46:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db2cc155d.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db3256a7c.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db2cc155d.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2855-6267db3256a7c.jpg",
-        "reactions": 19,
-        "rent": 633.28,
-        "rooms": "2",
-        "size": 56,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2855-dokterwillemslaan-94-slagharen",
-        "year_built": "2011"
-    },
-    {
-        "availableFromDate": "2022-07-18 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-26 14:44:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb115170.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb66bcf9.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcbc13042.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcc1b70ad.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb115170.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcb66bcf9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcbc13042.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2856-6267dcc1b70ad.jpg",
-        "reactions": 90,
-        "rent": 733.71,
-        "rooms": "3",
-        "size": 81,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2856-wentholtstraat-63-ommen",
-        "year_built": "1966"
-    },
-    {
-        "availableFromDate": "2022-06-08 00:00:00",
-        "city": "Gramsbergen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-26 15:19:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f05db78b6.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f0632ab9e.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f066c026c.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f06c85470.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f05db78b6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f0632ab9e.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f066c026c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2858-6267f06c85470.jpg",
-        "reactions": 65,
-        "rent": 646.12,
-        "rooms": "3",
-        "size": 67,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2858-havezathestraat-24-gramsbergen",
-        "year_built": "1968"
-    },
-    {
-        "availableFromDate": "2022-07-11 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-04-26 15:34:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f4350ab86.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43a62042.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43fdfa5b.jpg",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f44566f89.jpg"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f4350ab86.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43a62042.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f43fdfa5b.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2859-6267f44566f89.jpg",
-        "reactions": 69,
-        "rent": 633.55,
-        "rooms": "4",
-        "size": 71,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2859-marijkestraat-24-dedemsvaart",
-        "year_built": "1957"
     },
     {
         "availableFromDate": "2022-06-10 00:00:00",
