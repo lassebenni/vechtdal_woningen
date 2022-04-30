@@ -1,5 +1,25 @@
 [
     {
+        "availableFromDate": "2022-06-03 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-04-29 09:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b975a93293.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b9760447d9.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b9765bf111.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b976b4cee6.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b977106847.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b975a93293.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b9760447d9.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b9765bf111.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b976b4cee6.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2860-626b977106847.jpg",
+        "reactions": 78,
+        "rent": 500.68,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2860-spaanskamp-169-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2022-06-22 00:00:00",
         "city": "Lemelerveld",
         "corporation": "Vechtdal Wonen",
