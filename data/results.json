@@ -1,5 +1,44 @@
 [
     {
+        "availableFromDate": "2022-07-13 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-03 09:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cabc4eaa8.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac22f0e1.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac7d2d04.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cacd84a4c.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cad309699.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cabc4eaa8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac22f0e1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac7d2d04.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cacd84a4c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cad309699.jpg",
+        "reactions": 112,
+        "rent": 629.84,
+        "rooms": "3",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2861-dehogeesch-34-gramsbergen",
+        "year_built": "1973"
+    },
+    {
+        "availableFromDate": "2022-07-20 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-03 13:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b558c5ec.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b5bc431c.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b60e2883.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b6624dcd.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b558c5ec.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b5bc431c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b60e2883.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b6624dcd.jpg",
+        "reactions": 149,
+        "rent": 678.65,
+        "rooms": "4",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2862-wittedewithstraat-16-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2022-06-03 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
