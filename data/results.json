@@ -12,7 +12,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cad309699.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cabc4eaa8.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac22f0e1.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cac7d2d04.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cacd84a4c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2861-6270cad309699.jpg",
-        "reactions": 112,
+        "reactions": 127,
         "rent": 629.84,
         "rooms": "3",
         "size": 72,
@@ -31,12 +31,67 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b6624dcd.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b558c5ec.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b5bc431c.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b60e2883.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2862-62710b6624dcd.jpg",
-        "reactions": 149,
+        "reactions": 187,
         "rent": 678.65,
         "rooms": "4",
         "size": 68,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2862-wittedewithstraat-16-hardenberg",
         "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-06-13 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-04 13:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG",
+        "reactions": 31,
+        "rent": 730.42,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2864-schoolstraat-73-kloosterhaar",
+        "year_built": "2017"
+    },
+    {
+        "availableFromDate": "2022-07-04 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-04 14:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG",
+        "reactions": 44,
+        "rent": 652.12,
+        "rooms": "5",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2865-fredriksstraat-18-kloosterhaar",
+        "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2022-06-23 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-05 09:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG",
+        "reactions": 0,
+        "rent": 620.69,
+        "rooms": "3",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2868-kerkweg-69-bergentheim",
+        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-06-03 00:00:00",
