@@ -1,5 +1,97 @@
 [
     {
+        "availableFromDate": "2022-06-13 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-04 13:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG",
+        "reactions": 50,
+        "rent": 730.42,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2864-schoolstraat-73-kloosterhaar",
+        "year_built": "2017"
+    },
+    {
+        "availableFromDate": "2022-07-04 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-04 14:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG",
+        "reactions": 55,
+        "rent": 652.12,
+        "rooms": "5",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2865-fredriksstraat-18-kloosterhaar",
+        "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2022-06-23 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-05 09:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG",
+        "reactions": 57,
+        "rent": 620.69,
+        "rooms": "3",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2868-kerkweg-69-bergentheim",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-06-29 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-06 09:53:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3283f218.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3285e449.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3287aa4d.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3283f218.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3285e449.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2869-6274d3287aa4d.JPG",
+        "reactions": 57,
+        "rent": 770.47,
+        "rooms": "4",
+        "size": 88,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2869-vinkenstraat-6-hardenberg",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-06-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-06 10:06:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69fc082e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69fda2ca.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69feeb30.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d6a00caf4.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69fc082e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69fda2ca.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d69feeb30.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2870-6274d6a00caf4.JPG",
+        "reactions": 36,
+        "rent": 535.57,
+        "rooms": "1",
+        "size": 50,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2870-kareldoormanlaan-42-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2022-07-13 00:00:00",
         "city": "Gramsbergen",
         "corporation": "Vechtdal Wonen",
@@ -37,61 +129,6 @@
         "size": 68,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2862-wittedewithstraat-16-hardenberg",
         "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2022-06-13 00:00:00",
-        "city": "Kloosterhaar",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-05-04 13:59:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec2a1ac.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec52b5c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec67f2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2864-627265ec7b81a.JPG",
-        "reactions": 40,
-        "rent": 730.42,
-        "rooms": "3",
-        "size": 61,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2864-schoolstraat-73-kloosterhaar",
-        "year_built": "2017"
-    },
-    {
-        "availableFromDate": "2022-07-04 00:00:00",
-        "city": "Kloosterhaar",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-05-04 14:04:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7276e7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2865-62726b7292cfb.JPG",
-        "reactions": 49,
-        "rent": 652.12,
-        "rooms": "5",
-        "size": 70,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2865-fredriksstraat-18-kloosterhaar",
-        "year_built": "1971"
-    },
-    {
-        "availableFromDate": "2022-06-23 00:00:00",
-        "city": "Bergentheim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-05-05 09:10:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734654bb4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734669805.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-627373467ff4f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2868-6273734692cc4.JPG",
-        "reactions": 46,
-        "rent": 620.69,
-        "rooms": "3",
-        "size": 62,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2868-kerkweg-69-bergentheim",
-        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-06-03 00:00:00",
