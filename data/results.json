@@ -1,5 +1,83 @@
 [
     {
+        "availableFromDate": "2022-07-07 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-09 10:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e603cbd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e619b22.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e62c45c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e640d23.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e653768.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e603cbd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e619b22.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e62c45c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e640d23.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e653768.JPG",
+        "reactions": 95,
+        "rent": 681.79,
+        "rooms": "3",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2871-leeuwenbekstraat-7-ommen",
+        "year_built": "1970"
+    },
+    {
+        "availableFromDate": "2022-06-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-09 10:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb49dbafa.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a02a22.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a1a7ae.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a2d7ef.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb49dbafa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a02a22.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a1a7ae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a2d7ef.JPG",
+        "reactions": 57,
+        "rent": 700.16,
+        "rooms": "2",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2872-kamferbekestraat-28-hardenberg",
+        "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2022-07-07 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-09 10:19:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce676a39a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278cf0a3cc29.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce677f776.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce6792a57.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce676a39a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278cf0a3cc29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce677f776.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce6792a57.JPG",
+        "reactions": 87,
+        "rent": 600.16,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2873-wilhelminastraat-30-dedemsvaart",
+        "year_built": "1955"
+    },
+    {
+        "availableFromDate": "2022-06-02 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-09 11:40:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc923188.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc939401.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc94b387.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc95e424.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc97a7e1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc923188.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc939401.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc94b387.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc95e424.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc97a7e1.JPG",
+        "reactions": 32,
+        "rent": 566.61,
+        "rooms": "2",
+        "size": 55,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2874-janhoutmanstraat-21-ommen",
+        "year_built": "2008"
+    },
+    {
         "availableFromDate": "2022-06-29 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
