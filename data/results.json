@@ -12,7 +12,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e653768.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e603cbd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e619b22.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e62c45c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e640d23.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2871-6278c7e653768.JPG",
-        "reactions": 95,
+        "reactions": 138,
         "rent": 681.79,
         "rooms": "3",
         "size": 67,
@@ -31,7 +31,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a2d7ef.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb49dbafa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a02a22.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a1a7ae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2872-6278cb4a2d7ef.JPG",
-        "reactions": 57,
+        "reactions": 88,
         "rent": 700.16,
         "rooms": "2",
         "size": 74,
@@ -50,7 +50,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce6792a57.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce676a39a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278cf0a3cc29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce677f776.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2873-6278ce6792a57.JPG",
-        "reactions": 87,
+        "reactions": 127,
         "rent": 600.16,
         "rooms": "3",
         "size": 58,
@@ -70,12 +70,30 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc97a7e1.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc923188.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc939401.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc94b387.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc95e424.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2874-6278dfc97a7e1.JPG",
-        "reactions": 32,
+        "reactions": 52,
         "rent": 566.61,
         "rooms": "2",
         "size": 55,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2874-janhoutmanstraat-21-ommen",
         "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-06-20 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-11 07:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG",
+        "reactions": 3,
+        "rent": 580.9,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2876-prinsesbeatrixlaan-9-slagharen",
+        "year_built": "2007"
     },
     {
         "availableFromDate": "2022-06-29 00:00:00",
