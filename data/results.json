@@ -1,5 +1,60 @@
 [
     {
+        "availableFromDate": "2022-06-20 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-11 07:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG",
+        "reactions": 32,
+        "rent": 580.9,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2876-prinsesbeatrixlaan-9-slagharen",
+        "year_built": "2007"
+    },
+    {
+        "availableFromDate": "2022-06-27 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-12 09:51:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd5d56a5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd5ea5d9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd60b331.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd6221b5.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd5d56a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd5ea5d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd60b331.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2878-627cbbd6221b5.JPG",
+        "reactions": 55,
+        "rent": 562.11,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2878-spaanskamp-21-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-07-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-12 14:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034359f50.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034371fb8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034386838.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034359f50.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034371fb8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2879-627d034386838.JPG",
+        "reactions": 46,
+        "rent": 510.53,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2879-spaanskamp-103-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2022-07-07 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -76,24 +131,6 @@
         "size": 55,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2874-janhoutmanstraat-21-ommen",
         "year_built": "2008"
-    },
-    {
-        "availableFromDate": "2022-06-20 00:00:00",
-        "city": "Slagharen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-05-11 07:36:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b091337f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b09436db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2876-627b4b095f45f.JPG",
-        "reactions": 25,
-        "rent": 580.9,
-        "rooms": "2",
-        "size": 58,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2876-prinsesbeatrixlaan-9-slagharen",
-        "year_built": "2007"
     },
     {
         "availableFromDate": "2022-06-29 00:00:00",
