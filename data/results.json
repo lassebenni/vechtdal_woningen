@@ -1,5 +1,25 @@
 [
     {
+        "availableFromDate": "2022-07-01 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-13 14:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e490809cb1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908212e6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908358eb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49084a50d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49085d9eb.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e490809cb1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908212e6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908358eb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49084a50d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49085d9eb.JPG",
+        "reactions": 43,
+        "rent": 648.38,
+        "rooms": "1",
+        "size": 51,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2881-stationsweg-3-bergentheim",
+        "year_built": "2013"
+    },
+    {
         "availableFromDate": "2022-06-27 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -35,26 +55,6 @@
         "size": 63,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2879-spaanskamp-103-hardenberg",
         "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2022-07-01 00:00:00",
-        "city": "Bergentheim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-05-13 14:04:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e490809cb1.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908212e6.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908358eb.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49084a50d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49085d9eb.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e490809cb1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908212e6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e4908358eb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49084a50d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2881-627e49085d9eb.JPG",
-        "reactions": 34,
-        "rent": 648.38,
-        "rooms": "1",
-        "size": 51,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2881-stationsweg-3-bergentheim",
-        "year_built": "2013"
     },
     {
         "availableFromDate": "2022-06-20 00:00:00",
