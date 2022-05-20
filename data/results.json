@@ -1,5 +1,133 @@
 [
     {
+        "availableFromDate": "2022-06-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-17 07:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2883-6283355a9e4e7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2883-6283355ab9f02.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2883-6283355a9e4e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2883-6283355ab9f02.JPG",
+        "reactions": 47,
+        "rent": 503.41,
+        "rooms": "2",
+        "size": 49,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2883-salland-25-hardenberg",
+        "year_built": "1986"
+    },
+    {
+        "availableFromDate": "2022-07-13 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-17 12:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01b7a5d9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01b984ec.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01baef63.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01bd2d09.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01beb016.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01b7a5d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01b984ec.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01baef63.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01bd2d09.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2884-6284c01beb016.JPG",
+        "reactions": 91,
+        "rent": 757.5,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2884-gerardterborchstraat-5-ommen",
+        "year_built": "2004"
+    },
+    {
+        "availableFromDate": "2022-06-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-19 09:22:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efaacbd01.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab0e0ab.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab3e6f8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab6cd2f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab89238.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efaacbd01.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab0e0ab.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab3e6f8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab6cd2f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2885-6285efab89238.JPG",
+        "reactions": 25,
+        "rent": 517.86,
+        "rooms": "2",
+        "size": 49,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2885-salland-28-hardenberg",
+        "year_built": "1986"
+    },
+    {
+        "availableFromDate": "2022-06-09 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-19 15:48:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2886-62864970e21d4.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2886-62864970e21d4.PNG",
+        "reactions": 5,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2886-herikstraat-1-dgar-ommen",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-07-18 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-19 16:02:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5cbcaec.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5cd3307.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5ce87c8.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5cbcaec.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5cd3307.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2887-62864d5ce87c8.JPG",
+        "reactions": 59,
+        "rent": 655.46,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2887-witmanweg-18-slagharen",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2022-08-12 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-19 16:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b48aec.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b5eaff.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b76e13.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b48aec.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b5eaff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2888-6286501b76e13.JPG",
+        "reactions": 91,
+        "rent": 611.02,
+        "rooms": "3",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2888-wittedewithstraat-31-ommen",
+        "year_built": "1961"
+    },
+    {
+        "availableFromDate": "2022-07-01 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-20 08:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-62873865516be.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-6287386568e64.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-628738657c038.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-6287386591c52.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-62873865516be.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-6287386568e64.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-628738657c038.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2889-6287386591c52.JPG",
+        "reactions": 4,
+        "rent": 689.22,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2889-jacobmarisstraat-96-ommen",
+        "year_built": "2004"
+    },
+    {
         "availableFromDate": "2022-07-01 00:00:00",
         "city": "Bergentheim",
         "corporation": "Vechtdal Wonen",
