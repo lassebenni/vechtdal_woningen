@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-08-01 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-05-23 11:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbaa6512.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbac07bd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbad82e8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbaeedff.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbaa6512.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbac07bd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbad82e8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2892-628b3dbaeedff.JPG",
+        "reactions": 50,
+        "rent": 635.28,
+        "rooms": "3",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2892-marsstraat-4-dekrim",
+        "year_built": "1974"
+    },
+    {
         "availableFromDate": "2022-07-01 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
