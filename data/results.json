@@ -1,5 +1,62 @@
 [
     {
+        "availableFromDate": "2022-08-31 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-17 12:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac217b6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac48359.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac62303.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac7cbc7.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac217b6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac48359.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac62303.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2936-62ac48ac7cbc7.JPG",
+        "reactions": 72,
+        "rent": 558.27,
+        "rooms": "3",
+        "size": 50,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2936-gentiaanstraat-37-dedemsvaart",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-07-28 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-17 16:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8affbb229.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b017a35e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b0644ec6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b06da103.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8affbb229.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b017a35e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b0644ec6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2937-62ac8b06da103.JPG",
+        "reactions": 32,
+        "rent": 496.28,
+        "rooms": "1",
+        "size": 47,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2937-buizerd-29-ommen",
+        "year_built": "1982"
+    },
+    {
+        "availableFromDate": "2022-07-28 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-17 16:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be836fc4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be8565dd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be86a221.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be87e791.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be836fc4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be8565dd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be86a221.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2938-62ac8be87e791.JPG",
+        "reactions": 54,
+        "rent": 674.36,
+        "rooms": "3",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2938-vanlimburgstirumstraat-20-bergentheim",
+        "year_built": "1966"
+    },
+    {
         "availableFromDate": "2022-09-26 00:00:00",
         "city": "Bergentheim",
         "corporation": "Vechtdal Wonen",
