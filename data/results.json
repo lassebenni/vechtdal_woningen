@@ -1,5 +1,56 @@
 [
     {
+        "availableFromDate": "2022-07-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-24 14:57:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2956-62b5b4b0ddf19.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2956-62b5b4b0ddf19.PNG",
+        "reactions": 0,
+        "rent": 31.6,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2956-demulderij-17--4ppl-hardenberg",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2022-07-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-24 15:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2957-62b5b542479b5.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2957-62b5b542479b5.PNG",
+        "reactions": 0,
+        "rent": 31.6,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2957-demulderij-17--39ppl-hardenberg",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2022-09-19 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-06-24 13:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf506fbc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf526ea3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf53da81.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf552c01.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf506fbc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf526ea3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf53da81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf552c01.JPG",
+        "reactions": 55,
+        "rent": 770.47,
+        "rooms": "3",
+        "size": 111,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2955-eiberweg-56-dedemsvaart",
+        "year_built": "1971"
+    },
+    {
         "availableFromDate": "2022-07-12 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -73,57 +124,6 @@
         "size": 90,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2954-debonkelaar-2-balkbrug",
         "year_built": "1979"
-    },
-    {
-        "availableFromDate": "2022-07-01 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-06-24 14:57:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2956-62b5b4b0ddf19.PNG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2956-62b5b4b0ddf19.PNG",
-        "reactions": 0,
-        "rent": 31.6,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2956-demulderij-17--4ppl-hardenberg",
-        "year_built": "1989"
-    },
-    {
-        "availableFromDate": "2022-07-01 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-06-24 15:12:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2957-62b5b542479b5.PNG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2957-62b5b542479b5.PNG",
-        "reactions": 0,
-        "rent": 31.6,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2957-demulderij-17--39ppl-hardenberg",
-        "year_built": "1989"
-    },
-    {
-        "availableFromDate": "2022-09-19 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-06-24 13:13:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf506fbc.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf526ea3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf53da81.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf552c01.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf506fbc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf526ea3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf53da81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2955-62b59bf552c01.JPG",
-        "reactions": 41,
-        "rent": 770.47,
-        "rooms": "3",
-        "size": 111,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2955-eiberweg-56-dedemsvaart",
-        "year_built": "1971"
     },
     {
         "availableFromDate": "2022-09-27 00:00:00",
