@@ -1,5 +1,42 @@
 [
     {
+        "availableFromDate": "2022-07-14 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-05 09:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed2e1282.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed2f2dd7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed30d116.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed2e1282.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed2f2dd7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2967-62beeed30d116.JPG",
+        "reactions": 159,
+        "rent": 744.14,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2967-havikstraat-16-dedemsvaart",
+        "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2022-09-08 00:00:00",
+        "city": "Lemelerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-05 15:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbae274e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb2303e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb4d45f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb73e46.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbae274e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb2303e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb4d45f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2971-62c43bbb73e46.JPG",
+        "reactions": 48,
+        "rent": 629.84,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2971-dsckeersstraat-59-lemelerveld",
+        "year_built": "1991"
+    },
+    {
         "availableFromDate": "2022-09-22 00:00:00",
         "city": "Gramsbergen",
         "corporation": "Vechtdal Wonen",
