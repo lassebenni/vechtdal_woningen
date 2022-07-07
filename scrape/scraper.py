@@ -36,8 +36,12 @@ def scrape_listings():
 
         fetched_listings: List[Listing] = []
         for listing in _res["result"]:
-            detailed_listing = fetch_detailed_listing(listing["id"])
-            fetched_listings.append(create_listing(detailed_listing))
+            try:
+                detailed_listing = fetch_detailed_listing(listing["id"])
+                fetched_listings.append(create_listing(detailed_listing))
+            except Exception as e:
+                logger.error(f"Error while fetching listing: {listing}")
+                continue
 
         if fetched_listings:
             store_listings(fetched_listings)
