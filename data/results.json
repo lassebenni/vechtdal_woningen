@@ -1,5 +1,40 @@
 [
     {
+        "availableFromDate": "2022-10-20 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-13 14:51:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea4e4f8d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea5123af.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea52c206.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea4e4f8d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea5123af.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2978-62cebea52c206.JPG",
+        "reactions": 133,
+        "rent": 670.66,
+        "rooms": "4",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2978-sportlaan-9-hardenberg",
+        "year_built": "1959"
+    },
+    {
+        "availableFromDate": "2022-08-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-13 15:09:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2979-62cec3ae21fba.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2979-62cec3ae395cf.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2979-62cec3ae21fba.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2979-62cec3ae395cf.JPG",
+        "reactions": 87,
+        "rent": 567.23,
+        "rooms": "1",
+        "size": 39,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2979-barbierstraat-11-hardenberg",
+        "year_built": "2017"
+    },
+    {
         "availableFromDate": "2022-07-14 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
