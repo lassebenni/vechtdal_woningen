@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-09-15 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-14 09:51:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca837ea46.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca8393e27.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83aba12.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83c5d23.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca837ea46.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca8393e27.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83aba12.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83c5d23.JPG",
+        "reactions": 133,
+        "rent": 635.03,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2983-rozenstraat-18-dedemsvaart",
+        "year_built": "1963"
+    },
+    {
         "availableFromDate": "2022-10-20 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -33,25 +52,6 @@
         "size": 39,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2979-barbierstraat-11-hardenberg",
         "year_built": "2017"
-    },
-    {
-        "availableFromDate": "2022-09-15 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-14 09:51:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca837ea46.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca8393e27.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83aba12.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83c5d23.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca837ea46.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca8393e27.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83aba12.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2983-62cfca83c5d23.JPG",
-        "reactions": 125,
-        "rent": 635.03,
-        "rooms": "3",
-        "size": 66,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2983-rozenstraat-18-dedemsvaart",
-        "year_built": "1963"
     },
     {
         "availableFromDate": "2022-07-14 00:00:00",
