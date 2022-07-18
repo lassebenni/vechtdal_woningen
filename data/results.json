@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-09-12 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-18 08:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa48ce1e6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4902639.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4918c7f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4931b89.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa48ce1e6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4902639.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4918c7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2986-62d4fa4931b89.JPG",
+        "reactions": 5,
+        "rent": 410.95,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2986-kleinepollen-44-hardenberg",
+        "year_built": "1984"
+    },
+    {
         "availableFromDate": "2022-09-15 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
