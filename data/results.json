@@ -1,5 +1,99 @@
 [
     {
+        "availableFromDate": "2022-09-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-19 10:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d6647261872.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472a70b2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472b9b72.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472ccb80.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472e088a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d6647261872.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472a70b2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472b9b72.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472ccb80.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472e088a.JPG",
+        "reactions": 107,
+        "rent": 465.46,
+        "rooms": "2",
+        "size": 52,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2988-burgemeesterbramerstraat-141-hardenberg",
+        "year_built": "2010"
+    },
+    {
+        "availableFromDate": "2022-07-26 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-20 07:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796caf0bc5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb357e0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb48fe4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb5a5e7.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796caf0bc5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb357e0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb48fe4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb5a5e7.JPG",
+        "reactions": 80,
+        "rent": 540.8,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2990-kerkweg-50-bergentheim",
+        "year_built": "1974"
+    },
+    {
+        "availableFromDate": "2022-10-03 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-20 10:28:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadb1bb8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadd1285.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbade83e4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae09333.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae21b9e.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadb1bb8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadd1285.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbade83e4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae09333.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae21b9e.JPG",
+        "reactions": 124,
+        "rent": 585.31,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2991-ganzebloem-35-hardenberg",
+        "year_built": "1991"
+    },
+    {
+        "availableFromDate": "2022-09-21 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-20 10:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3c9c5ed.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cb1327.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cc60f8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cd99a3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3c9c5ed.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cb1327.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cc60f8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cd99a3.JPG",
+        "reactions": 28,
+        "rent": 752.28,
+        "rooms": "3",
+        "size": 83,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2992-burgemeesterbaronvanvoerstvanlyndenstraat-3-a-gramsbergen",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-07-31 00:00:00",
+        "city": "Sibculo",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-19 11:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG",
+        "reactions": 0,
+        "rent": 0,
+        "rooms": "4",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2989-grachtstraat-61-sibculo",
+        "year_built": "1966"
+    },
+    {
         "availableFromDate": "2022-09-12 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -34,100 +128,6 @@
         "rooms": "3",
         "size": 73,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2987-gerarddoustraat-4-hardenberg",
-        "year_built": "1966"
-    },
-    {
-        "availableFromDate": "2022-09-01 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-19 10:01:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d6647261872.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472a70b2.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472b9b72.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472ccb80.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472e088a.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d6647261872.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472a70b2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472b9b72.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472ccb80.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2988-62d66472e088a.JPG",
-        "reactions": 99,
-        "rent": 465.46,
-        "rooms": "2",
-        "size": 52,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2988-burgemeesterbramerstraat-141-hardenberg",
-        "year_built": "2010"
-    },
-    {
-        "availableFromDate": "2022-07-26 00:00:00",
-        "city": "Bergentheim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-20 07:47:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796caf0bc5.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb357e0.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb48fe4.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb5a5e7.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796caf0bc5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb357e0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb48fe4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2990-62d796cb5a5e7.JPG",
-        "reactions": 61,
-        "rent": 540.8,
-        "rooms": "3",
-        "size": 68,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2990-kerkweg-50-bergentheim",
-        "year_built": "1974"
-    },
-    {
-        "availableFromDate": "2022-10-03 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-20 10:28:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadb1bb8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadd1285.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbade83e4.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae09333.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae21b9e.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadb1bb8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbadd1285.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbade83e4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae09333.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2991-62d7bbae21b9e.JPG",
-        "reactions": 97,
-        "rent": 585.31,
-        "rooms": "3",
-        "size": 58,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2991-ganzebloem-35-hardenberg",
-        "year_built": "1991"
-    },
-    {
-        "availableFromDate": "2022-09-21 00:00:00",
-        "city": "Gramsbergen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-20 10:36:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3c9c5ed.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cb1327.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cc60f8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cd99a3.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3c9c5ed.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cb1327.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cc60f8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2992-62d7be3cd99a3.JPG",
-        "reactions": 17,
-        "rent": 752.28,
-        "rooms": "3",
-        "size": 83,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2992-burgemeesterbaronvanvoerstvanlyndenstraat-3-a-gramsbergen",
-        "year_built": "2008"
-    },
-    {
-        "availableFromDate": "2022-07-31 00:00:00",
-        "city": "Sibculo",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-19 11:30:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG",
-        "reactions": 0,
-        "rent": 0,
-        "rooms": "4",
-        "size": 64,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2989-grachtstraat-61-sibculo",
         "year_built": "1966"
     },
     {
