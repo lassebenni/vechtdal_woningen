@@ -1,5 +1,21 @@
 [
     {
+        "availableFromDate": "2022-07-31 00:00:00",
+        "city": "Sibculo",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-19 11:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG",
+        "reactions": 0,
+        "rent": 0,
+        "rooms": "4",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2989-grachtstraat-61-sibculo",
+        "year_built": "1966"
+    },
+    {
         "availableFromDate": "2022-10-03 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -36,22 +52,6 @@
         "size": 60,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2996-goudenregenstraat-6-gramsbergen",
         "year_built": "1965"
-    },
-    {
-        "availableFromDate": "2022-07-31 00:00:00",
-        "city": "Sibculo",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-07-19 11:30:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/2989-62d66d2b7b71f.JPG",
-        "reactions": 0,
-        "rent": 0,
-        "rooms": "4",
-        "size": 64,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/2989-grachtstraat-61-sibculo",
-        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-07-26 00:00:00",
