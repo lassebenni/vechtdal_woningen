@@ -1,5 +1,98 @@
 [
     {
+        "availableFromDate": "2022-09-21 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-26 10:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8ceeff9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8d14f17.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8d2a999.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8ceeff9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8d14f17.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3001-62df7b8d2a999.JPG",
+        "reactions": 59,
+        "rent": 638.52,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3001-burgemeesterbaronvanvoerstvanlyndenstraat-12-gramsbergen",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-10-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-26 15:02:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4b5065.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4cba5f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4e0084.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b50027a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4b5065.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4cba5f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b4e0084.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3002-62dfe2b50027a.JPG",
+        "reactions": 99,
+        "rent": 730.01,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3002-violenstraat-34-ommen",
+        "year_built": "1973"
+    },
+    {
+        "availableFromDate": "2022-11-02 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-26 15:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80cd35ea.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80ceb465.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80d0ae5b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80cd35ea.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80ceb465.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3003-62dfe80d0ae5b.JPG",
+        "reactions": 56,
+        "rent": 548.22,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3003-kleinhaar-61-kloosterhaar",
+        "year_built": "1987"
+    },
+    {
+        "availableFromDate": "2022-09-15 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-26 15:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe925e198d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe926028ea.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92619d0a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92631a49.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92644fb6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe925e198d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe926028ea.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92619d0a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92631a49.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3004-62dfe92644fb6.JPG",
+        "reactions": 17,
+        "rent": 594.76,
+        "rooms": "2",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3004-gijsbertkarelvanhogendorpstraat-16-bergentheim",
+        "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2022-10-12 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-07-26 15:23:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7de2e16.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7e0be10.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7e24a06.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7de2e16.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7e0be10.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3005-62dfea7e24a06.JPG",
+        "reactions": 67,
+        "rent": 681.79,
+        "rooms": "4",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3005-marijkestraat-1-dedemsvaart",
+        "year_built": "1957"
+    },
+    {
         "availableFromDate": "2022-07-31 00:00:00",
         "city": "Sibculo",
         "corporation": "Vechtdal Wonen",
