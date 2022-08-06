@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-09-12 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-05 09:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc308c9fd5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc308e329c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc309082a7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc309235da.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc308c9fd5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc308e329c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc309082a7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3016-62ecc309235da.JPG",
+        "reactions": 51,
+        "rent": 459.17,
+        "rooms": "1",
+        "size": 34,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3016-veldmaat-38-hardenberg",
+        "year_built": "1985"
+    },
+    {
         "availableFromDate": "2022-07-31 00:00:00",
         "city": "Sibculo",
         "corporation": "Vechtdal Wonen",
