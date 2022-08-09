@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-09-09 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-08 15:58:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3017-62f116545d6c1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3017-62f1165474c8c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3017-62f116545d6c1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3017-62f1165474c8c.JPG",
+        "reactions": 48,
+        "rent": 640.01,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3017-bisschopshof-30-hardenberg",
+        "year_built": "2009"
+    },
+    {
         "availableFromDate": "2022-09-12 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
