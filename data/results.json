@@ -1,5 +1,77 @@
 [
     {
+        "availableFromDate": "2022-10-03 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-10 11:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d56d00.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d7386e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d8b42e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d9e02c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d56d00.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d7386e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d8b42e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d9e02c.JPG",
+        "reactions": 183,
+        "rent": 609.48,
+        "rooms": "3",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3018-wittedewithstraat-3-ommen",
+        "year_built": "1961"
+    },
+    {
+        "availableFromDate": "2022-10-17 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-11 09:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b68027237.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b6804776c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b6805d8f2.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b68027237.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b6804776c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3019-62f4b6805d8f2.JPG",
+        "reactions": 42,
+        "rent": 748.14,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3019-schuttevaer-16-dedemsvaart",
+        "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2022-10-12 00:00:00",
+        "city": "Bruchterveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-11 10:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f02c12b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f06143a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f0a7a9c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f110227.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f02c12b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f06143a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f0a7a9c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3020-62f4b7f110227.JPG",
+        "reactions": 64,
+        "rent": 666.58,
+        "rooms": "3",
+        "size": 73,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3020-schoolstraat-8-bruchterveld",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-09-09 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-12 08:48:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3014-1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3014-1.JPG",
+        "reactions": 0,
+        "rent": 422.07,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3014-patrijsstraat-42-a-ommen",
+        "year_built": "1986"
+    },
+    {
         "availableFromDate": "2022-09-09 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -15,25 +87,6 @@
         "size": 62,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3017-bisschopshof-30-hardenberg",
         "year_built": "2009"
-    },
-    {
-        "availableFromDate": "2022-10-03 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-08-10 11:25:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d56d00.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d7386e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d8b42e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d9e02c.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d56d00.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d7386e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d8b42e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3018-62f3786d9e02c.JPG",
-        "reactions": 142,
-        "rent": 609.48,
-        "rooms": "3",
-        "size": 57,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3018-wittedewithstraat-3-ommen",
-        "year_built": "1961"
     },
     {
         "availableFromDate": "2022-09-12 00:00:00",
