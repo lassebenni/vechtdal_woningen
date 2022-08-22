@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-09-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-19 10:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44845eac4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff448475ed7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44848908b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44849d83f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44845eac4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff448475ed7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44848908b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44849d83f.JPG",
+        "reactions": 64,
+        "rent": 384.12,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3030-salland-49-hardenberg",
+        "year_built": "1986"
+    },
+    {
         "availableFromDate": "2022-09-16 00:00:00",
         "city": "Bergentheim",
         "corporation": "Vechtdal Wonen",
@@ -56,25 +75,6 @@
         "size": 47,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3029-sportlaan-17-hardenberg",
         "year_built": "2015"
-    },
-    {
-        "availableFromDate": "2022-09-15 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-08-19 10:07:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44845eac4.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff448475ed7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44848908b.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44849d83f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44845eac4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff448475ed7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44848908b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3030-62ff44849d83f.JPG",
-        "reactions": 46,
-        "rent": 384.12,
-        "rooms": "1",
-        "size": 40,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3030-salland-49-hardenberg",
-        "year_built": "1986"
     },
     {
         "availableFromDate": "2022-09-19 00:00:00",
