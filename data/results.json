@@ -12,29 +12,12 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-63035056417e4.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-630350555389d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-63035055ae430.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-63035055e9e6d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-6303505624671.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3032-63035056417e4.JPG",
-        "reactions": 103,
+        "reactions": 113,
         "rent": 652.12,
         "rooms": "3",
         "size": 70,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3032-kerkweg-66-bergentheim",
         "year_built": "1974"
-    },
-    {
-        "availableFromDate": "2022-10-24 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-08-23 08:47:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947c8958d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947ca2a5e.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947c8958d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947ca2a5e.JPG",
-        "reactions": 100,
-        "rent": 705.52,
-        "rooms": "4",
-        "size": 72,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3031-lijsterstraat-9-dedemsvaart",
-        "year_built": "1965"
     },
     {
         "availableFromDate": "2022-12-08 00:00:00",
@@ -45,7 +28,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3034-6304e040f1c46.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3034-6304e040f1c46.JPG",
-        "reactions": 50,
+        "reactions": 91,
         "rent": 592.4,
         "rooms": "3",
         "size": 63,
@@ -64,12 +47,29 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3035-6304e1e4d7ddf.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3035-6304e1e475af3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3035-6304e1e49b3bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3035-6304e1e4bb10a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3035-6304e1e4d7ddf.JPG",
-        "reactions": 54,
+        "reactions": 84,
         "rent": 674.36,
         "rooms": "3",
         "size": 68,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3035-goudenregenstraat-42-gramsbergen",
         "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-10-24 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-23 08:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947c8958d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947ca2a5e.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947c8958d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3031-62ff947ca2a5e.JPG",
+        "reactions": 100,
+        "rent": 705.52,
+        "rooms": "4",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3031-lijsterstraat-9-dedemsvaart",
+        "year_built": "1965"
     },
     {
         "availableFromDate": "2022-09-15 00:00:00",
