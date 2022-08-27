@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-12-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-08-25 14:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651dcd695.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651de2bb0.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651dcd695.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651de2bb0.JPG",
+        "reactions": 119,
+        "rent": 711.47,
+        "rooms": "4",
+        "size": 88,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3036-antaresplein-11-hardenberg",
+        "year_built": "1972"
+    },
+    {
         "availableFromDate": "2022-10-24 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -50,23 +67,6 @@
         "size": 68,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3035-goudenregenstraat-42-gramsbergen",
         "year_built": "1968"
-    },
-    {
-        "availableFromDate": "2022-12-16 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-08-25 14:03:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651dcd695.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651de2bb0.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651dcd695.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3036-6307651de2bb0.JPG",
-        "reactions": 83,
-        "rent": 711.47,
-        "rooms": "4",
-        "size": 88,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3036-antaresplein-11-hardenberg",
-        "year_built": "1972"
     },
     {
         "availableFromDate": "2022-12-01 00:00:00",
