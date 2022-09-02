@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-11-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-01 08:39:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3039-6310535f90c58.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3039-6310535fa994a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3039-6310535f90c58.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3039-6310535fa994a.JPG",
+        "reactions": 185,
+        "rent": 718.88,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3039-sportlaan-21-hardenberg",
+        "year_built": "2015"
+    },
+    {
         "availableFromDate": "2022-09-29 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
