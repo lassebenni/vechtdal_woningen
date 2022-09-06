@@ -1,5 +1,25 @@
 [
     {
+        "availableFromDate": "2022-10-20 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-05 14:57:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b0e6042.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b118725.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b12c228.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b13dc07.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b153a6d.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b0e6042.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b118725.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b12c228.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b13dc07.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b153a6d.JPG",
+        "reactions": 41,
+        "rent": 371.89,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3043-bolsterstraat-28-slagharen",
+        "year_built": "1970"
+    },
+    {
         "availableFromDate": "2022-11-03 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
