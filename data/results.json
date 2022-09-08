@@ -12,12 +12,30 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b153a6d.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b0e6042.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b118725.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b12c228.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b13dc07.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3043-6315f1b153a6d.JPG",
-        "reactions": 69,
+        "reactions": 96,
         "rent": 371.89,
         "rooms": "1",
         "size": 37,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3043-bolsterstraat-28-slagharen",
         "year_built": "1970"
+    },
+    {
+        "availableFromDate": "2022-11-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-08 08:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG",
+        "reactions": 10,
+        "rent": 696.63,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3044-groenling-51-ommen",
+        "year_built": "1985"
     },
     {
         "availableFromDate": "2022-11-03 00:00:00",
