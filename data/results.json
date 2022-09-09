@@ -1,5 +1,79 @@
 [
     {
+        "availableFromDate": "2022-11-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-08 08:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG",
+        "reactions": 165,
+        "rent": 696.63,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3044-groenling-51-ommen",
+        "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2022-11-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-08 10:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf323d17.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf33ec20.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf356c05.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf36bd28.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf323d17.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf33ec20.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf356c05.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3045-63198cf36bd28.JPG",
+        "reactions": 158,
+        "rent": 585.31,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3045-merelstraat-5-hardenberg",
+        "year_built": "1970"
+    },
+    {
+        "availableFromDate": "2022-10-06 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-08 11:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b944665ea.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b944819ee.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b9449875c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b944665ea.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b944819ee.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3048-6319b9449875c.JPG",
+        "reactions": 89,
+        "rent": 456.76,
+        "rooms": "2",
+        "size": 36,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3048-oosteinde-45-hardenberg",
+        "year_built": "2018"
+    },
+    {
+        "availableFromDate": "2022-10-17 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-09 07:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77777f9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace7794be0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77a6aac.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77ba21a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77777f9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace7794be0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77a6aac.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631ace77ba21a.JPG",
+        "reactions": 3,
+        "rent": 703.66,
+        "rooms": "2",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3046-prinsbernhardstraat-73-dedemsvaart",
+        "year_built": "2013"
+    },
+    {
         "availableFromDate": "2022-10-20 00:00:00",
         "city": "Slagharen",
         "corporation": "Vechtdal Wonen",
@@ -18,24 +92,6 @@
         "size": 37,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3043-bolsterstraat-28-slagharen",
         "year_built": "1970"
-    },
-    {
-        "availableFromDate": "2022-11-25 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-08 08:21:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-63198973ad027.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-6319897458eb1.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3044-631989746da39.JPEG",
-        "reactions": 10,
-        "rent": 696.63,
-        "rooms": "3",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3044-groenling-51-ommen",
-        "year_built": "1985"
     },
     {
         "availableFromDate": "2022-11-03 00:00:00",
