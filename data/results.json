@@ -1,5 +1,43 @@
 [
     {
+        "availableFromDate": "2022-10-17 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-09 07:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce812c6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce95eae.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07cea6e68.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ceb9e35.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce812c6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce95eae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07cea6e68.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ceb9e35.JPG",
+        "reactions": 46,
+        "rent": 703.66,
+        "rooms": "2",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3046-prinsbernhardstraat-73-dedemsvaart",
+        "year_built": "2013"
+    },
+    {
+        "availableFromDate": "2022-10-31 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-12 08:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098a3512.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098bfe37.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098d1c91.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098e451f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098a3512.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098bfe37.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098d1c91.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098e451f.JPG",
+        "reactions": 1,
+        "rent": 321.77,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3050-cortvanderlindenstraat-21-bergentheim",
+        "year_built": "1976"
+    },
+    {
         "availableFromDate": "2022-11-25 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -53,25 +91,6 @@
         "size": 36,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3048-oosteinde-45-hardenberg",
         "year_built": "2018"
-    },
-    {
-        "availableFromDate": "2022-10-17 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-09 07:27:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce812c6.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce95eae.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07cea6e68.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ceb9e35.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce812c6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ce95eae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07cea6e68.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3046-631b07ceb9e35.JPG",
-        "reactions": 41,
-        "rent": 703.66,
-        "rooms": "2",
-        "size": 60,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3046-prinsbernhardstraat-73-dedemsvaart",
-        "year_built": "2013"
     },
     {
         "availableFromDate": "2022-10-20 00:00:00",
