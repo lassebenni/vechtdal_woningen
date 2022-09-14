@@ -11,12 +11,31 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098e451f.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098a3512.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098bfe37.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098d1c91.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3050-631ed098e451f.JPG",
-        "reactions": 54,
+        "reactions": 74,
         "rent": 321.77,
         "rooms": "1",
         "size": 37,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3050-cortvanderlindenstraat-21-bergentheim",
         "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2022-11-17 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-14 09:02:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c496e337.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49965e1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49ac82c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49bfd7a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c496e337.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49965e1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49ac82c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3052-63217c49bfd7a.JPG",
+        "reactions": 2,
+        "rent": 633.27,
+        "rooms": "3",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3052-evertsenstraat-1-ommen",
+        "year_built": "1955"
     },
     {
         "availableFromDate": "2022-10-17 00:00:00",
