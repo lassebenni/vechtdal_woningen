@@ -1,5 +1,96 @@
 [
     {
+        "availableFromDate": "2022-12-14 00:00:00",
+        "city": "Lemelerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-15 08:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be1397593.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13ae6c8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13c65d9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13d9976.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be1397593.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13ae6c8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13c65d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13d9976.JPG",
+        "reactions": 40,
+        "rent": 715.18,
+        "rooms": "2",
+        "size": 76,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3056-kampfstraat-33-lemelerveld",
+        "year_built": "2000"
+    },
+    {
+        "availableFromDate": "2022-10-19 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-16 10:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa695bcf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa6a8ff3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa695bcf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa6a8ff3.JPG",
+        "reactions": 2,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3060-lagegaardenstraat-2-g002-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2022-10-28 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-16 09:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953aacd3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953c19b9.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953aacd3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953c19b9.JPG",
+        "reactions": 68,
+        "rent": 599.22,
+        "rooms": "2",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3037-admiraalhelfrichstraat-97-hardenberg",
+        "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2022-10-21 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-16 06:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabed22ca.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabeea4cd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf0953b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf1b8b0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf2daa0.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabed22ca.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabeea4cd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf0953b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf1b8b0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf2daa0.JPG",
+        "reactions": 117,
+        "rent": 741.15,
+        "rooms": "3",
+        "size": 87,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3058-meerkoet-37-ommen",
+        "year_built": "1987"
+    },
+    {
+        "availableFromDate": "2022-12-29 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-16 10:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2514e2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2705d5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d28762b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2514e2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2705d5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d28762b.JPG",
+        "reactions": 93,
+        "rent": 713.01,
+        "rooms": "4",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3059-beatrixstraat-14-hardenberg",
+        "year_built": "1962"
+    },
+    {
         "availableFromDate": "2022-11-17 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -55,97 +146,6 @@
         "size": 66,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3055-asterstraat-28-dedemsvaart",
         "year_built": "1963"
-    },
-    {
-        "availableFromDate": "2022-12-14 00:00:00",
-        "city": "Lemelerveld",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-15 08:18:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be1397593.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13ae6c8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13c65d9.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13d9976.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be1397593.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13ae6c8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13c65d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3056-6322be13d9976.JPG",
-        "reactions": 38,
-        "rent": 715.18,
-        "rooms": "2",
-        "size": 76,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3056-kampfstraat-33-lemelerveld",
-        "year_built": "2000"
-    },
-    {
-        "availableFromDate": "2022-10-19 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-16 10:14:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa695bcf.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa6a8ff3.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa695bcf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3060-63242fa6a8ff3.JPG",
-        "reactions": 1,
-        "rent": 58.12,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3060-lagegaardenstraat-2-g002-hardenberg",
-        "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2022-10-28 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-16 09:00:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953aacd3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953c19b9.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953aacd3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3037-630ca953c19b9.JPG",
-        "reactions": 56,
-        "rent": 599.22,
-        "rooms": "2",
-        "size": 64,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3037-admiraalhelfrichstraat-97-hardenberg",
-        "year_built": "1985"
-    },
-    {
-        "availableFromDate": "2022-10-21 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-16 06:27:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabed22ca.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabeea4cd.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf0953b.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf1b8b0.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf2daa0.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabed22ca.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabeea4cd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf0953b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf1b8b0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3058-6323fabf2daa0.JPG",
-        "reactions": 99,
-        "rent": 741.15,
-        "rooms": "3",
-        "size": 87,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3058-meerkoet-37-ommen",
-        "year_built": "1987"
-    },
-    {
-        "availableFromDate": "2022-12-29 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-16 10:59:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2514e2.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2705d5.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d28762b.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2514e2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d2705d5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3059-632428d28762b.JPG",
-        "reactions": 72,
-        "rent": 713.01,
-        "rooms": "4",
-        "size": 63,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3059-beatrixstraat-14-hardenberg",
-        "year_built": "1962"
     },
     {
         "availableFromDate": "2022-10-31 00:00:00",
