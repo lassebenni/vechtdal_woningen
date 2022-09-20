@@ -1,5 +1,61 @@
 [
     {
+        "availableFromDate": "2022-11-18 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-19 10:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e35110.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e81818.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e99751.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219eb813a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e35110.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e81818.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219e99751.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3061-6328219eb813a.JPG",
+        "reactions": 84,
+        "rent": 755.98,
+        "rooms": "4",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3061-klaproosstraat-22-ommen",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2022-10-20 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-19 14:17:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-632855064ff2c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-6328550666420.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-632855067de8f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-6328550692927.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-63285506a766b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-632855064ff2c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-6328550666420.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-632855067de8f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-6328550692927.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3063-63285506a766b.JPG",
+        "reactions": 63,
+        "rent": 474.03,
+        "rooms": "1",
+        "size": 46,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3063-sperwer-25-ommen",
+        "year_built": "1982"
+    },
+    {
+        "availableFromDate": "2022-10-14 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-19 16:17:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3064-6328712552df5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3064-6328712568737.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3064-6328712552df5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3064-6328712568737.JPG",
+        "reactions": 74,
+        "rent": 835.23,
+        "rooms": "3",
+        "size": 94,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3064-swankhuisenwerf-24-dedemsvaart",
+        "year_built": "2019"
+    },
+    {
         "availableFromDate": "2022-10-19 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
