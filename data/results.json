@@ -1,5 +1,78 @@
 [
     {
+        "availableFromDate": "2022-10-11 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-20 11:23:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d0db32.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d2ebde.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d49b28.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d5c790.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d0db32.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d2ebde.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d49b28.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d5c790.JPG",
+        "reactions": 61,
+        "rent": 648.38,
+        "rooms": "2",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3065-prinsbernhardstraat-35-dedemsvaart",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2022-10-28 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-21 10:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b201cc9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b236923.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b201cc9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b236923.JPG",
+        "reactions": 134,
+        "rent": 660.27,
+        "rooms": "3",
+        "size": 94,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3066-vlierendreef-29-ommen",
+        "year_built": "2018"
+    },
+    {
+        "availableFromDate": "2022-11-08 00:00:00",
+        "city": "Lemelerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-21 10:23:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c763255.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c77b09e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c78df85.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c763255.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c77b09e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c78df85.JPG",
+        "reactions": 62,
+        "rent": 633.55,
+        "rooms": "3",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3067-pbuismanstraat-89-lemelerveld",
+        "year_built": "1982"
+    },
+    {
+        "availableFromDate": "2022-11-03 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-22 09:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe5ee971.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe61ed30.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe638382.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe6516b7.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe5ee971.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe61ed30.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe638382.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3069-632c0fe6516b7.JPG",
+        "reactions": 66,
+        "rent": 578.92,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3069-parkweg-143-hardenberg",
+        "year_built": "1967"
+    },
+    {
         "availableFromDate": "2022-11-18 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -54,60 +127,6 @@
         "size": 94,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3064-swankhuisenwerf-24-dedemsvaart",
         "year_built": "2019"
-    },
-    {
-        "availableFromDate": "2022-10-11 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-20 11:23:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d0db32.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d2ebde.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d49b28.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d5c790.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d0db32.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d2ebde.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d49b28.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3065-6329863d5c790.JPG",
-        "reactions": 54,
-        "rent": 648.38,
-        "rooms": "2",
-        "size": 66,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3065-prinsbernhardstraat-35-dedemsvaart",
-        "year_built": "1989"
-    },
-    {
-        "availableFromDate": "2022-10-28 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-21 10:11:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b201cc9.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b236923.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b201cc9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3066-632ac6b236923.JPG",
-        "reactions": 116,
-        "rent": 660.27,
-        "rooms": "3",
-        "size": 94,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3066-vlierendreef-29-ommen",
-        "year_built": "2018"
-    },
-    {
-        "availableFromDate": "2022-11-08 00:00:00",
-        "city": "Lemelerveld",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-09-21 10:23:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c763255.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c77b09e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c78df85.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c763255.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c77b09e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3067-632ac9c78df85.JPG",
-        "reactions": 48,
-        "rent": 633.55,
-        "rooms": "3",
-        "size": 64,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3067-pbuismanstraat-89-lemelerveld",
-        "year_built": "1982"
     },
     {
         "availableFromDate": "2022-10-19 00:00:00",
