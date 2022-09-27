@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-11-11 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-26 13:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e7322adb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e736fe4a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e7322adb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e736fe4a.JPG",
+        "reactions": 136,
+        "rent": 585.31,
+        "rooms": "3",
+        "size": 73,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3074-spaanskamp-28-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2022-10-18 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
