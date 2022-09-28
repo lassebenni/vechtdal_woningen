@@ -9,11 +9,65 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e736fe4a.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e7322adb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3074-63318e736fe4a.JPG",
-        "reactions": 136,
+        "reactions": 181,
         "rent": 585.31,
         "rooms": "3",
         "size": 73,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3074-spaanskamp-28-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-11-09 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-27 12:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960c808b0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960cc70a5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960ce09b1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960c808b0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960cc70a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3077-6331960ce09b1.JPG",
+        "reactions": 106,
+        "rent": 711.47,
+        "rooms": "4",
+        "size": 88,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3077-neptunusstraat-15-hardenberg",
+        "year_built": "1970"
+    },
+    {
+        "availableFromDate": "2022-10-19 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-27 13:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da817d8b5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da81c389c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da81e5d5d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da8210bb6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da817d8b5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da81c389c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da81e5d5d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3078-6332da8210bb6.JPG",
+        "reactions": 50,
+        "rent": 559.07,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3078-saturnusstraat-36-dekrim",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-11-11 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-09-28 08:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3079-6333e56ae536a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3079-6333e56b3be57.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3079-6333e56ae536a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3079-6333e56b3be57.JPG",
+        "reactions": 2,
+        "rent": 558.77,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3079-rustenbergherstraat-22-hardenberg",
         "year_built": "1964"
     },
     {
