@@ -1,5 +1,92 @@
 [
     {
+        "availableFromDate": "2022-11-15 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-05 14:41:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b1a37e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b31cc3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b1a37e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b31cc3.JPG",
+        "reactions": 123,
+        "rent": 715.18,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3092-schuttevaer-14-dedemsvaart",
+        "year_built": "1977"
+    },
+    {
+        "availableFromDate": "2022-11-14 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-07 10:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3094-633fdd25c543e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3094-633fdd25dd1b3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3094-633fdd25c543e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3094-633fdd25dd1b3.JPG",
+        "reactions": 73,
+        "rent": 555.63,
+        "rooms": "3",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3094-oelenveerstraat-1-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-11-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-07 11:19:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3095-633feee5ca3ff.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3095-633feee5eae01.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3095-633feee5ca3ff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3095-633feee5eae01.JPG",
+        "reactions": 32,
+        "rent": 651.03,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3095-bisschopshof-38-hardenberg",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2022-11-16 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-07 14:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3096-6340171dafad7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3096-6340171e06cb6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3096-6340171dafad7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3096-6340171e06cb6.JPG",
+        "reactions": 30,
+        "rent": 418.69,
+        "rooms": "1",
+        "size": 41,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3096-admiraalhelfrichstraat-117-hardenberg",
+        "year_built": "1983"
+    },
+    {
+        "availableFromDate": "2022-11-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-07 14:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c982753.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c996409.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c9a72d2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c9b7f42.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c982753.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c996409.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c9a72d2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3097-634017c9b7f42.JPG",
+        "reactions": 35,
+        "rent": 376.71,
+        "rooms": "1",
+        "size": 41,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3097-salland-55-hardenberg",
+        "year_built": "1986"
+    },
+    {
         "availableFromDate": "2022-11-04 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -87,23 +174,6 @@
         "size": 71,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3090-beatrixstraat-22-hardenberg",
         "year_built": "1962"
-    },
-    {
-        "availableFromDate": "2022-11-15 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-05 14:41:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b1a37e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b31cc3.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b1a37e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3092-633eda4b31cc3.JPG",
-        "reactions": 108,
-        "rent": 715.18,
-        "rooms": "4",
-        "size": 86,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3092-schuttevaer-14-dedemsvaart",
-        "year_built": "1977"
     },
     {
         "availableFromDate": "2022-10-07 00:00:00",
