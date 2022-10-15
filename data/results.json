@@ -1,21 +1,5 @@
 [
     {
-        "availableFromDate": "2022-11-14 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-11 11:13:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3098-6346556534f24.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3098-6346556534f24.JPG",
-        "reactions": 94,
-        "rent": 532.46,
-        "rooms": "2",
-        "size": 58,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3098-admiraalhelfrichstraat-89-hardenberg",
-        "year_built": "1985"
-    },
-    {
         "availableFromDate": "2022-10-27 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -26,7 +10,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3101-634662c32c9ee.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3101-634662c2e57f8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3101-634662c316afa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3101-634662c32c9ee.JPG",
-        "reactions": 190,
+        "reactions": 213,
         "rent": 659.24,
         "rooms": "4",
         "size": 59,
@@ -45,12 +29,28 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e195de.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e3d8e9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e56ef7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG",
-        "reactions": 143,
+        "reactions": 184,
         "rent": 766.69,
         "rooms": "3",
         "size": 80,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3102-ruysdaelstraat-7-hardenberg",
         "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2022-11-14 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-11 11:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3098-6346556534f24.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3098-6346556534f24.JPG",
+        "reactions": 94,
+        "rent": 532.46,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3098-admiraalhelfrichstraat-89-hardenberg",
+        "year_built": "1985"
     },
     {
         "availableFromDate": "2022-11-14 00:00:00",
