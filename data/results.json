@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2022-12-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-13 09:56:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e195de.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e3d8e9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e56ef7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e195de.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e3d8e9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e56ef7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG",
+        "reactions": 213,
+        "rent": 766.69,
+        "rooms": "3",
+        "size": 80,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3102-ruysdaelstraat-7-hardenberg",
+        "year_built": "1966"
+    },
+    {
         "availableFromDate": "2022-10-27 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -16,25 +35,6 @@
         "size": 59,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3101-wethpaarhuisstraat-1-ommen",
         "year_built": "1948"
-    },
-    {
-        "availableFromDate": "2022-12-22 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-13 09:56:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e195de.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e3d8e9.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e56ef7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e195de.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e3d8e9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e56ef7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3102-6347c12e6df2b.JPG",
-        "reactions": 184,
-        "rent": 766.69,
-        "rooms": "3",
-        "size": 80,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3102-ruysdaelstraat-7-hardenberg",
-        "year_built": "1966"
     },
     {
         "availableFromDate": "2022-11-14 00:00:00",
