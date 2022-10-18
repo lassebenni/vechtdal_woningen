@@ -1,6 +1,25 @@
 [
     {
         "availableFromDate": "2022-12-22 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-17 09:58:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf867ee90c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf86838993.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf8684bd92.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634d0b159c6a2.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf867ee90c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf86838993.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634cf8684bd92.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3104-634d0b159c6a2.jpg",
+        "reactions": 131,
+        "rent": 529.67,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3104-hofkamp-2-gramsbergen",
+        "year_built": "1988"
+    },
+    {
+        "availableFromDate": "2022-12-22 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
         "date_added": "2022-10-13 09:56:00",
