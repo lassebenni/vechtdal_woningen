@@ -1,5 +1,81 @@
 [
     {
+        "availableFromDate": "2022-11-17 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-20 13:17:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3ce7397.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d0a7d8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d1cd33.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d2eb6b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3ce7397.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d0a7d8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d1cd33.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d2eb6b.JPG",
+        "reactions": 82,
+        "rent": 649.69,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3110-ervenweg-64-hardenberg",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2023-01-12 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-20 13:52:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd7f3bb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd95ff0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cda95f5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cdbaa00.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd7f3bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd95ff0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cda95f5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cdbaa00.JPG",
+        "reactions": 62,
+        "rent": 574.72,
+        "rooms": "1",
+        "size": 39,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3111-barbierstraat-63-hardenberg",
+        "year_built": "2017"
+    },
+    {
+        "availableFromDate": "2023-02-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-20 14:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-6351399632416.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139964c3eb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-63513996620ab.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139967575b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-6351399632416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139964c3eb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-63513996620ab.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139967575b.JPG",
+        "reactions": 124,
+        "rent": 677.67,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3112-rembrandtstraat-28-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-01-09 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-20 14:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f60025.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f7575f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f891c1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f9b9a0.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f60025.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f7575f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f891c1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f9b9a0.JPG",
+        "reactions": 103,
+        "rent": 711.11,
+        "rooms": "3",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3113-zwiersstraat-37-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
         "availableFromDate": "2023-01-19 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
@@ -75,82 +151,6 @@
         "size": 48,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3109-hattemattestraat-32-gramsbergen",
         "year_built": "1991"
-    },
-    {
-        "availableFromDate": "2022-11-17 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-20 13:17:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3ce7397.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d0a7d8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d1cd33.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d2eb6b.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3ce7397.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d0a7d8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d1cd33.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3110-63512e3d2eb6b.JPG",
-        "reactions": 75,
-        "rent": 649.69,
-        "rooms": "2",
-        "size": 62,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3110-ervenweg-64-hardenberg",
-        "year_built": "2009"
-    },
-    {
-        "availableFromDate": "2023-01-12 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-20 13:52:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd7f3bb.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd95ff0.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cda95f5.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cdbaa00.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd7f3bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cd95ff0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cda95f5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3111-635133cdbaa00.JPG",
-        "reactions": 54,
-        "rent": 574.72,
-        "rooms": "1",
-        "size": 39,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3111-barbierstraat-63-hardenberg",
-        "year_built": "2017"
-    },
-    {
-        "availableFromDate": "2023-02-23 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-20 14:07:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-6351399632416.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139964c3eb.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-63513996620ab.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139967575b.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-6351399632416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139964c3eb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-63513996620ab.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3112-635139967575b.JPG",
-        "reactions": 113,
-        "rent": 677.67,
-        "rooms": "3",
-        "size": 59,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3112-rembrandtstraat-28-hardenberg",
-        "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2023-01-09 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-20 14:45:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f60025.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f7575f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f891c1.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f9b9a0.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f60025.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f7575f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f891c1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3113-6351409f9b9a0.JPG",
-        "reactions": 93,
-        "rent": 711.11,
-        "rooms": "3",
-        "size": 70,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3113-zwiersstraat-37-dedemsvaart",
-        "year_built": "1967"
     },
     {
         "availableFromDate": "2022-12-22 00:00:00",
