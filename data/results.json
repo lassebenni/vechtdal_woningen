@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2022-11-18 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-25 08:57:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-63578839287e7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-635788394b53f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-63578839287e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-635788394b53f.JPG",
+        "reactions": 3,
+        "rent": 559,
+        "rooms": "3",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3114-marsstraat-24-dekrim",
+        "year_built": "1975"
+    },
+    {
         "availableFromDate": "2022-11-17 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
