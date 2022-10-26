@@ -9,12 +9,47 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-635788394b53f.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-63578839287e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3114-635788394b53f.JPG",
-        "reactions": 3,
+        "reactions": 91,
         "rent": 559,
         "rooms": "3",
         "size": 74,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3114-marsstraat-24-dekrim",
         "year_built": "1975"
+    },
+    {
+        "availableFromDate": "2023-01-27 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-26 08:28:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328916f2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328b40d3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328c96e7.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328916f2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328b40d3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3115-6358d328c96e7.JPG",
+        "reactions": 1,
+        "rent": 722.6,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3115-depraam-51-dedemsvaart",
+        "year_built": "1977"
+    },
+    {
+        "availableFromDate": "2022-12-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-26 09:06:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3116-6358dc8c033ab.jpg",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3116-6358dcfa7966d.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3116-6358dc8c033ab.jpg, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3116-6358dcfa7966d.jpg",
+        "reactions": 1,
+        "rent": 722.26,
+        "rooms": "3",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3116-vinkenstraat-9-hardenberg",
+        "year_built": "1967"
     },
     {
         "availableFromDate": "2022-11-17 00:00:00",
