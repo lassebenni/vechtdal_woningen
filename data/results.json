@@ -1,5 +1,78 @@
 [
     {
+        "availableFromDate": "2023-01-26 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-28 09:33:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85534b190.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b855366eb3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85537aae1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85534b190.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b855366eb3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85537aae1.JPG",
+        "reactions": 57,
+        "rent": 715.18,
+        "rooms": "3",
+        "size": 87,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3121-egelantierstraat-22-ommen",
+        "year_built": "1974"
+    },
+    {
+        "availableFromDate": "2022-12-07 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-28 13:49:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e6ecf7f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e70ecad.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e722443.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e6ecf7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e70ecad.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e722443.JPG",
+        "reactions": 34,
+        "rent": 485.84,
+        "rooms": "1",
+        "size": 44,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3122-despinde-23-hardenberg",
+        "year_built": "1977"
+    },
+    {
+        "availableFromDate": "2022-12-21 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-28 13:55:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8acda1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8c3df6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8daf66.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8acda1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8c3df6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8daf66.JPG",
+        "reactions": 36,
+        "rent": 503.12,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3123-spaanskamp-135-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-01-26 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-10-28 18:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f188f42.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1aea6b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1cade8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1e2d48.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f188f42.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1aea6b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1cade8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1e2d48.JPG",
+        "reactions": 47,
+        "rent": 655.39,
+        "rooms": "4",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3124-primulastraat-1-dedemsvaart",
+        "year_built": "1956"
+    },
+    {
         "availableFromDate": "2023-01-27 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -109,79 +182,6 @@
         "size": 57,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3120-prinsbernhardstraat-75-dedemsvaart",
         "year_built": "2014"
-    },
-    {
-        "availableFromDate": "2023-01-26 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-28 09:33:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85534b190.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b855366eb3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85537aae1.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85534b190.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b855366eb3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3121-635b85537aae1.JPG",
-        "reactions": 47,
-        "rent": 715.18,
-        "rooms": "3",
-        "size": 87,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3121-egelantierstraat-22-ommen",
-        "year_built": "1974"
-    },
-    {
-        "availableFromDate": "2022-12-07 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-28 13:49:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e6ecf7f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e70ecad.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e722443.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e6ecf7f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e70ecad.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3122-635bc0e722443.JPG",
-        "reactions": 22,
-        "rent": 485.84,
-        "rooms": "1",
-        "size": 44,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3122-despinde-23-hardenberg",
-        "year_built": "1977"
-    },
-    {
-        "availableFromDate": "2022-12-21 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-28 13:55:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8acda1.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8c3df6.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8daf66.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8acda1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8c3df6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3123-635bc2f8daf66.JPG",
-        "reactions": 26,
-        "rent": 503.12,
-        "rooms": "2",
-        "size": 62,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3123-spaanskamp-135-hardenberg",
-        "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2023-01-26 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-10-28 18:43:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f188f42.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1aea6b.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1cade8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1e2d48.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f188f42.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1aea6b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1cade8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3124-635c05f1e2d48.JPG",
-        "reactions": 10,
-        "rent": 655.39,
-        "rooms": "4",
-        "size": 72,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3124-primulastraat-1-dedemsvaart",
-        "year_built": "1956"
     },
     {
         "availableFromDate": "2022-11-18 00:00:00",
