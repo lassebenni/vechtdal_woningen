@@ -1,5 +1,60 @@
 [
     {
+        "availableFromDate": "2023-02-02 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-01 08:37:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4e629bb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4e9cd71.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4eb41b5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4ece54d.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4e629bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4e9cd71.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4eb41b5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3125-6360cc4ece54d.JPG",
+        "reactions": 46,
+        "rent": 436.18,
+        "rooms": "1",
+        "size": 32,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3125-kruisstraat-10-b-gramsbergen",
+        "year_built": "1981"
+    },
+    {
+        "availableFromDate": "2022-12-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-01 14:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce486049.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce50e634.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce541b86.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce486049.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce50e634.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3126-63611ce541b86.JPG",
+        "reactions": 106,
+        "rent": 733.38,
+        "rooms": "3",
+        "size": 75,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3126-meeuwenstraat-20-hardenberg",
+        "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2022-12-16 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-01 14:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e24d9c6c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e24f3069.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e2516952.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e24d9c6c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e24f3069.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3127-63611e2516952.JPG",
+        "reactions": 40,
+        "rent": 577.9,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3127-deschakel-5-gramsbergen",
+        "year_built": "1986"
+    },
+    {
         "availableFromDate": "2023-01-26 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
