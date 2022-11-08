@@ -1,5 +1,44 @@
 [
     {
+        "availableFromDate": "2023-01-25 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-07 16:33:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc50e06.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc74399.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc88ee6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc9d58c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc50e06.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc74399.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc88ee6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc9d58c.JPG",
+        "reactions": 29,
+        "rent": 622,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3136-reigerweg-5-dedemsvaart",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2022-12-23 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-07 16:40:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269cd50da.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d025e9.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d1595d.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d2a2b4.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d3fda8.JPEG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269cd50da.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d025e9.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d1595d.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d2a2b4.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d3fda8.JPEG",
+        "reactions": 70,
+        "rent": 708.22,
+        "rooms": "3",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3137-bonkelaar-11-ommen",
+        "year_built": "2017"
+    },
+    {
         "availableFromDate": "2022-12-15 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
