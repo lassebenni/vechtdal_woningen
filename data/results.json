@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc9d58c.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc50e06.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc74399.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc88ee6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3136-636924dc9d58c.JPG",
-        "reactions": 84,
+        "reactions": 97,
         "rent": 622,
         "rooms": "3",
         "size": 65,
@@ -31,7 +31,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d3fda8.JPEG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269cd50da.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d025e9.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d1595d.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d2a2b4.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3137-6369269d3fda8.JPEG",
-        "reactions": 150,
+        "reactions": 169,
         "rent": 708.22,
         "rooms": "3",
         "size": 70,
@@ -50,7 +50,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3138-636a066b93daf.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3138-636a066b46e8f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3138-636a066b6ba62.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3138-636a066b7e7a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3138-636a066b93daf.JPG",
-        "reactions": 90,
+        "reactions": 119,
         "rent": 507.4,
         "rooms": "2",
         "size": 59,
@@ -68,12 +68,70 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3139-636a848e758bf.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3139-636a848e49e12.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3139-636a848e616e4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3139-636a848e758bf.JPG",
-        "reactions": 48,
+        "reactions": 75,
         "rent": 662.82,
         "rooms": "3",
         "size": 64,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3139-pauluspotterstraat-24-hardenberg",
         "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-11-30 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-09 09:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb226341.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb252347.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb277a30.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb29d40b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb226341.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb252347.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb277a30.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3140-636b6bb29d40b.JPG",
+        "reactions": 58,
+        "rent": 574.65,
+        "rooms": "1",
+        "size": 39,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3140-barbierstraat-67-hardenberg",
+        "year_built": "2017"
+    },
+    {
+        "availableFromDate": "2023-01-20 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-09 12:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d7913a67.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d792c3d2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d7941a9d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d795418a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d7913a67.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d792c3d2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d7941a9d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3141-636b8d795418a.JPG",
+        "reactions": 34,
+        "rent": 573.05,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3141-sperwer-5-ommen",
+        "year_built": "1982"
+    },
+    {
+        "availableFromDate": "2023-01-26 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-09 14:37:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceeb9ae6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceecf5e4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceee12ad.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceef2f10.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636bacef10c73.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceeb9ae6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceecf5e4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceee12ad.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636baceef2f10.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3142-636bacef10c73.JPG",
+        "reactions": 43,
+        "rent": 592.74,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3142-marijkestraat-26-dedemsvaart",
+        "year_built": "1956"
     },
     {
         "availableFromDate": "2022-12-15 00:00:00",
