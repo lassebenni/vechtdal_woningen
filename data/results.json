@@ -1,5 +1,117 @@
 [
     {
+        "availableFromDate": "2023-01-13 00:00:00",
+        "city": "Lemele",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 10:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52d981a0.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52dce36c.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52de55b5.JPEG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52d981a0.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52dce36c.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3149-6374a52de55b5.JPEG",
+        "reactions": 31,
+        "rent": 627.44,
+        "rooms": "2",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3149-dooweg-4-lemele",
+        "year_built": "2001"
+    },
+    {
+        "availableFromDate": "2022-12-21 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 10:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30f8a196.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fa0517.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fb37aa.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fc6156.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30f8a196.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fa0517.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fb37aa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3150-6374b30fc6156.JPG",
+        "reactions": 70,
+        "rent": 529.08,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3150-rustenbergherstraat-26-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2022-12-22 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 11:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bb9fba1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbb6931.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbc9239.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbdb6bc.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bb9fba1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbb6931.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbc9239.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3151-6374b4bbdb6bc.JPG",
+        "reactions": 74,
+        "rent": 574.2,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3151-wilhelminastraat-42-dedemsvaart",
+        "year_built": "1955"
+    },
+    {
+        "availableFromDate": "2023-01-25 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 11:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb66d6ba6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb66eb6d1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb670c276.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb66d6ba6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb66eb6d1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3152-6374bb670c276.JPG",
+        "reactions": 54,
+        "rent": 596.46,
+        "rooms": "2",
+        "size": 55,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3152-adelaarweg-65-dedemsvaart",
+        "year_built": "1972"
+    },
+    {
+        "availableFromDate": "2023-02-08 00:00:00",
+        "city": "Sibculo",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 13:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e7c7d2d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e7e543b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e8055a5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e818731.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e7c7d2d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e7e543b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e8055a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3154-6374d9e818731.JPG",
+        "reactions": 15,
+        "rent": 574.2,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3154-windhoevestraat-3-sibculo",
+        "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2022-12-15 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-16 15:38:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d20cc68.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d22dfe6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d2504c2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d2662c1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d20cc68.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d22dfe6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d2504c2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3155-6374f2d2662c1.JPG",
+        "reactions": 54,
+        "rent": 637.26,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3155-dokterwillemslaan-128-slagharen",
+        "year_built": "2015"
+    },
+    {
         "availableFromDate": "2023-02-02 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
