@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2022-12-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-18 08:39:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736794b8e7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-6377367963e03.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-63773679777c3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736798b27c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736794b8e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-6377367963e03.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-63773679777c3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736798b27c.JPG",
+        "reactions": 64,
+        "rent": 529.08,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3159-spaanskamp-55-hardenberg",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-02-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-18 08:41:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1daa34e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1e007d8.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1daa34e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1e007d8.JPG",
+        "reactions": 104,
+        "rent": 574.2,
+        "rooms": "4",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3160-janvanarkelstraat-14-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2022-12-23 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -56,42 +92,6 @@
         "size": 58,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3158-ahornstraat-8-lutten",
         "year_built": "2008"
-    },
-    {
-        "availableFromDate": "2022-12-22 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-11-18 08:39:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736794b8e7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-6377367963e03.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-63773679777c3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736798b27c.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736794b8e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-6377367963e03.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-63773679777c3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3159-637736798b27c.JPG",
-        "reactions": 41,
-        "rent": 529.08,
-        "rooms": "2",
-        "size": 63,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3159-spaanskamp-55-hardenberg",
-        "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2023-02-01 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-11-18 08:41:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1daa34e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1e007d8.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1daa34e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3160-6377fd1e007d8.JPG",
-        "reactions": 78,
-        "rent": 574.2,
-        "rooms": "4",
-        "size": 70,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3160-janvanarkelstraat-14-hardenberg",
-        "year_built": "1958"
     },
     {
         "availableFromDate": "2023-01-13 00:00:00",
