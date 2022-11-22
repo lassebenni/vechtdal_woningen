@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2022-12-05 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-21 10:39:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45fab7896.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45facefd1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45fae22aa.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45fab7896.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45facefd1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3161-637b45fae22aa.JPG",
+        "reactions": 128,
+        "rent": 774.4,
+        "rooms": "3",
+        "size": 94,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3161-schutstal-16-ommen",
+        "year_built": "2018"
+    },
+    {
+        "availableFromDate": "2023-01-27 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-11-21 15:06:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b4073d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b56332.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b6e814.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b4073d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b56332.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3162-637b853b6e814.JPG",
+        "reactions": 55,
+        "rent": 770.47,
+        "rooms": "4",
+        "size": 102,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3162-leeuwenbekstraat-20-ommen",
+        "year_built": "1972"
+    },
+    {
         "availableFromDate": "2022-12-22 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
