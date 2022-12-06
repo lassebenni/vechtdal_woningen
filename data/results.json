@@ -1,5 +1,79 @@
 [
     {
+        "availableFromDate": "2023-01-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-05 14:59:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df90536948.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df9059e21b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905b2820.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905c6442.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df90536948.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df9059e21b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905b2820.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905c6442.JPG",
+        "reactions": 45,
+        "rent": 686.95,
+        "rooms": "2",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3182-burgemeesterbramerstraat-146-hardenberg",
+        "year_built": "2010"
+    },
+    {
+        "availableFromDate": "2023-01-19 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-05 15:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c0a268.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c1fe08.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c32df1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c0a268.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c1fe08.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c32df1.JPG",
+        "reactions": 29,
+        "rent": 456.76,
+        "rooms": "1",
+        "size": 36,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3183-oosteinde-67-hardenberg",
+        "year_built": "2018"
+    },
+    {
+        "availableFromDate": "2023-02-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-05 20:58:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa05ecce4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa060c63a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa061f5a0.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa05ecce4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa060c63a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa061f5a0.JPG",
+        "reactions": 31,
+        "rent": 674.36,
+        "rooms": "3",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3184-parkweg-14-hardenberg",
+        "year_built": "1959"
+    },
+    {
+        "availableFromDate": "2023-03-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-05 21:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e82182cc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e822e8aa.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e823f9d7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e8251040.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e82182cc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e822e8aa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e823f9d7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e8251040.JPG",
+        "reactions": 8,
+        "rent": 551.33,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3185-rustenbergherstraat-24-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2023-01-02 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
