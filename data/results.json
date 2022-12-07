@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905c6442.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df90536948.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df9059e21b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905b2820.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3182-638df905c6442.JPG",
-        "reactions": 45,
+        "reactions": 82,
         "rent": 686.95,
         "rooms": "2",
         "size": 70,
@@ -29,7 +29,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c32df1.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c0a268.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c1fe08.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3183-638df96c32df1.JPG",
-        "reactions": 29,
+        "reactions": 63,
         "rent": 456.76,
         "rooms": "1",
         "size": 36,
@@ -47,7 +47,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa061f5a0.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa05ecce4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa060c63a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3184-638dfa061f5a0.JPG",
-        "reactions": 31,
+        "reactions": 124,
         "rent": 674.36,
         "rooms": "3",
         "size": 74,
@@ -66,12 +66,31 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e8251040.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e82182cc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e822e8aa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e823f9d7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3185-638e4e8251040.JPG",
-        "reactions": 8,
+        "reactions": 46,
         "rent": 551.33,
         "rooms": "2",
         "size": 63,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3185-rustenbergherstraat-24-hardenberg",
         "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-01-27 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-06 12:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG",
+        "reactions": 28,
+        "rent": 540.8,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3186-bartokstraat-14-dedemsvaart",
+        "year_built": "1970"
     },
     {
         "availableFromDate": "2023-01-02 00:00:00",
