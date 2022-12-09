@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-01-27 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-06 12:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG",
+        "reactions": 48,
+        "rent": 540.8,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3186-bartokstraat-14-dedemsvaart",
+        "year_built": "1970"
+    },
+    {
         "availableFromDate": "2023-01-23 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -72,25 +91,6 @@
         "size": 63,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3185-rustenbergherstraat-24-hardenberg",
         "year_built": "1964"
-    },
-    {
-        "availableFromDate": "2023-01-27 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-06 12:08:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22724546f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22726229d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f227271dd8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3186-638f22728397f.JPG",
-        "reactions": 42,
-        "rent": 540.8,
-        "rooms": "1",
-        "size": 40,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3186-bartokstraat-14-dedemsvaart",
-        "year_built": "1970"
     },
     {
         "availableFromDate": "2023-01-02 00:00:00",
