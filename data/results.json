@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2023-02-02 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-12 10:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedcc4dc7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedcd954c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedceaec3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedd09b00.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedcc4dc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedcd954c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedceaec3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3188-6396eedd09b00.JPG",
+        "reactions": 106,
+        "rent": 714.75,
+        "rooms": "4",
+        "size": 72,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3188-primulastraat-2-dedemsvaart",
+        "year_built": "1959"
+    },
+    {
+        "availableFromDate": "2023-01-02 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-12 10:09:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3189-6396efd84016c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3189-6396efd850be0.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3189-6396efd84016c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3189-6396efd850be0.PNG",
+        "reactions": 2,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3189-wentholtstraat-37-bgar-ommen",
+        "year_built": "1966"
+    },
+    {
         "availableFromDate": "2023-01-13 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
