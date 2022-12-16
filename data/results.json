@@ -1,5 +1,59 @@
 [
     {
+        "availableFromDate": "2023-04-07 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-14 09:48:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8c9fb13.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cb77c3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cca07e.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8c9fb13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cb77c3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cca07e.JPG",
+        "reactions": 184,
+        "rent": 611.3,
+        "rooms": "3",
+        "size": 69,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3177-alberthusrisaeusstraat-13-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2023-03-14 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-15 08:25:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb16cc3e8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb176d916.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb178581f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb16cc3e8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb176d916.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3190-639acb178581f.JPG",
+        "reactions": 54,
+        "rent": 622.06,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3190-vananrooystraat-6-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2023-01-25 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-15 10:47:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa650e2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa82931.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa9cd68.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa650e2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa82931.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3192-639b03aa9cd68.JPG",
+        "reactions": 65,
+        "rent": 545.05,
+        "rooms": "1",
+        "size": 39,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3192-barbierstraat-37-hardenberg",
+        "year_built": "2017"
+    },
+    {
         "availableFromDate": "2023-02-02 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -34,24 +88,6 @@
         "size": 0,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3189-wentholtstraat-37-bgar-ommen",
         "year_built": "1966"
-    },
-    {
-        "availableFromDate": "2023-04-07 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-14 09:48:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8c9fb13.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cb77c3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cca07e.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8c9fb13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cb77c3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3177-6391fc8cca07e.JPG",
-        "reactions": 164,
-        "rent": 611.3,
-        "rooms": "3",
-        "size": 69,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3177-alberthusrisaeusstraat-13-hardenberg",
-        "year_built": "1958"
     },
     {
         "availableFromDate": "2023-01-13 00:00:00",
