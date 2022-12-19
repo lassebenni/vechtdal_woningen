@@ -1,5 +1,76 @@
 [
     {
+        "availableFromDate": "2023-01-14 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-16 15:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3194-639c7d858ec30.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3194-639c7d858ec30.PNG",
+        "reactions": 0,
+        "rent": 31.6,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3194-demulderij-17--37ppl-hardenberg",
+        "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2023-01-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-16 14:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32cd6f1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32e6aca.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d3306363.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d331acb1.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32cd6f1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32e6aca.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d3306363.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d331acb1.JPG",
+        "reactions": 56,
+        "rent": 396.11,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3193-wielewaalstraat-4-hardenberg",
+        "year_built": "1972"
+    },
+    {
+        "availableFromDate": "2023-02-28 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-16 15:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea877f5e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea890dae.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea8abf3c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea877f5e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea890dae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea8abf3c.JPG",
+        "reactions": 106,
+        "rent": 659.52,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3195-kamferbekestraat-50-hardenberg",
+        "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2023-07-13 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-16 15:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae0e481.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae23aef.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae37d4b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae0e481.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae23aef.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae37d4b.JPG",
+        "reactions": 55,
+        "rent": 664.7,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3196-asterstraat-4-dedemsvaart",
+        "year_built": "1960"
+    },
+    {
         "availableFromDate": "2023-03-14 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -35,77 +106,6 @@
         "size": 39,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3192-barbierstraat-37-hardenberg",
         "year_built": "2017"
-    },
-    {
-        "availableFromDate": "2023-01-14 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-16 15:15:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3194-639c7d858ec30.PNG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3194-639c7d858ec30.PNG",
-        "reactions": 0,
-        "rent": 31.6,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3194-demulderij-17--37ppl-hardenberg",
-        "year_built": "1989"
-    },
-    {
-        "availableFromDate": "2023-01-23 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-16 14:07:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32cd6f1.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32e6aca.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d3306363.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d331acb1.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32cd6f1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d32e6aca.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d3306363.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3193-639c6d331acb1.JPG",
-        "reactions": 41,
-        "rent": 396.11,
-        "rooms": "1",
-        "size": 40,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3193-wielewaalstraat-4-hardenberg",
-        "year_built": "1972"
-    },
-    {
-        "availableFromDate": "2023-02-28 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-16 15:21:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea877f5e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea890dae.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea8abf3c.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea877f5e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea890dae.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3195-639c7ea8abf3c.JPG",
-        "reactions": 89,
-        "rent": 659.52,
-        "rooms": "3",
-        "size": 68,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3195-kamferbekestraat-50-hardenberg",
-        "year_built": "2005"
-    },
-    {
-        "availableFromDate": "2023-07-13 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-16 15:26:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae0e481.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae23aef.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae37d4b.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae0e481.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae23aef.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3196-639c7fae37d4b.JPG",
-        "reactions": 41,
-        "rent": 664.7,
-        "rooms": "3",
-        "size": 66,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3196-asterstraat-4-dedemsvaart",
-        "year_built": "1960"
     },
     {
         "availableFromDate": "2023-04-07 00:00:00",
