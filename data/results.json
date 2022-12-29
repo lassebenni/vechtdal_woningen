@@ -1,24 +1,5 @@
 [
     {
-        "availableFromDate": "2023-03-10 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-25 16:14:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a3ef2e8.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a411bc0.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a423be1.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a437c53.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a3ef2e8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a411bc0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a423be1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a437c53.JPG",
-        "reactions": 114,
-        "rent": 722.6,
-        "rooms": "3",
-        "size": 86,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3211-vuurdoornstraat-15-ommen",
-        "year_built": "1975"
-    },
-    {
         "availableFromDate": "2023-01-31 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -27,7 +8,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3210-63a5c292a409e.JPEG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3210-63a5c292a409e.JPEG",
-        "reactions": 77,
+        "reactions": 95,
         "rent": 597.3,
         "rooms": "2",
         "size": 69,
@@ -49,6 +30,25 @@
         "size": 0,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3194-demulderij-17--37ppl-hardenberg",
         "year_built": "1989"
+    },
+    {
+        "availableFromDate": "2023-03-10 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-25 16:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a3ef2e8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a411bc0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a423be1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a437c53.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a3ef2e8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a411bc0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a423be1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3211-63a5c5a437c53.JPG",
+        "reactions": 114,
+        "rent": 722.6,
+        "rooms": "3",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3211-vuurdoornstraat-15-ommen",
+        "year_built": "1975"
     },
     {
         "availableFromDate": "2023-02-10 00:00:00",
