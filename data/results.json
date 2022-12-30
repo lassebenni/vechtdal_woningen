@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2023-02-14 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-29 14:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3212-63ad91c11cfcd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3212-63ad91c1394ed.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3212-63ad91c11cfcd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3212-63ad91c1394ed.JPG",
+        "reactions": 73,
+        "rent": 585.63,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3212-parkweg-41-hardenberg",
+        "year_built": "1968"
+    },
+    {
         "availableFromDate": "2023-01-31 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
