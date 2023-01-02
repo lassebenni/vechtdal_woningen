@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-04-27 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2022-12-30 16:09:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb96ff73.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb99a254.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9c0a29.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9db481.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb96ff73.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb99a254.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9c0a29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9db481.JPG",
+        "reactions": 78,
+        "rent": 642.51,
+        "rooms": "3",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3214-orionstraat-5-dekrim",
+        "year_built": "1963"
+    },
+    {
         "availableFromDate": "2023-02-14 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -15,25 +34,6 @@
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3212-parkweg-41-hardenberg",
         "year_built": "1968"
-    },
-    {
-        "availableFromDate": "2023-04-27 00:00:00",
-        "city": "De Krim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2022-12-30 16:09:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb96ff73.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb99a254.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9c0a29.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9db481.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb96ff73.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb99a254.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9c0a29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3214-63aefeb9db481.JPG",
-        "reactions": 60,
-        "rent": 642.51,
-        "rooms": "3",
-        "size": 63,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3214-orionstraat-5-dekrim",
-        "year_built": "1963"
     },
     {
         "availableFromDate": "2023-01-31 00:00:00",
