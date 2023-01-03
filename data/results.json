@@ -1,5 +1,62 @@
 [
     {
+        "availableFromDate": "2023-02-23 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-02 13:53:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35cf0b10.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d165c4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d2b035.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d3d803.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35cf0b10.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d165c4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d2b035.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3215-63b2d35d3d803.JPG",
+        "reactions": 64,
+        "rent": 755.98,
+        "rooms": "4",
+        "size": 87,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3215-dehogeesch-10-gramsbergen",
+        "year_built": "1973"
+    },
+    {
+        "availableFromDate": "2023-02-10 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-02 14:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36be6e3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36d8ecb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36efa81.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df371070b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36be6e3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36d8ecb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df36efa81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3216-63b2df371070b.JPG",
+        "reactions": 41,
+        "rent": 618.71,
+        "rooms": "3",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3216-fredriksstraat-20-kloosterhaar",
+        "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2023-03-30 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-03 07:55:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa81260c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa82f928.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa8418ed.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa854313.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa81260c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa82f928.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa8418ed.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3217-63b3cfa854313.JPG",
+        "reactions": 2,
+        "rent": 585.31,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3217-molenweg-55-balkbrug",
+        "year_built": "1959"
+    },
+    {
         "availableFromDate": "2023-04-27 00:00:00",
         "city": "De Krim",
         "corporation": "Vechtdal Wonen",
