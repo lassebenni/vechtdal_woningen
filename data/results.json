@@ -1,5 +1,115 @@
 [
     {
+        "availableFromDate": "2023-02-15 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 13:58:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05a3674.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05b9637.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05cb1e5.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05a3674.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05b9637.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3231-63bc0f05cb1e5.JPG",
+        "reactions": 32,
+        "rent": 657.36,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3231-willemandriessenstraat-5-dedemsvaart",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2023-01-19 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 14:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3232-63bc121eabf8b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3232-63bc121ec4928.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3232-63bc121eabf8b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3232-63bc121ec4928.JPG",
+        "reactions": 47,
+        "rent": 595.4,
+        "rooms": "1",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3232-bisschopshof-33-hardenberg",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2023-03-10 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 14:38:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729a2441.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729b50d1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729c4add.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729d4dee.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729a2441.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729b50d1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729c4add.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3233-63bc1729d4dee.JPG",
+        "reactions": 55,
+        "rent": 666.95,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3233-wentholtstraat-69-ommen",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2023-02-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 15:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5c2475.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5df65a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5efc29.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5c2475.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5df65a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3234-63bc23f5efc29.JPG",
+        "reactions": 43,
+        "rent": 638.55,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3234-ervenweg-92-hardenberg",
+        "year_built": "2010"
+    },
+    {
+        "availableFromDate": "2023-01-26 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 15:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc2590dc55f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc2590efe55.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc25910c3dd.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc2590dc55f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc2590efe55.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3235-63bc25910c3dd.JPG",
+        "reactions": 38,
+        "rent": 664.7,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3235-hortensiastraat-29-dedemsvaart",
+        "year_built": "1963"
+    },
+    {
+        "availableFromDate": "2023-02-09 00:00:00",
+        "city": "Beerzerveld",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-09 17:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a7396d85.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73aeb41.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73c9df6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73dc333.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73ef583.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a7396d85.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73aeb41.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73c9df6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73dc333.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3236-63bc3a73ef583.JPG",
+        "reactions": 35,
+        "rent": 741.15,
+        "rooms": "3",
+        "size": 79,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3236-dslaurentiusstraat-14-beerzerveld",
+        "year_built": "2007"
+    },
+    {
         "availableFromDate": "2023-03-06 00:00:00",
         "city": "Kloosterhaar",
         "corporation": "Vechtdal Wonen",
