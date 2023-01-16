@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-02-17 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-13 08:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0be990.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0e9510.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c106359.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0be990.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0e9510.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c106359.JPG",
+        "reactions": 73,
+        "rent": 470.31,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3242-havik-26-ommen",
+        "year_built": "1988"
+    },
+    {
         "availableFromDate": "2023-02-14 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -34,24 +52,6 @@
         "size": 75,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3241-kamferbekestraat-32-hardenberg",
         "year_built": "2005"
-    },
-    {
-        "availableFromDate": "2023-02-17 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-01-13 08:20:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0be990.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0e9510.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c106359.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0be990.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0e9510.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c106359.JPG",
-        "reactions": 53,
-        "rent": 470.31,
-        "rooms": "1",
-        "size": 35,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3242-havik-26-ommen",
-        "year_built": "1988"
     },
     {
         "availableFromDate": "2023-03-08 00:00:00",
