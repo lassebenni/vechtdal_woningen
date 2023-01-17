@@ -3,6 +3,98 @@
         "availableFromDate": "2023-02-17 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-16 10:28:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864be683.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864d86af.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864ee2ff.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c5186510b5b.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864be683.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864d86af.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864ee2ff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c5186510b5b.JPG",
+        "reactions": 74,
+        "rent": 660.14,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3244-jantooropstraat-2-ommen",
+        "year_built": "2005"
+    },
+    {
+        "availableFromDate": "2023-02-17 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-16 11:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa64861d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa6621a9.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa64861d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa6621a9.JPG",
+        "reactions": 17,
+        "rent": 592.74,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3246-kleinhaar-25-kloosterhaar",
+        "year_built": "1982"
+    },
+    {
+        "availableFromDate": "2023-02-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-16 11:17:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c52437b15c0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524384901f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524385c40d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c5243878655.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c52437b15c0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524384901f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524385c40d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c5243878655.JPG",
+        "reactions": 47,
+        "rent": 677.02,
+        "rooms": "2",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3248-bisschopshof-7-hardenberg",
+        "year_built": "2009"
+    },
+    {
+        "availableFromDate": "2023-01-31 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-16 11:28:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4b9e45.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4d9f44.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b503951.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b51bfe3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4b9e45.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4d9f44.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b503951.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b51bfe3.JPG",
+        "reactions": 73,
+        "rent": 623.98,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3249-goudenregenstraat-17-gramsbergen",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2023-02-17 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-16 15:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581c8bf9c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581ca3fff.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581cb5ae3.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581c8bf9c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581ca3fff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581cb5ae3.JPG",
+        "reactions": 14,
+        "rent": 574.2,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3251-kerkstraat-6-kloosterhaar",
+        "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2023-02-17 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
         "date_added": "2023-01-13 08:20:00",
         "picture_urls": [
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3242-63c105c0be990.JPG",
