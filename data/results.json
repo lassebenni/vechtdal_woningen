@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c5186510b5b.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864be683.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864d86af.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c51864ee2ff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3244-63c5186510b5b.JPG",
-        "reactions": 74,
+        "reactions": 94,
         "rent": 660.14,
         "rooms": "2",
         "size": 63,
@@ -28,7 +28,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa6621a9.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa64861d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3246-63c51fa6621a9.JPG",
-        "reactions": 17,
+        "reactions": 25,
         "rent": 592.74,
         "rooms": "2",
         "size": 65,
@@ -47,7 +47,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c5243878655.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c52437b15c0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524384901f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c524385c40d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3248-63c5243878655.JPG",
-        "reactions": 47,
+        "reactions": 62,
         "rent": 677.02,
         "rooms": "2",
         "size": 67,
@@ -66,7 +66,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b51bfe3.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4b9e45.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b4d9f44.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b503951.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3249-63c526b51bfe3.JPG",
-        "reactions": 73,
+        "reactions": 98,
         "rent": 623.98,
         "rooms": "3",
         "size": 59,
@@ -84,12 +84,48 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581cb5ae3.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581c8bf9c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581ca3fff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3251-63c5581cb5ae3.JPG",
-        "reactions": 14,
+        "reactions": 27,
         "rent": 574.2,
         "rooms": "2",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3251-kerkstraat-6-kloosterhaar",
         "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2023-03-17 00:00:00",
+        "city": "Lemele",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-17 13:52:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e638d4.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e85b81.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e9c789.JPEG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e638d4.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e85b81.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3243-63c5171e9c789.JPEG",
+        "reactions": 40,
+        "rent": 692.91,
+        "rooms": "4",
+        "size": 69,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3243-kerkweg-4-lemele",
+        "year_built": "1956"
+    },
+    {
+        "availableFromDate": "2023-03-17 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-17 14:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba93eed1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba960762.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba971941.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba93eed1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba960762.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3252-63c69ba971941.JPG",
+        "reactions": 70,
+        "rent": 737.44,
+        "rooms": "3",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3252-egelantierstraat-15-ommen",
+        "year_built": "1975"
     },
     {
         "availableFromDate": "2023-02-17 00:00:00",
