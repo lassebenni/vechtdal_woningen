@@ -1,5 +1,22 @@
 [
     {
+        "availableFromDate": "2023-02-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-20 15:05:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71250d7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71418c6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71250d7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71418c6.JPG",
+        "reactions": 65,
+        "rent": 503.12,
+        "rooms": "2",
+        "size": 62,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3256-spaanskamp-171-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2023-02-14 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -34,23 +51,6 @@
         "size": 52,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3254-dralbertschweitzerlaan-14-hardenberg",
         "year_built": "1981"
-    },
-    {
-        "availableFromDate": "2023-02-23 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-01-20 15:05:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71250d7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71418c6.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71250d7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71418c6.JPG",
-        "reactions": 35,
-        "rent": 503.12,
-        "rooms": "2",
-        "size": 62,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3256-spaanskamp-171-hardenberg",
-        "year_built": "1964"
     },
     {
         "availableFromDate": "2023-03-17 00:00:00",
