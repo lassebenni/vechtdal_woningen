@@ -3,6 +3,22 @@
         "availableFromDate": "2023-02-23 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-24 14:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG",
+        "reactions": 58,
+        "rent": 459.17,
+        "rooms": "1",
+        "size": 35,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3259-veldmaat-28-hardenberg",
+        "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2023-02-23 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
         "date_added": "2023-01-20 15:05:00",
         "picture_urls": [
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3256-63ca9f71250d7.JPG",
