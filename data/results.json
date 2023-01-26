@@ -8,12 +8,31 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG",
-        "reactions": 58,
+        "reactions": 84,
         "rent": 459.17,
         "rooms": "1",
         "size": 35,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3259-veldmaat-28-hardenberg",
         "year_built": "1985"
+    },
+    {
+        "availableFromDate": "2023-03-22 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-25 15:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649514fc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d1364975420.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d136498bf37.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649a3531.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649514fc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d1364975420.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d136498bf37.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649a3531.JPG",
+        "reactions": 48,
+        "rent": 637.26,
+        "rooms": "4",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3263-kerkstraat-21-kloosterhaar",
+        "year_built": "1971"
     },
     {
         "availableFromDate": "2023-02-23 00:00:00",
