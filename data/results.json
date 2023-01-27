@@ -8,7 +8,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3259-63cfdc1fb6988.JPG",
-        "reactions": 84,
+        "reactions": 96,
         "rent": 459.17,
         "rooms": "1",
         "size": 35,
@@ -27,12 +27,30 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649a3531.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649514fc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d1364975420.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d136498bf37.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3263-63d13649a3531.JPG",
-        "reactions": 48,
+        "reactions": 74,
         "rent": 637.26,
         "rooms": "4",
         "size": 67,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3263-kerkstraat-21-kloosterhaar",
         "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2023-06-29 00:00:00",
+        "city": "Lutten",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-26 12:49:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684c707c2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684caa958.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684cbfa13.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684c707c2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684caa958.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3264-63d2684cbfa13.JPG",
+        "reactions": 64,
+        "rent": 585.31,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3264-meidoornstraat-17-lutten",
+        "year_built": "1965"
     },
     {
         "availableFromDate": "2023-02-23 00:00:00",
