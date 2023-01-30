@@ -1,5 +1,39 @@
 [
     {
+        "availableFromDate": "2023-03-07 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-27 10:29:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d21e2a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d4d23c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d5fe48.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d21e2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d4d23c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d5fe48.JPG",
+        "reactions": 112,
+        "rent": 621.26,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3265-lijsterstraat-19-dedemsvaart",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2023-03-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-01-27 16:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3266-63d3e94b5050c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3266-63d3e94b5050c.JPG",
+        "reactions": 59,
+        "rent": 555.63,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3266-grasklokje-84-hardenberg",
+        "year_built": "1995"
+    },
+    {
         "availableFromDate": "2023-06-29 00:00:00",
         "city": "Lutten",
         "corporation": "Vechtdal Wonen",
@@ -16,40 +50,6 @@
         "size": 61,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3264-meidoornstraat-17-lutten",
         "year_built": "1965"
-    },
-    {
-        "availableFromDate": "2023-03-07 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-01-27 10:29:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d21e2a.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d4d23c.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d5fe48.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d21e2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d4d23c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3265-63d3981d5fe48.JPG",
-        "reactions": 84,
-        "rent": 621.26,
-        "rooms": "3",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3265-lijsterstraat-19-dedemsvaart",
-        "year_built": "1965"
-    },
-    {
-        "availableFromDate": "2023-03-22 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-01-27 16:13:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3266-63d3e94b5050c.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3266-63d3e94b5050c.JPG",
-        "reactions": 39,
-        "rent": 555.63,
-        "rooms": "2",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3266-grasklokje-84-hardenberg",
-        "year_built": "1995"
     },
     {
         "availableFromDate": "2023-03-22 00:00:00",
