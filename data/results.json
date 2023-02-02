@@ -1,5 +1,43 @@
 [
     {
+        "availableFromDate": "2023-05-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-01 10:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375d2d1e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375e36de.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375f2a6d.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375d2d1e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375e36de.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3267-63da3375f2a6d.JPG",
+        "reactions": 116,
+        "rent": 633.27,
+        "rooms": "4",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3267-evertsenstraat-13-ommen",
+        "year_built": "1956"
+    },
+    {
+        "availableFromDate": "2023-03-09 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-01 13:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54ccdf768.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd09164.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd20dff.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd39339.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd4e5f5.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54ccdf768.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd09164.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd20dff.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd39339.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3268-63da54cd4e5f5.JPG",
+        "reactions": 139,
+        "rent": 600.16,
+        "rooms": "3",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3268-klaproos-21-hardenberg",
+        "year_built": "1987"
+    },
+    {
         "availableFromDate": "2023-03-07 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
