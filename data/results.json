@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-05-25 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-03 13:41:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e66ca2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e835e2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e96b02.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e66ca2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e835e2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e96b02.JPG",
+        "reactions": 144,
+        "rent": 607.3,
+        "rooms": "3",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3271-evertsenstraat-13-ommen",
+        "year_built": "1956"
+    },
+    {
         "availableFromDate": "2023-03-09 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -56,24 +74,6 @@
         "size": 49,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3270-salland-37-hardenberg",
         "year_built": "1986"
-    },
-    {
-        "availableFromDate": "2023-05-25 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-02-03 13:41:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e66ca2.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e835e2.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e96b02.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e66ca2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e835e2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3271-63dd008e96b02.JPG",
-        "reactions": 79,
-        "rent": 607.3,
-        "rooms": "3",
-        "size": 56,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3271-evertsenstraat-13-ommen",
-        "year_built": "1956"
     },
     {
         "availableFromDate": "2023-05-25 00:00:00",
