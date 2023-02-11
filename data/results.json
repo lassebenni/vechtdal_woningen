@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-03-23 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-10 10:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec420bce.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec43db53.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec454581.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec420bce.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec43db53.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3279-63e5fec454581.JPG",
+        "reactions": 59,
+        "rent": 688.38,
+        "rooms": "3",
+        "size": 66,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3279-steenhof-12-ommen",
+        "year_built": "1994"
+    },
+    {
         "availableFromDate": "2023-02-24 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
