@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2023-03-27 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-14 10:40:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56081a9b8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb5608385ce.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56084da19.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56081a9b8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb5608385ce.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56084da19.JPG",
+        "reactions": 2,
+        "rent": 1083.95,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3282-vanwevelinckhovenplein-14-hardenberg",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2023-04-20 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-14 14:33:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb4c34f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb60853.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb721ba.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb4c34f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb60853.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb721ba.JPG",
+        "reactions": 153,
+        "rent": 670.22,
+        "rooms": "3",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3284-pauluspotterstraat-10-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2023-03-23 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
