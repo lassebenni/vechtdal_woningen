@@ -10,7 +10,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56084da19.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56081a9b8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb5608385ce.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3282-63eb56084da19.JPG",
-        "reactions": 2,
+        "reactions": 4,
         "rent": 1083.95,
         "rooms": "2",
         "size": 71,
@@ -28,12 +28,29 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb721ba.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb4c34f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb60853.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3284-63eb75cb721ba.JPG",
-        "reactions": 153,
+        "reactions": 197,
         "rent": 670.22,
         "rooms": "3",
         "size": 64,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3284-pauluspotterstraat-10-hardenberg",
         "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-04-12 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-15 09:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3287-63ec9d2c831de.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3287-63ec9d2ca0bda.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3287-63ec9d2c831de.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3287-63ec9d2ca0bda.JPG",
+        "reactions": 52,
+        "rent": 603.86,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3287-molenweg-38-balkbrug",
+        "year_built": "1976"
     },
     {
         "availableFromDate": "2023-03-23 00:00:00",
