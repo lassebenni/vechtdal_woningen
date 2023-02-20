@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-03-21 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-17 09:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064a4b64.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064bb727.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064d0721.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064e6f54.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064a4b64.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064bb727.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064d0721.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064e6f54.JPG",
+        "reactions": 84,
+        "rent": 741.15,
+        "rooms": "2",
+        "size": 76,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3288-govertflinckstraat-3-ommen",
+        "year_built": "2000"
+    },
+    {
         "availableFromDate": "2023-03-08 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -35,25 +54,6 @@
         "size": 85,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3285-beethovenstraat-24-dedemsvaart",
         "year_built": "1970"
-    },
-    {
-        "availableFromDate": "2023-03-21 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-02-17 09:54:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064a4b64.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064bb727.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064d0721.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064e6f54.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064a4b64.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064bb727.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064d0721.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3288-63ef4064e6f54.JPG",
-        "reactions": 75,
-        "rent": 741.15,
-        "rooms": "2",
-        "size": 76,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3288-govertflinckstraat-3-ommen",
-        "year_built": "2000"
     },
     {
         "availableFromDate": "2023-04-12 00:00:00",
