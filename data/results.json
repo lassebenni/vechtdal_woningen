@@ -1,5 +1,39 @@
 [
     {
+        "availableFromDate": "2023-03-28 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-20 12:32:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3289-63f359e48813f.JPEG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3289-63f359e4a1fba.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3289-63f359e48813f.JPEG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3289-63f359e4a1fba.JPG",
+        "reactions": 61,
+        "rent": 662.94,
+        "rooms": "2",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3289-schoutenhof-57-hardenberg",
+        "year_built": "2012"
+    },
+    {
+        "availableFromDate": "2023-03-22 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-20 14:33:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3290-63f37696653db.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3290-63f3769685788.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3290-63f37696653db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3290-63f3769685788.JPG",
+        "reactions": 68,
+        "rent": 607.6,
+        "rooms": "2",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3290-buizerd-23-ommen",
+        "year_built": "1982"
+    },
+    {
         "availableFromDate": "2023-03-21 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
