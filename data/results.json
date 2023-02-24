@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-03-17 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-23 18:30:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a2381f78b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23871ae8.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23882bc5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23893184.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a2381f78b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23871ae8.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23882bc5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3293-63f7a23893184.JPG",
+        "reactions": 25,
+        "rent": 609.02,
+        "rooms": "1",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3293-burgemeesterbramerstraat-208-hardenberg",
+        "year_built": "2010"
+    },
+    {
         "availableFromDate": "2023-03-28 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
