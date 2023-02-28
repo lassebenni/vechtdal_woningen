@@ -1,5 +1,41 @@
 [
     {
+        "availableFromDate": "2023-04-06 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-27 10:46:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad8f26e7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad8f26e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG",
+        "reactions": 91,
+        "rent": 399.82,
+        "rooms": "1",
+        "size": 36,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3296-wielewaalstraat-35-hardenberg",
+        "year_built": "1972"
+    },
+    {
+        "availableFromDate": "2023-03-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-27 11:31:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa626f2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa79510.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa89428.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa626f2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa79510.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa89428.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG",
+        "reactions": 215,
+        "rent": 740.66,
+        "rooms": "3",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3297-lavendel-11-hardenberg",
+        "year_built": "2020"
+    },
+    {
         "availableFromDate": "2023-03-17 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
