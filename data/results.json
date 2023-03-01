@@ -9,7 +9,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad8f26e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG",
-        "reactions": 91,
+        "reactions": 108,
         "rent": 399.82,
         "rooms": "1",
         "size": 36,
@@ -28,12 +28,66 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa626f2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa79510.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa89428.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG",
-        "reactions": 215,
+        "reactions": 253,
         "rent": 740.66,
         "rooms": "3",
         "size": 63,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3297-lavendel-11-hardenberg",
         "year_built": "2020"
+    },
+    {
+        "availableFromDate": "2023-02-28 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-28 15:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3299-63fe0ca67e4bf.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3299-63fe0ca67e4bf.JPG",
+        "reactions": 1,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3299-lagegaardenstraat-2-a-g004-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2023-03-23 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-28 15:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02bc923.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02d0416.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02e2290.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02bc923.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02d0416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02e2290.JPG",
+        "reactions": 25,
+        "rent": 514.83,
+        "rooms": "1",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3298-hetwilgeroosje-36-dedemsvaart",
+        "year_built": "1983"
+    },
+    {
+        "availableFromDate": "2023-03-03 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-02-28 15:48:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca541a5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca68b13.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca7a656.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca8f47b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13caa0cbc.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca541a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca68b13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca7a656.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca8f47b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13caa0cbc.JPG",
+        "reactions": 25,
+        "rent": 550.62,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3300-lagegaardenstraat-20-hardenberg",
+        "year_built": "1962"
     },
     {
         "availableFromDate": "2023-03-17 00:00:00",
