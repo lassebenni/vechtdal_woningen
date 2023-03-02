@@ -9,7 +9,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad8f26e7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3296-63fc7ad912fcc.JPG",
-        "reactions": 108,
+        "reactions": 109,
         "rent": 399.82,
         "rooms": "1",
         "size": 36,
@@ -28,7 +28,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa626f2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa79510.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa89428.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3297-63fc8baa9856d.JPG",
-        "reactions": 253,
+        "reactions": 263,
         "rent": 740.66,
         "rooms": "3",
         "size": 63,
@@ -62,7 +62,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02e2290.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02bc923.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02d0416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3298-63fe0c02e2290.JPG",
-        "reactions": 25,
+        "reactions": 35,
         "rent": 514.83,
         "rooms": "1",
         "size": 65,
@@ -82,12 +82,101 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13caa0cbc.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca541a5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca68b13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca7a656.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13ca8f47b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3300-63fe13caa0cbc.JPG",
-        "reactions": 25,
+        "reactions": 46,
         "rent": 550.62,
         "rooms": "2",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3300-lagegaardenstraat-20-hardenberg",
         "year_built": "1962"
+    },
+    {
+        "availableFromDate": "2023-04-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-01 09:37:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3302-63ff0bfb75d72.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3302-63ff0bfb75d72.JPG",
+        "reactions": 2,
+        "rent": 62.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3302-jacobvanriemsdijkstraat-27--g005-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2023-03-03 00:00:00",
+        "city": "Balkbrug",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-01 15:19:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e363944.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e3790ee.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e38e4bb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e3a12ca.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e363944.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e3790ee.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e38e4bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3295-63fc78e3a12ca.JPG",
+        "reactions": 9,
+        "rent": 566.56,
+        "rooms": "1",
+        "size": 41,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3295-dewieken-12-balkbrug",
+        "year_built": "1981"
+    },
+    {
+        "availableFromDate": "2023-04-21 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-01 09:06:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a58511.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a6e00f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a7e9f5.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a58511.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a6e00f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3301-63ff051a7e9f5.JPG",
+        "reactions": 33,
+        "rent": 414.66,
+        "rooms": "1",
+        "size": 38,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3301-kleinepollen-74-hardenberg",
+        "year_built": "1984"
+    },
+    {
+        "availableFromDate": "2023-04-06 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-01 10:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff1789e05a0.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff178a00da2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff178a12105.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff1789e05a0.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff178a00da2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3303-63ff178a12105.JPG",
+        "reactions": 41,
+        "rent": 629.5,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3303-havenweg-124-hardenberg",
+        "year_built": "1995"
+    },
+    {
+        "availableFromDate": "2023-03-22 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-01 11:24:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277198f93.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277222b60.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277234379.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277198f93.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277222b60.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3304-63ff277234379.JPG",
+        "reactions": 96,
+        "rent": 681.42,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3304-rembrandtstraat-11-hardenberg",
+        "year_built": "1966"
     },
     {
         "availableFromDate": "2023-03-17 00:00:00",
