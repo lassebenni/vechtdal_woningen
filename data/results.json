@@ -11,12 +11,67 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3314-6406dce5513d5.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3314-6406dce4c0c5b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3314-6406dce52b46f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3314-6406dce53ea2a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3314-6406dce5513d5.JPG",
-        "reactions": 53,
+        "reactions": 74,
         "rent": 529.67,
         "rooms": "1",
         "size": 65,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3314-hetwilgeroosje-44-dedemsvaart",
         "year_built": "1983"
+    },
+    {
+        "availableFromDate": "2023-06-15 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-08 11:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26a0099.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26c02af.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26d603d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26e95df.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26a0099.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26c02af.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26d603d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3316-64085e26e95df.JPG",
+        "reactions": 62,
+        "rent": 459.17,
+        "rooms": "1",
+        "size": 48,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3316-grasklokje-100-hardenberg",
+        "year_built": "1995"
+    },
+    {
+        "availableFromDate": "2023-04-13 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-08 12:37:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac5b280.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac6feb4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac82010.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac5b280.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac6feb4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3317-640872ac82010.JPG",
+        "reactions": 42,
+        "rent": 589.02,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3317-schuttevaer-5-dedemsvaart",
+        "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2023-05-12 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-08 14:46:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee6885f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee818a1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee969c6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee6885f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee818a1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3318-640890ee969c6.JPG",
+        "reactions": 69,
+        "rent": 796.81,
+        "rooms": "3",
+        "size": 111,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3318-lepelaarweg-48-dedemsvaart",
+        "year_built": "1971"
     },
     {
         "availableFromDate": "2023-04-20 00:00:00",
