@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-03-21 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-10 16:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a4574c33.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45933c5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45a7a20.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a4574c33.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45933c5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45a7a20.JPG",
+        "reactions": 25,
+        "rent": 529.67,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3321-beethovenstraat-13-dedemsvaart",
+        "year_built": "1970"
+    },
+    {
         "availableFromDate": "2023-06-15 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -53,24 +71,6 @@
         "size": 111,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3318-lepelaarweg-48-dedemsvaart",
         "year_built": "1971"
-    },
-    {
-        "availableFromDate": "2023-03-21 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-03-10 16:20:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a4574c33.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45933c5.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45a7a20.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a4574c33.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45933c5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3321-640b4a45a7a20.JPG",
-        "reactions": 18,
-        "rent": 529.67,
-        "rooms": "1",
-        "size": 40,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3321-beethovenstraat-13-dedemsvaart",
-        "year_built": "1970"
     },
     {
         "availableFromDate": "2023-04-12 00:00:00",
