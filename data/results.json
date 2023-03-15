@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-04-13 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-14 09:15:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce8e9551.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce90c13a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce9215ea.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce8e9551.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce90c13a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce9215ea.JPG",
+        "reactions": 105,
+        "rent": 663.22,
+        "rooms": "4",
+        "size": 74,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3322-wilhelminastraat-25-dedemsvaart",
+        "year_built": "1956"
+    },
+    {
         "availableFromDate": "2023-03-21 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
