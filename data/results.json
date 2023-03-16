@@ -10,12 +10,32 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce9215ea.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce8e9551.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce90c13a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3322-64102ce9215ea.JPG",
-        "reactions": 105,
+        "reactions": 143,
         "rent": 663.22,
         "rooms": "4",
         "size": 74,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3322-wilhelminastraat-25-dedemsvaart",
         "year_built": "1956"
+    },
+    {
+        "availableFromDate": "2023-04-14 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-15 09:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-641186904b235.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-64118691aee11.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-64118691ededb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-641186921a4b4.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-6411869246178.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-641186904b235.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-64118691aee11.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-64118691ededb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-641186921a4b4.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3324-6411869246178.JPG",
+        "reactions": 47,
+        "rent": 459.55,
+        "rooms": "1",
+        "size": 52,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3324-demaalderij-11-dedemsvaart",
+        "year_built": "1987"
     },
     {
         "availableFromDate": "2023-03-21 00:00:00",
