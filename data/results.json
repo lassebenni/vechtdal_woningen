@@ -1,5 +1,43 @@
 [
     {
+        "availableFromDate": "2023-06-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-21 10:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af6632cc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af685a2d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af697aba.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-641974bbdd8ab.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af6632cc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af685a2d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af697aba.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-641974bbdd8ab.jpg",
+        "reactions": 75,
+        "rent": 392.41,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3349-kleinepollen-98-hardenberg",
+        "year_built": "1984"
+    },
+    {
+        "availableFromDate": "2023-04-19 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-21 14:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a1ecfd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a35116.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a4a5fc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a62809.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a1ecfd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a35116.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a4a5fc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a62809.JPG",
+        "reactions": 29,
+        "rent": 493.87,
+        "rooms": "2",
+        "size": 48,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3350-hattemattestraat-38-gramsbergen",
+        "year_built": "1991"
+    },
+    {
         "availableFromDate": "2023-05-19 00:00:00",
         "city": "Kloosterhaar",
         "corporation": "Vechtdal Wonen",
