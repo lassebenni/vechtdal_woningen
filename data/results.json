@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-641974bbdd8ab.jpg"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af6632cc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af685a2d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-64196af697aba.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3349-641974bbdd8ab.jpg",
-        "reactions": 96,
+        "reactions": 112,
         "rent": 392.41,
         "rooms": "1",
         "size": 37,
@@ -30,7 +30,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a62809.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a1ecfd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a35116.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a4a5fc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3350-6419b04a62809.JPG",
-        "reactions": 43,
+        "reactions": 41,
         "rent": 493.87,
         "rooms": "2",
         "size": 48,
@@ -47,7 +47,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3352-641adfc3a5c7e.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3352-641adfc3868d6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3352-641adfc3a5c7e.JPG",
-        "reactions": 5,
+        "reactions": 8,
         "rent": 62.12,
         "rooms": null,
         "size": 0,
@@ -66,7 +66,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3351-641ad543b8f3f.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3351-641ad543600b2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3351-641ad54389135.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3351-641ad543a6aad.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3351-641ad543b8f3f.JPG",
-        "reactions": 95,
+        "reactions": 112,
         "rent": 681.79,
         "rooms": "3",
         "size": 71,
@@ -84,12 +84,49 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3353-641ae0951670e.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3353-641ae094dddd1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3353-641ae09502e2d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3353-641ae0951670e.JPG",
-        "reactions": 61,
+        "reactions": 71,
         "rent": 692.56,
         "rooms": "3",
         "size": 62,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3353-vanlimburgstirumstraat-23-bergentheim",
         "year_built": "1962"
+    },
+    {
+        "availableFromDate": "2023-05-11 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-23 08:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef1e0f3c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef246da9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef265097.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef27ee92.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef1e0f3c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef246da9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef265097.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3354-641bfef27ee92.JPG",
+        "reactions": 69,
+        "rent": 759.71,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3354-dehogeesch-18-gramsbergen",
+        "year_built": "1973"
+    },
+    {
+        "availableFromDate": "2023-04-28 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-23 08:31:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff5da059.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff5f036d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff60eb36.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff5da059.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff5f036d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3355-641bfff60eb36.JPG",
+        "reactions": 62,
+        "rent": 688.92,
+        "rooms": "3",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3355-havikstraat-7-dedemsvaart",
+        "year_built": "1967"
     },
     {
         "availableFromDate": "2023-05-19 00:00:00",
