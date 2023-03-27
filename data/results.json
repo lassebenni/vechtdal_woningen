@@ -1,5 +1,61 @@
 [
     {
+        "availableFromDate": "2023-05-05 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-24 11:26:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba04d13.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba1bdf7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba322ca.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba04d13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba1bdf7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba322ca.JPG",
+        "reactions": 84,
+        "rent": 603.86,
+        "rooms": "3",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3358-margrietstraat-29-dedemsvaart",
+        "year_built": "1955"
+    },
+    {
+        "availableFromDate": "2023-06-01 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-24 14:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0894927d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0895e335.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08973daa.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08985fc4.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0894927d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0895e335.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08973daa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08985fc4.JPG",
+        "reactions": 71,
+        "rent": 720.44,
+        "rooms": "3",
+        "size": 89,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3359-dewulp-8-dedemsvaart",
+        "year_built": "1972"
+    },
+    {
+        "availableFromDate": "2023-05-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-26 20:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG",
+        "reactions": 16,
+        "rent": 577.9,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3360-akkermunt-10-hardenberg",
+        "year_built": "1989"
+    },
+    {
         "availableFromDate": "2023-05-11 00:00:00",
         "city": "Gramsbergen",
         "corporation": "Vechtdal Wonen",
@@ -35,43 +91,6 @@
         "size": 71,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3355-havikstraat-7-dedemsvaart",
         "year_built": "1967"
-    },
-    {
-        "availableFromDate": "2023-05-05 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-03-24 11:26:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba04d13.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba1bdf7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba322ca.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba04d13.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba1bdf7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3358-641d7aba322ca.JPG",
-        "reactions": 61,
-        "rent": 603.86,
-        "rooms": "3",
-        "size": 57,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3358-margrietstraat-29-dedemsvaart",
-        "year_built": "1955"
-    },
-    {
-        "availableFromDate": "2023-06-01 00:00:00",
-        "city": "Dedemsvaart",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-03-24 14:08:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0894927d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0895e335.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08973daa.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08985fc4.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0894927d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da0895e335.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08973daa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3359-641da08985fc4.JPG",
-        "reactions": 56,
-        "rent": 720.44,
-        "rooms": "3",
-        "size": 89,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3359-dewulp-8-dedemsvaart",
-        "year_built": "1972"
     },
     {
         "availableFromDate": "2023-04-24 00:00:00",
