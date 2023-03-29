@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-05-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-26 20:44:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG",
+        "reactions": 74,
+        "rent": 577.9,
+        "rooms": "2",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3360-akkermunt-10-hardenberg",
+        "year_built": "1989"
+    },
+    {
         "availableFromDate": "2023-05-05 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -35,25 +54,6 @@
         "size": 89,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3359-dewulp-8-dedemsvaart",
         "year_built": "1972"
-    },
-    {
-        "availableFromDate": "2023-05-04 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-03-26 20:44:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-6420907087f76.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070aea93.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070cc27f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3360-64209070e5762.JPG",
-        "reactions": 16,
-        "rent": 577.9,
-        "rooms": "2",
-        "size": 71,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3360-akkermunt-10-hardenberg",
-        "year_built": "1989"
     },
     {
         "availableFromDate": "2023-05-11 00:00:00",
