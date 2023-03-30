@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-05-10 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-03-29 14:31:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebc5700.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebddf60.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebf1c6b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eec12950.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebc5700.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebddf60.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eebf1c6b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3363-64242eec12950.JPG",
+        "reactions": 29,
+        "rent": 551.65,
+        "rooms": "3",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3363-jupiterstraat-8-dekrim",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2023-05-04 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
