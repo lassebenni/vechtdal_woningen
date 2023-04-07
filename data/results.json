@@ -1,5 +1,23 @@
 [
     {
+        "availableFromDate": "2023-05-02 00:00:00",
+        "city": "Bergentheim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-05 11:00:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ea8af1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ec3aa9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ed95ea.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ea8af1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ec3aa9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3375-642d486ed95ea.JPG",
+        "reactions": 52,
+        "rent": 609.63,
+        "rooms": "2",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3375-gijsbertkarelvanhogendorpstraat-18-bergentheim",
+        "year_built": "2005"
+    },
+    {
         "availableFromDate": "2023-05-04 00:00:00",
         "city": "Gramsbergen",
         "corporation": "Vechtdal Wonen",
