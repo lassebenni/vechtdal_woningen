@@ -1,5 +1,42 @@
 [
     {
+        "availableFromDate": "2023-06-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-14 10:36:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f514ca29.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f516a443.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f514ca29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f516a443.JPG",
+        "reactions": 149,
+        "rent": 615.63,
+        "rooms": "2",
+        "size": 61,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3408-mhzntrompstraat-47-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2023-05-05 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-17 07:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9aa4a1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9bf30d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9cecc7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9e0e90.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdeca006b5.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9aa4a1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9bf30d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9cecc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9e0e90.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdeca006b5.JPG",
+        "reactions": 7,
+        "rent": 569.9,
+        "rooms": "2",
+        "size": 63,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3409-rustenbergherstraat-52-hardenberg",
+        "year_built": "1964"
+    },
+    {
         "availableFromDate": "2023-05-09 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
@@ -13,23 +50,6 @@
         "rooms": null,
         "size": 0,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3407-marslaan-49--g003-hardenberg",
-        "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2023-06-02 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-04-14 10:36:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f514ca29.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f516a443.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f514ca29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3408-64390f516a443.JPG",
-        "reactions": 128,
-        "rent": 615.63,
-        "rooms": "2",
-        "size": 61,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3408-mhzntrompstraat-47-hardenberg",
         "year_built": "1958"
     },
     {
