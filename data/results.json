@@ -12,7 +12,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdeca006b5.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9aa4a1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9bf30d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9cecc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdec9e0e90.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3409-643cdeca006b5.JPG",
-        "reactions": 96,
+        "reactions": 98,
         "rent": 569.9,
         "rooms": "2",
         "size": 63,
@@ -33,12 +33,67 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d354f74713.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d354456dcf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d35446d038.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d35447eca9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d354f4397e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d354f5e066.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3410-643d354f74713.JPG",
-        "reactions": 57,
+        "reactions": 71,
         "rent": 733.6,
         "rooms": "2",
         "size": 87,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3410-tuinfluiterstraat-37-ommen",
         "year_built": "1976"
+    },
+    {
+        "availableFromDate": "2023-06-06 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-19 08:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bedc7bb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bef1607.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf0efe9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf20b81.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf3270c.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bedc7bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bef1607.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf0efe9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf20b81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf3270c.JPG",
+        "reactions": 4,
+        "rent": 544.51,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3412-beethovenstraat-1-dedemsvaart",
+        "year_built": "1970"
+    },
+    {
+        "availableFromDate": "2023-05-24 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-19 08:14:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f8666f0575.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f86670f6c7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f866722805.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f8666f0575.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f86670f6c7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f866722805.JPG",
+        "reactions": 2,
+        "rent": 531.12,
+        "rooms": "2",
+        "size": 48,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3413-salland-14-hardenberg",
+        "year_built": "1986"
+    },
+    {
+        "availableFromDate": "2023-06-30 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-19 08:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf631cf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf77590.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf631cf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf77590.JPG",
+        "reactions": 3,
+        "rent": 366.43,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3414-wielewaalstraat-19-hardenberg",
+        "year_built": "1972"
     },
     {
         "availableFromDate": "2023-06-02 00:00:00",
