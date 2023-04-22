@@ -12,7 +12,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf3270c.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bedc7bb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bef1607.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf0efe9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf20b81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3412-643f85bf3270c.JPG",
-        "reactions": 39,
+        "reactions": 42,
         "rent": 544.51,
         "rooms": "1",
         "size": 40,
@@ -30,7 +30,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f866722805.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f8666f0575.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f86670f6c7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3413-643f866722805.JPG",
-        "reactions": 30,
+        "reactions": 32,
         "rent": 531.12,
         "rooms": "2",
         "size": 48,
@@ -47,7 +47,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf77590.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf631cf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3414-643f87cf77590.JPG",
-        "reactions": 61,
+        "reactions": 69,
         "rent": 366.43,
         "rooms": "1",
         "size": 40,
@@ -65,12 +65,31 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3415-643f97e06e83e.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3415-643f97e03cb57.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3415-643f97e0560b5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3415-643f97e06e83e.JPG",
-        "reactions": 144,
+        "reactions": 166,
         "rent": 822.41,
         "rooms": "4",
         "size": 87,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3415-lijsterstraat-4-hardenberg",
         "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2023-06-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-21 10:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG",
+        "reactions": 122,
+        "rent": 718.55,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3416-jcjvanspeykstraat-11-hardenberg",
+        "year_built": "1958"
     },
     {
         "availableFromDate": "2023-05-05 00:00:00",
