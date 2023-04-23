@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-06-08 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-21 10:10:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG",
+        "reactions": 149,
+        "rent": 718.55,
+        "rooms": "3",
+        "size": 68,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3416-jcjvanspeykstraat-11-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2023-06-06 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -71,25 +90,6 @@
         "size": 87,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3415-lijsterstraat-4-hardenberg",
         "year_built": "1968"
-    },
-    {
-        "availableFromDate": "2023-06-08 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-04-21 10:10:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ed0951.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433ef0f75.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f1595a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3416-6442433f2938f.JPG",
-        "reactions": 122,
-        "rent": 718.55,
-        "rooms": "3",
-        "size": 68,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3416-jcjvanspeykstraat-11-hardenberg",
-        "year_built": "1958"
     },
     {
         "availableFromDate": "2023-05-05 00:00:00",
