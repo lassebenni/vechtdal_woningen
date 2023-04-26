@@ -1,5 +1,25 @@
 [
     {
+        "availableFromDate": "2023-05-30 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-04-25 14:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555a72bf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555bc835.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555ce5f9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555dfe09.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555f2a12.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555a72bf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555bc835.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555ce5f9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555dfe09.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3437-6447c555f2a12.JPG",
+        "reactions": 41,
+        "rent": 565.83,
+        "rooms": "2",
+        "size": 51,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3437-admiraalhelfrichstraat-45-hardenberg",
+        "year_built": "1985"
+    },
+    {
         "availableFromDate": "2023-06-08 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
