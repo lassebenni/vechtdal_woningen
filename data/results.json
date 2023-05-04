@@ -1,5 +1,63 @@
 [
     {
+        "availableFromDate": "2023-07-18 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-03 09:45:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7b93b93.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bbb7ab.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bcda3d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bdf628.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7b93b93.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bbb7ab.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bcda3d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3445-64520f7bdf628.JPG",
+        "reactions": 54,
+        "rent": 563.85,
+        "rooms": "3",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3445-saturnusstraat-38-dekrim",
+        "year_built": "1964"
+    },
+    {
+        "availableFromDate": "2023-07-11 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-03 10:20:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfa3073.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfc4d58.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfde8b2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214d001b12.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfa3073.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfc4d58.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214cfde8b2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3446-645214d001b12.JPG",
+        "reactions": 95,
+        "rent": 815.06,
+        "rooms": "4",
+        "size": 86,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3446-adelaarweg-1-dedemsvaart",
+        "year_built": "1971"
+    },
+    {
+        "availableFromDate": "2023-07-05 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-03 14:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-64525431234c7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-645254313fc81.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-64525431519dc.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-6452543164203.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-6452543176436.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-64525431234c7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-645254313fc81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-64525431519dc.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-6452543164203.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3447-6452543176436.JPG",
+        "reactions": 63,
+        "rent": 742.98,
+        "rooms": "3",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3447-havikstraat-12-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
         "availableFromDate": "2023-05-30 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
