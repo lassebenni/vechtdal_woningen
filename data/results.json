@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-06-02 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-08 13:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dc7eb01.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dcf20e6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dd133db.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dd28651.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dc7eb01.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dcf20e6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dd133db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3452-6458d9dd28651.JPG",
+        "reactions": 57,
+        "rent": 704.06,
+        "rooms": "2",
+        "size": 58,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3452-kareldoormanlaan-12-a-hardenberg",
+        "year_built": "1997"
+    },
+    {
         "availableFromDate": "2023-08-14 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
