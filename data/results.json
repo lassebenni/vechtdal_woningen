@@ -1,24 +1,5 @@
 [
     {
-        "availableFromDate": "2023-07-20 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-10 10:22:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda2055d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda3cadf.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda4f838.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda63af2.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda2055d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda3cadf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda4f838.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda63af2.JPG",
-        "reactions": 54,
-        "rent": 369.73,
-        "rooms": "1",
-        "size": 37,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3454-wielewaalstraat-31-hardenberg",
-        "year_built": "1972"
-    },
-    {
         "availableFromDate": "2023-06-09 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -29,7 +10,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3457-645cb695e6832.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3457-645cb695beedb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3457-645cb695d5722.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3457-645cb695e6832.JPG",
-        "reactions": 190,
+        "reactions": 209,
         "rent": 752.28,
         "rooms": "3",
         "size": 68,
@@ -49,12 +30,31 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366271cc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366287346.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e36629cb23.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662ae15d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG",
-        "reactions": 61,
+        "reactions": 88,
         "rent": 655.54,
         "rooms": "3",
         "size": 56,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3460-schoolstraat-45-kloosterhaar",
         "year_built": "1949"
+    },
+    {
+        "availableFromDate": "2023-07-20 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-10 10:22:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda2055d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda3cadf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda4f838.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda63af2.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda2055d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda3cadf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda4f838.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3454-645b4eda63af2.JPG",
+        "reactions": 54,
+        "rent": 369.73,
+        "rooms": "1",
+        "size": 37,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3454-wielewaalstraat-31-hardenberg",
+        "year_built": "1972"
     },
     {
         "availableFromDate": "2023-06-02 00:00:00",
