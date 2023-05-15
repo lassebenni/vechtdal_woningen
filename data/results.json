@@ -1,5 +1,44 @@
 [
     {
+        "availableFromDate": "2023-05-10 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-12 14:55:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366271cc7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366287346.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e36629cb23.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662ae15d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366271cc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366287346.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e36629cb23.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662ae15d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG",
+        "reactions": 113,
+        "rent": 655.54,
+        "rooms": "3",
+        "size": 56,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3460-schoolstraat-45-kloosterhaar",
+        "year_built": "1949"
+    },
+    {
+        "availableFromDate": "2023-06-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-15 08:04:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f84088f31f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408acbe3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408bfa86.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408d36c9.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f84088f31f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408acbe3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408bfa86.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3411-643f8408d36c9.JPG",
+        "reactions": 7,
+        "rent": 418.36,
+        "rooms": "1",
+        "size": 52,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3411-hofweg-29-hardenberg",
+        "year_built": "1981"
+    },
+    {
         "availableFromDate": "2023-06-09 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -16,26 +55,6 @@
         "size": 68,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3457-margrietstraat-14-dedemsvaart",
         "year_built": "2016"
-    },
-    {
-        "availableFromDate": "2023-05-10 00:00:00",
-        "city": "Kloosterhaar",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-12 14:55:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366271cc7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366287346.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e36629cb23.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662ae15d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366271cc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e366287346.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e36629cb23.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662ae15d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3460-645e3662c25fc.JPG",
-        "reactions": 88,
-        "rent": 655.54,
-        "rooms": "3",
-        "size": 56,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3460-schoolstraat-45-kloosterhaar",
-        "year_built": "1949"
     },
     {
         "availableFromDate": "2023-07-20 00:00:00",
