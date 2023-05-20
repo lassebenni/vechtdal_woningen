@@ -1,6 +1,63 @@
 [
     {
         "availableFromDate": "2023-06-22 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-17 08:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475045e5d9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-6464750478086.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475048bfc7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-64647504a07fe.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475045e5d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-6464750478086.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475048bfc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-64647504a07fe.JPG",
+        "reactions": 93,
+        "rent": 466.61,
+        "rooms": "1",
+        "size": 36,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3464-havik-24-ommen",
+        "year_built": "1988"
+    },
+    {
+        "availableFromDate": "2023-09-08 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-17 08:39:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652bf6b3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652df30a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652f2416.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647653103fa.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652bf6b3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652df30a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652f2416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647653103fa.JPG",
+        "reactions": 172,
+        "rent": 709.89,
+        "rooms": "3",
+        "size": 54,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3465-wittedewithstraat-4-ommen",
+        "year_built": "1957"
+    },
+    {
+        "availableFromDate": "2023-07-19 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-17 13:18:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a55d1bf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a574751.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a58ae0e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a59c943.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a55d1bf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a574751.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a58ae0e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a59c943.JPG",
+        "reactions": 160,
+        "rent": 694.01,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3468-rembrandtstraat-17-hardenberg",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2023-06-22 00:00:00",
         "city": "De Krim",
         "corporation": "Vechtdal Wonen",
         "date_added": "2023-05-16 16:11:00",
@@ -34,63 +91,6 @@
         "size": 67,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3463-burgemeesterschuitestraat-126-hardenberg",
         "year_built": "2006"
-    },
-    {
-        "availableFromDate": "2023-06-22 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-17 08:34:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475045e5d9.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-6464750478086.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475048bfc7.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-64647504a07fe.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475045e5d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-6464750478086.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-646475048bfc7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3464-64647504a07fe.JPG",
-        "reactions": 78,
-        "rent": 466.61,
-        "rooms": "1",
-        "size": 36,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3464-havik-24-ommen",
-        "year_built": "1988"
-    },
-    {
-        "availableFromDate": "2023-09-08 00:00:00",
-        "city": "Ommen",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-17 08:39:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652bf6b3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652df30a.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652f2416.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647653103fa.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652bf6b3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652df30a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647652f2416.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3465-64647653103fa.JPG",
-        "reactions": 152,
-        "rent": 709.89,
-        "rooms": "3",
-        "size": 54,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3465-wittedewithstraat-4-ommen",
-        "year_built": "1957"
-    },
-    {
-        "availableFromDate": "2023-07-19 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-17 13:18:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a55d1bf.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a574751.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a58ae0e.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a59c943.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a55d1bf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a574751.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a58ae0e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3468-6464b7a59c943.JPG",
-        "reactions": 139,
-        "rent": 694.01,
-        "rooms": "3",
-        "size": 65,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3468-rembrandtstraat-17-hardenberg",
-        "year_built": "1966"
     },
     {
         "availableFromDate": "2023-06-01 00:00:00",
