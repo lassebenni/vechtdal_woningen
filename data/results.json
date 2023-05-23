@@ -1,5 +1,83 @@
 [
     {
+        "availableFromDate": "2023-06-09 00:00:00",
+        "city": "Gramsbergen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-22 16:07:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b760241d00.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b76029d713.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602b0e48.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602c4faa.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602da3cc.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b760241d00.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b76029d713.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602b0e48.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602c4faa.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3469-646b7602da3cc.JPG",
+        "reactions": 49,
+        "rent": 672.42,
+        "rooms": "2",
+        "size": 59,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3469-burgemeesterbaronvanvoerstvanlyndenstraat-14-gramsbergen",
+        "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2023-06-28 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-22 16:21:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79904e85b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b799066635.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79907921a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79908bb0e.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79904e85b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b799066635.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79907921a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3470-646b79908bb0e.JPG",
+        "reactions": 24,
+        "rent": 563.81,
+        "rooms": "2",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3470-kerkstraat-4-kloosterhaar",
+        "year_built": "1980"
+    },
+    {
+        "availableFromDate": "2023-06-07 00:00:00",
+        "city": "Slagharen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-22 16:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b921875f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b9234e4b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b9248a02.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b925b6a2.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b921875f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b9234e4b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b9248a02.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3471-646b7b925b6a2.JPG",
+        "reactions": 84,
+        "rent": 570.17,
+        "rooms": "3",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3471-aukevosstraat-64-slagharen",
+        "year_built": "1963"
+    },
+    {
+        "availableFromDate": "2023-07-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-22 16:35:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d303e512.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d305711b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d3075ec6.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d308cd54.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d30a2044.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d303e512.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d305711b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d3075ec6.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d308cd54.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3472-646b7d30a2044.JPG",
+        "reactions": 100,
+        "rent": 509.91,
+        "rooms": "3",
+        "size": 65,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3472-parkweg-71-hardenberg",
+        "year_built": "1968"
+    },
+    {
         "availableFromDate": "2023-06-22 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
