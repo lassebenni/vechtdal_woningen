@@ -1,5 +1,57 @@
 [
     {
+        "availableFromDate": "2023-06-13 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-26 09:34:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed161428.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed173279.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed161428.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed173279.PNG",
+        "reactions": 9,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3485-rustenbergherstraat-2--g001-hardenberg",
+        "year_built": "1958"
+    },
+    {
+        "availableFromDate": "2023-07-20 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-26 11:01:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750ee6497.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f08d81.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f1ce97.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f2e50a.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750ee6497.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f08d81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f1ce97.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f2e50a.JPG",
+        "reactions": 82,
+        "rent": 586.46,
+        "rooms": "3",
+        "size": 77,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3497-fredriksstraat-1-kloosterhaar",
+        "year_built": "1965"
+    },
+    {
+        "availableFromDate": "2023-07-01 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-26 11:13:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3498-64707829bfa61.PNG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3498-64707829bfa61.PNG",
+        "reactions": 7,
+        "rent": 58.12,
+        "rooms": null,
+        "size": 0,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3498-spaanskamp-33--g020-hardenberg",
+        "year_built": "1958"
+    },
+    {
         "availableFromDate": "2023-07-13 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -35,58 +87,6 @@
         "size": 72,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3482-goudenregenstraat-40-gramsbergen",
         "year_built": "1968"
-    },
-    {
-        "availableFromDate": "2023-06-13 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-26 09:34:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed161428.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed173279.PNG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed161428.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3485-64705ed173279.PNG",
-        "reactions": 7,
-        "rent": 58.12,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3485-rustenbergherstraat-2--g001-hardenberg",
-        "year_built": "1958"
-    },
-    {
-        "availableFromDate": "2023-07-20 00:00:00",
-        "city": "Kloosterhaar",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-26 11:01:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750ee6497.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f08d81.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f1ce97.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f2e50a.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750ee6497.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f08d81.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f1ce97.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3497-6470750f2e50a.JPG",
-        "reactions": 67,
-        "rent": 586.46,
-        "rooms": "3",
-        "size": 77,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3497-fredriksstraat-1-kloosterhaar",
-        "year_built": "1965"
-    },
-    {
-        "availableFromDate": "2023-07-01 00:00:00",
-        "city": "Hardenberg",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-05-26 11:13:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3498-64707829bfa61.PNG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3498-64707829bfa61.PNG",
-        "reactions": 5,
-        "rent": 58.12,
-        "rooms": null,
-        "size": 0,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3498-spaanskamp-33--g020-hardenberg",
-        "year_built": "1958"
     },
     {
         "availableFromDate": "2023-07-13 00:00:00",
