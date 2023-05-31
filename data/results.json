@@ -1,5 +1,24 @@
 [
     {
+        "availableFromDate": "2023-06-28 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-05-30 14:27:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a076bf.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a353c1.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a4988e.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a5beac.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a076bf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a353c1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a4988e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a5beac.JPG",
+        "reactions": 108,
+        "rent": 615.91,
+        "rooms": "3",
+        "size": 71,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3499-zwiersstraat-53-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
         "availableFromDate": "2023-06-13 00:00:00",
         "city": "Hardenberg",
         "corporation": "Vechtdal Wonen",
