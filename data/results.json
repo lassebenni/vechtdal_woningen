@@ -11,12 +11,67 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a5beac.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a076bf.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a353c1.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a4988e.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3499-6475eb6a5beac.JPG",
-        "reactions": 146,
+        "reactions": 183,
         "rent": 615.91,
         "rooms": "3",
         "size": 71,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3499-zwiersstraat-53-dedemsvaart",
         "year_built": "1967"
+    },
+    {
+        "availableFromDate": "2023-06-15 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-01 15:08:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3501-1.jpg"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3501-1.jpg",
+        "reactions": 153,
+        "rent": 710.25,
+        "rooms": "3",
+        "size": 92,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3501-zonnebloemhof-10-ommen",
+        "year_built": "2022"
+    },
+    {
+        "availableFromDate": "2023-07-10 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-01 15:35:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4a925db.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4aa6bcd.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4ab85c5.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4ac9f65.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4adbba0.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4a925db.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4aa6bcd.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4ab85c5.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4ac9f65.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3502-64789c4adbba0.JPG",
+        "reactions": 40,
+        "rent": 789.4,
+        "rooms": "2",
+        "size": 67,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3502-havenweg-92-hardenberg",
+        "year_built": "1997"
+    },
+    {
+        "availableFromDate": "2023-07-27 00:00:00",
+        "city": "Kloosterhaar",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-01 16:43:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae196d436.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae1984be3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae19c5ae2.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae19d66e6.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae196d436.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae1984be3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae19c5ae2.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3504-6478ae19d66e6.JPG",
+        "reactions": 46,
+        "rent": 587.26,
+        "rooms": "4",
+        "size": 64,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3504-sportstraat-18-kloosterhaar",
+        "year_built": "1960"
     },
     {
         "availableFromDate": "2023-06-13 00:00:00",
