@@ -1,5 +1,43 @@
 [
     {
+        "availableFromDate": "2023-07-04 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-06 13:54:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f0b28b.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f24e09.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f36aa7.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f49425.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f0b28b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f24e09.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f36aa7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f49425.JPG",
+        "reactions": 156,
+        "rent": 745.54,
+        "rooms": "3",
+        "size": 60,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3508-jhrvannahuysstraat-49-ommen",
+        "year_built": "1966"
+    },
+    {
+        "availableFromDate": "2023-06-30 00:00:00",
+        "city": "Ommen",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-06 15:12:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350737e1c.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350750439.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350762f08.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350776fe9.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350737e1c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350750439.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350762f08.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350776fe9.JPG",
+        "reactions": 46,
+        "rent": 623.45,
+        "rooms": "2",
+        "size": 55,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3509-janhoutmanstraat-11-ommen",
+        "year_built": "2008"
+    },
+    {
         "availableFromDate": "2023-06-15 00:00:00",
         "city": "Ommen",
         "corporation": "Vechtdal Wonen",
