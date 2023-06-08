@@ -11,7 +11,7 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f49425.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f0b28b.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f24e09.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f36aa7.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3508-647f1b7f49425.JPG",
-        "reactions": 156,
+        "reactions": 190,
         "rent": 745.54,
         "rooms": "3",
         "size": 60,
@@ -30,12 +30,50 @@
             "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350776fe9.JPG"
         ],
         "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350737e1c.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350750439.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350762f08.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3509-647f350776fe9.JPG",
-        "reactions": 46,
+        "reactions": 68,
         "rent": 623.45,
         "rooms": "2",
         "size": 55,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3509-janhoutmanstraat-11-ommen",
         "year_built": "2008"
+    },
+    {
+        "availableFromDate": "2023-09-04 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-07 09:57:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fb65f33.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbab42f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbbf890.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbd0477.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fb65f33.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbab42f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbbf890.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3510-648037fbd0477.JPG",
+        "reactions": 136,
+        "rent": 716.67,
+        "rooms": "3",
+        "size": 69,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3510-beatrixstraat-5-hardenberg",
+        "year_built": "1962"
+    },
+    {
+        "availableFromDate": "2023-07-21 00:00:00",
+        "city": "Hardenberg",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-07 15:11:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-648081317cc29.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-648081319d8eb.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-64808131b8f9a.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-64808131d0aff.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-648081317cc29.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-648081319d8eb.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-64808131b8f9a.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3511-64808131d0aff.JPG",
+        "reactions": 51,
+        "rent": 386.06,
+        "rooms": "1",
+        "size": 40,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3511-wielewaalstraat-11-hardenberg",
+        "year_built": "1972"
     },
     {
         "availableFromDate": "2023-06-15 00:00:00",
