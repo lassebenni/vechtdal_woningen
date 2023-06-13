@@ -1,5 +1,45 @@
 [
     {
+        "availableFromDate": "2023-07-05 00:00:00",
+        "city": "De Krim",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-12 09:03:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e29660d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2ab5e3.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2bee1f.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2cfbed.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2e0e17.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e29660d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2ab5e3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2bee1f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2cfbed.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2e0e17.JPG",
+        "reactions": 51,
+        "rent": 688.05,
+        "rooms": "4",
+        "size": 70,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3514-horstraswijk-26-dekrim",
+        "year_built": "1968"
+    },
+    {
+        "availableFromDate": "2023-07-31 00:00:00",
+        "city": "Dedemsvaart",
+        "corporation": "Vechtdal Wonen",
+        "date_added": "2023-06-12 09:19:00",
+        "picture_urls": [
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1bdb0d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1d69d9.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1ec22d.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f213831.JPG",
+            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f22d2b9.JPG"
+        ],
+        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1bdb0d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1d69d9.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f1ec22d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f213831.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3516-6482e5f22d2b9.JPG",
+        "reactions": 100,
+        "rent": 531.2,
+        "rooms": "2",
+        "size": 57,
+        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3516-sportlaan-24-dedemsvaart",
+        "year_built": "1967"
+    },
+    {
         "availableFromDate": "2023-08-10 00:00:00",
         "city": "Dedemsvaart",
         "corporation": "Vechtdal Wonen",
@@ -69,26 +109,6 @@
         "size": 61,
         "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3519-admiraalhelfrichstraat-79-hardenberg",
         "year_built": "1985"
-    },
-    {
-        "availableFromDate": "2023-07-05 00:00:00",
-        "city": "De Krim",
-        "corporation": "Vechtdal Wonen",
-        "date_added": "2023-06-12 09:03:00",
-        "picture_urls": [
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e29660d.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2ab5e3.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2bee1f.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2cfbed.JPG",
-            "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2e0e17.JPG"
-        ],
-        "picture_urls_str": "https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e29660d.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2ab5e3.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2bee1f.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2cfbed.JPG, https://www.thuistreffervechtdal.nl/portal/uploads/dwelling/pictures/3514-6482e4e2e0e17.JPG",
-        "reactions": 0,
-        "rent": 688.05,
-        "rooms": "4",
-        "size": 70,
-        "url": "https://www.thuistreffervechtdal.nl/aanbod/te-huur/details/3514-horstraswijk-26-dekrim",
-        "year_built": "1968"
     },
     {
         "availableFromDate": "2023-07-28 00:00:00",
