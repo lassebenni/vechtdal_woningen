@@ -4,26 +4,22 @@ on:
   schedule:
     - cron: "05 7 * * *" # every day at 9:05 am
 
+permissions:
+  contents: write
+
 jobs:
   run:
-    strategy:
-      fail-fast: false
-      matrix:
-        python-version: [3.9]
-        os: [ubuntu-20.04]
-    runs-on: ${{ matrix.os }}
+    runs-on: ubuntu-latest
     if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master'}}
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: "3.12"
       - run: pip install -r requirements.txt
       - name: run main.py
         run: |
           python main.py
-        env:
-          SECRET_ENV: ${{ secrets.SECRET_ENV }} # replace me
 
       - uses: lassebenni/publish-to-github-action@master
         if: ${{ github.event_name == 'schedule' || github.ref == 'refs/heads/master' }}

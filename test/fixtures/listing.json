@@ -1,0 +1,303 @@
+{
+  "ID": 41599,
+  "id": 41599,
+  "extraInformatieUrl": null,
+  "tijdelijkVerhuur": 0,
+  "huurtoeslagMogelijk": null,
+  "postalcode": "8265 KD",
+  "street": "Akelei",
+  "houseNumber": "16",
+  "houseNumberAddition": "",
+  "gemeenteGeoLocatieNaam": "Kampen",
+  "rentBuy": "Huur",
+  "VHE": "13156",
+  "energyIndex": null,
+  "zonnepanelen": 1,
+  "gaslozeWoning": 0,
+  "nulOpDeMeterWoning": 0,
+  "availableFromDate": null,
+  "availableFromOriginalDate": "2026-11-20T00:00:00.000Z",
+  "availableTillDate": null,
+  "totalRent": 634.44,
+  "netRent": 633.59,
+  "calculationRent": null,
+  "serviceCosts": 0.85,
+  "heatingCosts": null,
+  "epv": null,
+  "additionalCosts": null,
+  "eenmaligeKosten": null,
+  "flexibelHurenActief": 0,
+  "sellingPrice": null,
+  "latitude": 52.5491,
+  "longitude": 5.8971,
+  "reactieUrl": "",
+  "newlyBuild": 0,
+  "areaDwelling": 55,
+  "volumeDwelling": null,
+  "areaPerceel": null,
+  "areaLivingRoom": 20,
+  "areaSleepingRoom": "12",
+  "lengte": null,
+  "breedte": null,
+  "hoogte": null,
+  "tuin": 1,
+  "storageRoom": 1,
+  "actionLabelFrom": null,
+  "actionLabelUntil": null,
+  "balcony": 0,
+  "constructionYear": "1981",
+  "vatInclusive": 1,
+  "aantalMedebewoners": null,
+  "toewijzingModelTypeInCode": "winkelmodel",
+  "isZelfstandig": 1,
+  "verzameladvertentieID": null,
+  "projectID": null,
+  "projectVerzameladvertentieID": null,
+  "minimumIncome": null,
+  "maximumIncome": null,
+  "minimumHouseholdSize": null,
+  "maximumHouseholdSize": 2,
+  "minimumAge": 18,
+  "maximumAge": null,
+  "inwonendeKinderenMinimum": 0,
+  "inwonendeKinderenMaximum": 0,
+  "leeftijdControleVoorBeideAanvrager": 0,
+  "gebruikAangepasteHuurinkomenstabel": 0,
+  "voorrangLeeftijdMin": null,
+  "voorrangLeeftijdMax": null,
+  "voorrangHuishoudgrootteMin": null,
+  "voorrangHuishoudgrootteMax": null,
+  "voorrangGezinnenKinderen": null,
+  "voorrangKernbinding": 0,
+  "voorrangAlleUrgenties": 0,
+  "extraInschrijfduurUitgeschakeld": 0,
+  "relatieHuurInkomenSetId": 3,
+  "toewijzingID": 42671,
+  "numberOfReactions": 125,
+  "toewijzingHeeftAnnuleerReden": 0,
+  "isExtraAanbod": 0,
+  "reagerenZonderInschrijvingMogelijk": "Nee",
+  "huurinkomenstabelGebruiken": 1,
+  "modelHuurinkomenstabelActief": 1,
+  "modelInZoekprofiel": 1,
+  "showEnergyCosts": 1,
+  "woningTypeInZoekprofiel": 1,
+  "publicationDate": "2026-10-07T10:00:00.000Z",
+  "closingDate": "2026-10-12T10:00:00.000Z",
+  "toewijzingIsGeannuleerd": 0,
+  "isWoningruil": 0,
+  "woningruilprofielGewensteBijzonderhedenOpWebsiteTonen": null,
+  "woningruilprofielHuidigeBijzonderhedenOpWebsiteTonen": null,
+  "regio": {
+    "id": 1,
+    "name": "Woningzoeker regio",
+    "postcodesMetVoorrang": ""
+  },
+  "land": {
+    "id": 524,
+    "name": "Nederland"
+  },
+  "municipality": {
+    "id": 2,
+    "name": "Kampen"
+  },
+  "city": {
+    "id": 2,
+    "name": "Kampen",
+    "gemeenteId": 2
+  },
+  "neighborhood": {
+    "id": 93,
+    "name": "Cellesbroek"
+  },
+  "quarter": {
+    "id": 55,
+    "name": "Cellesbroek",
+    "plaatsId": 2
+  },
+  "corporation": {
+    "id": 3,
+    "code": 3,
+    "logo": "/portal/uploads/corporation/pictures/Deltawonen.jpg",
+    "huurtoeslagTonen": 0,
+    "name": "DeltaWonen",
+    "website": "https://www.deltawonen.nl/",
+    "localizedName": "DeltaWonen"
+  },
+  "eigenaar": {
+    "id": 3,
+    "corporatieId": 3,
+    "voorrangDeelnemendeCorporatie": 0,
+    "website": "",
+    "logo": "",
+    "name": "DeltaWonen"
+  },
+  "dwellingType": {
+    "id": 2,
+    "huurprijsDuurActief": 0,
+    "categorie": "woning",
+    "code": "",
+    "name": "eengezinswoning",
+    "inZoekProfiel": 1,
+    "verwijderd": 0,
+    "localizedName": "eengezinswoning"
+  },
+  "energyLabel": {
+    "id": 1,
+    "icon": "icon_label_a",
+    "localizedNaam": "Energielabel A"
+  },
+  "heating": {
+    "id": 1,
+    "localizedName": "CV"
+  },
+  "sleepingRoom": {
+    "id": 3,
+    "amountOfRooms": 1,
+    "verwijderd": 0,
+    "localizedName": "1 slaapkamer",
+    "naam": "1 slaapkamer"
+  },
+  "kitchen": {
+    "id": 1,
+    "localizedName": "Open keuken"
+  },
+  "attic": {
+    "id": 1,
+    "localizedName": "Geen"
+  },
+  "oppervlakteTuin": null,
+  "floor": {
+    "id": 1,
+    "verdieping": 0,
+    "localizedName": "Begane grond"
+  },
+  "rentDuration": {
+    "id": 1,
+    "inCode": null,
+    "localizedLabel": "maand"
+  },
+  "actionLabel": null,
+  "sorteergroep": null,
+  "huurtoeslagVoorwaarde": null,
+  "gardenSite": {
+    "id": 5,
+    "localizedNaam": "Zuid"
+  },
+  "balconySite": null,
+  "woningsoort": {
+    "id": 1,
+    "isZelfstandig": 1,
+    "icon": "woningsoort_zelfstandig2",
+    "verwijderd": 0,
+    "localizedNaam": "Zelfstandig"
+  },
+  "toewijzingModelCategorie": {
+    "id": 1,
+    "icon": "br_aanbodcooptatie",
+    "toonOpWebsite": 1,
+    "code": "inschrijfduur",
+    "verwijderd": 0
+  },
+  "model": {
+    "id": 1,
+    "code": "aanbodmodel",
+    "actief": 1,
+    "toewijzingModelCategorieId": 1,
+    "advertentieSluitenNaEersteReactie": 0,
+    "einddatumTonen": 1,
+    "aantalReactiesTonen": 1,
+    "slaagkansTonen": 0,
+    "motiverenBijReagerenActief": 0,
+    "motiverenBijReagerenVerplicht": 0,
+    "inZoekProfiel": 1,
+    "modelCategorie": {
+      "id": 1,
+      "icon": "br_aanbodcooptatie",
+      "toonOpWebsite": 1,
+      "code": "inschrijfduur",
+      "verwijderd": 0
+    },
+    "isHospiteren": false
+  },
+  "koopvoorwaarden": null,
+  "specifiekeVoorzieningen": [
+    {
+      "id": 5,
+      "inCode": "Zonnepanelen",
+      "dwellingTypeCategory": "woning",
+      "localizedLabel": "Zonnepanelen aanwezig",
+      "localizedName": "Zonnepanelen aanwezig"
+    },
+    {
+      "id": 7,
+      "inCode": "br_doelgroep_nultrede",
+      "dwellingTypeCategory": "woning",
+      "localizedLabel": "Gelijkvloerse woning",
+      "localizedName": "Gelijkvloerse woning"
+    },
+    {
+      "id": 11,
+      "inCode": "br_berging",
+      "dwellingTypeCategory": "woning",
+      "localizedLabel": "Individuele berging",
+      "localizedName": "Individuele berging"
+    }
+  ],
+  "doelgroepen": [
+    {
+      "id": 1,
+      "code": "regulier",
+      "icon": "br_doelgroep_regulier",
+      "verwijderd": 0,
+      "localizedNaam": "Woning (niet voor studenten)"
+    }
+  ],
+  "servicecomponentenBinnenServicekosten": [],
+  "servicecomponentenBuitenServicekosten": [],
+  "bestemming": null,
+  "toegankelijkheid": [],
+  "eenmaligeKostenSpecificatie": [],
+  "typeContract": null,
+  "bijzondereDoelgroep": null,
+  "KoopprijsType": null,
+  "Koopproducten": null,
+  "Koopkorting": null,
+  "floorplans": [
+    {
+      "label": "",
+      "uri": "/portal/uploads/dwelling/floorplans/41599-6ac5eebab843b.pdf"
+    }
+  ],
+  "pictures": [
+    {
+      "label": "",
+      "type": "JPG",
+      "uri": "/portal/uploads/dwelling/pictures/41599-6ac5f2df37032.JPG"
+    }
+  ],
+  "energyCosts": [],
+  "videos": [],
+  "urlKey": "41599-akelei-16-kampen",
+  "inschrijvingVereistVoorReageren": true,
+  "isExternModelType": false,
+  "objectType": "object",
+  "sorteringBeleidsregels": [],
+  "reactieBeleidsregels": [],
+  "huurLigtOpOfOnderHuurtoeslaggrens": true,
+  "huurLigtOpOfOnderKwaliteitskortingsgrens": false,
+  "valtInPostcodereeksVoorrang": false,
+  "woningruilprofiel": {
+    "gewensteBijzonderheden": null,
+    "huidigeBijzonderheden": null
+  },
+  "isHaastrijWoning": false,
+  "infoveld": "",
+  "infoveldKort": "",
+  "infoveldBewoners": null,
+  "actielabelToelichting": "",
+  "availableFrom": "omstreeks 20 november 2026",
+  "actionLabelIfActive": false,
+  "actionLabelIsActive": false,
+  "isGepubliceerd": true
+}

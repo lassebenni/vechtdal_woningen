@@ -1,63 +1,69 @@
 import logging
-from typing import Dict, List
+from typing import Dict, List, Union
+
 import requests
-import json
 
 from models.listing import Listing, create_listing, store_listings
 
 logger = logging.getLogger(__name__)
 
 
-URL = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getallobjects/format/json"
+URL = "https://dewoningzoeker-aanbodapi.zig365.nl/api/v1/actueel-aanbod"
+PAGE_SIZE = 60
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:95.0) Gecko/20100101 Firefox/95.0",
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:156.0) Gecko/20100101 Firefox/156.0",
     "Accept": "application/json, text/plain, */*",
-    "Accept-Language": "en-US,en;q=0.5",
-    "Referer": "https://www.thuistreffervechtdal.nl/aanbod/te-huur",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Content-Type": "application/json; charset=utf-8",
     "X-Requested-With": "XMLHttpRequest",
-    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
-    "Content-Length": "0",
-    "Origin": "https://www.thuistreffervechtdal.nl",
-    "Connection": "keep-alive",
-    "Sec-Fetch-Dest": "empty",
-    "Sec-Fetch-Mode": "cors",
-    "Sec-Fetch-Site": "same-origin",
-    "TE": "trailers",
+    "Origin": "https://www.dewoningzoeker.nl",
+    "Referer": "https://www.dewoningzoeker.nl/",
+}
+
+# Same filters the website sends for anonymous visitors: all rental homes.
+BODY = {
+    "hidden-filters": {
+        "$and": [
+            {"dwellingType.categorie": {"$eq": "woning"}},
+            {"rentBuy": {"$eq": "Huur"}},
+            {"isExtraAanbod": {"$eq": ""}},
+            {"isWoningruil": {"$eq": ""}},
+        ]
+    }
 }
 
 
+def fetch_page(page: int) -> Dict:
+    params: Dict[str, Union[str, int]] = {
+        "limit": PAGE_SIZE,
+        "locale": "nl_NL",
+        "page": page,
+        "sort": "-publicationDate",
+    }
+    response = requests.post(URL, headers=HEADERS, params=params, json=BODY, timeout=30)
+    response.raise_for_status()
+    return response.json()
+
+
 def scrape_listings():
-    response = requests.request("GET", URL, headers=HEADERS)
+    fetched_listings: List[Listing] = []
 
-    _res = json.loads(response.text)
+    page, page_count = 0, 1
+    while page < page_count:
+        _res = fetch_page(page)
+        page_count = _res["_metadata"]["page_count"]
 
-    if _res and "result" in _res:
-
-        fetched_listings: List[Listing] = []
-        for listing in _res["result"]:
+        for listing in _res["data"]:
             try:
-                detailed_listing = fetch_detailed_listing(listing["id"])
-                fetched_listings.append(create_listing(detailed_listing))
-            except Exception as e:
-                logger.error(f"Error while fetching listing: {listing}")
+                fetched_listings.append(create_listing(listing))
+            except Exception:
+                logger.exception(f"Error while parsing listing: {listing.get('id')}")
                 continue
 
-        if fetched_listings:
-            store_listings(fetched_listings)
-        else:
-            logger.info("No listings found.")
+        page += 1
 
-
-def fetch_detailed_listing(listing_id: str):
-    url = "https://www.thuistreffervechtdal.nl/portal/object/frontend/getobject/format/json"
-    response = requests.request("POST", url, headers=HEADERS, data=f"id={listing_id}")
-
-    _res = json.loads(response.text)
-
-    if _res and "result" in _res:
-        listing = _res["result"]
-        return listing
+    if fetched_listings:
+        store_listings(fetched_listings)
     else:
-        print(f"No listing found for id: {listing_id}")
-        return None
+        logger.info("No listings found.")
